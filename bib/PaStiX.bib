@@ -746,6 +746,27 @@ conference},
   ABSTRACT = {In this talk, we describe a preliminary fast direct solver using HODLR library to compress large blocks appearing in the symbolic structure of the PaStiX sparse direct solver. We will present our general strategy before analyzing the practical gains in terms of memory and floating point operations with respect to a theoretical study of the problem. Finally, we will discuss ways to enhance the overall performance of the solver.}
 }
 
+@InProceedings{C:LaBRI::pp20,
+  author = 	 {Pichon, G. and Korkmaz, E. and Faverge, M. and Ramet, P.},
+  title = 	 {{Recent Developments Around the Block Low-Rank PaStiX Solver}},
+  OPTcrossref =  {},
+  OPTkey = 	 {},
+  booktitle = {19th {SIAM} Conference on Parallel Processing for Scientific Computing},
+  OPTpages = 	 {},
+  year = 	 {2020},
+  OPTeditor = 	 {},
+  OPTvolume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Seattle, USA},
+  month = 	 feb,
+  OPTorganization = {},
+  OPTpublisher = {},
+  note = 	 {Minisymposium on Low-Rank Compression-Based Fast Sparse Direct Solvers},
+  OPTannote = 	 {},
+  KEYWORDS =     "Sparse"
+}
+
 @InProceedings{C:LaBRI::an16,
   author = 	 {Pichon, G. and Darve, E. and Faverge, M. and Ramet, P. and Roman, J.},
   title = 	 {On the use of low rank approximations for sparse direct solvers},
@@ -2230,6 +2251,49 @@ In the context of solving sparse linear systems, an ordering process partitions 
   HAL_VERSION = {v1},
   ABSTRACT = {In this talk, we will present recent advances on PaStiX, a supernodal sparse direct solver, which has been enhanced by the introduction of Block Low-Rank compression. We will describe different strategies leading to memory consumption gain and/or time-to-solution reduction. Finally, the implementation on top of runtime systems (Parsec, StarPU), will be compared with the static scheduling used in previous experiments.}
 }
+
+@inproceedings{korkmaz:hal-02326084,
+  TITLE = {{Rank Revealing QR Methods for Sparse Block Low Rank Solvers}},
+  AUTHOR = {Korkmaz, Esragul and Faverge, Mathieu and Pichon, Gr{\'e}goire and Ramet, Pierre},
+  URL = {https://hal.inria.fr/hal-02326084},
+  BOOKTITLE = {{COMPAS 2019 - Conf{\'e}rence d'informatique en Parall{\'e}lisme, Architecture et Syst{\`e}me}},
+  ADDRESS = {Anglet, France},
+  YEAR = {2019},
+  MONTH = Jun,
+  KEYWORDS = {Sparse ; Randomized},
+  PDF = {https://hal.inria.fr/hal-02326084/file/demo.pdf},
+  HAL_ID = {hal-02326084},
+  HAL_VERSION = {v1},
+}
+
+@inproceedings{korkmaz:hal-02326070,
+  TITLE = {{Rank Revealing QR Methods for Sparse Block Low Rank Solvers}},
+  AUTHOR = {Korkmaz, Esragul and Faverge, Mathieu and Pichon, Gr{\'e}goire and Ramet, Pierre},
+  URL = {https://hal.inria.fr/hal-02326070},
+  BOOKTITLE = {{Sparse Days 2019}},
+  ADDRESS = {Toulouse, France},
+  YEAR = {2019},
+  MONTH = Jul,
+  KEYWORDS = {Sparse ; Randomized},
+  PDF = {https://hal.inria.fr/hal-02326070/file/demo.pdf},
+  HAL_ID = {hal-02326070},
+  HAL_VERSION = {v1},
+}
+
+@misc{pichon:hal-02326407,
+  TITLE = {{Sparse supernodal solver using block low-rank compression: Design, performance and analysis}},
+  AUTHOR = {Pichon, Gr{\'e}goire and Darve, E and Faverge, Mathieu and Korkmaz, Esragul and Ramet, Pierre and Roman, Jean},
+  URL = {https://hal.inria.fr/hal-02326407},
+  HOWPUBLISHED = {{JOREK development meeting}},
+  YEAR = {2019},
+  MONTH = Nov,
+  KEYWORDS = {Sparse ; Randomized},
+  PDF = {https://hal.inria.fr/hal-02326407/file/jorek.pdf},
+  HAL_ID = {hal-02326407},
+  HAL_VERSION = {v1},
+}
+
+
 
 @article{pichon:hal-01824275,
   TITLE = {{Sparse supernodal solver using block low-rank compression: Design, performance and analysis}},
