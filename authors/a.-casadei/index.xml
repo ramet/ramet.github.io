@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Casadei | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/a.-casadei/</link>
+      <atom:link href="https://ramet.github.io/authors/a.-casadei/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Casadei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>A. Casadei</title>
+      <link>https://ramet.github.io/authors/a.-casadei/</link>
+    </image>
+    
+    <item>
+      <title>Optimizations of hybrid sparse linear solvers relying on Schur complement and domain decomposition approaches</title>
+      <link>https://ramet.github.io/publication/t-la-bri-ac-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/t-la-bri-ac-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a recursive graph bipartitioning algorithm for well balanced domain decomposition</title>
+      <link>https://ramet.github.io/publication/c-la-bri-iciam-15-b/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-iciam-15-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a recursive graph bipartitioning algorithm for well balanced domain decomposition</title>
+      <link>https://ramet.github.io/publication/c-la-bri-cse-15-b/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-cse-15-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An improved recursive graph bipartitioning algorithm for well balanced domain decomposition</title>
+      <link>https://ramet.github.io/publication/c-la-bri-hipc-14/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-hipc-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An improved recursive graph bipartitioning algorithm for well balanced domain decomposition</title>
+      <link>https://ramet.github.io/publication/casadei-hal-01056749/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/casadei-hal-01056749/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nested Dissection with Balanced Halo</title>
+      <link>https://ramet.github.io/publication/c-la-bri-csc-14/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-csc-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Domain Decomposition with Balanced Halo</title>
+      <link>https://ramet.github.io/publication/c-la-bri-nd-40-a/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-nd-40-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory Optimization to Build a Schur Complement</title>
+      <link>https://ramet.github.io/publication/c-la-bri-la-12-a/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-la-12-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory Optimization to Build a Schur Complement in an Hybrid Solver</title>
+      <link>https://ramet.github.io/publication/astrid-hal-00700053/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/astrid-hal-00700053/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

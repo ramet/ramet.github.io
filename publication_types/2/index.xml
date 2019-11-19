@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Pierre Ramet</title>
+    <link>https://ramet.github.io/publication_types/2/</link>
+      <atom:link href="https://ramet.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://ramet.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Parallel Solution of the 3D Stationary Boltzmann Transport Equation for Diffusive Problems</title>
+      <link>https://ramet.github.io/publication/moustafa-hal-02080624/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/moustafa-hal-02080624/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01824275/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01824275/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reordering Strategy for Blocking Optimization in Sparse Linear Solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01485507/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01485507/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient parallel resolution of the simplified transport equations in mixed-dual formulation</title>
+      <link>https://ramet.github.io/publication/a-la-bri-jcp-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-jcp-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear MHD simulations of edge localized modes (ELMs)</title>
+      <link>https://ramet.github.io/publication/a-la-bri-eps-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-eps-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulation of unsteady MHD flows and applications</title>
+      <link>https://ramet.github.io/publication/a-la-bri-mhd-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-mhd-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On finding approximate supernodes for an efficient ILU(k) factorization</title>
+      <link>https://ramet.github.io/publication/a-la-bri-hrr-07/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-hrr-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Parallel Multilevel ILU Factorization based on a Hierarchical Graph Decomposition</title>
+      <link>https://ramet.github.io/publication/a-la-bri-sisc-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-sisc-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of a kinetic laser-plasma interaction code for large parallel systems</title>
+      <link>https://ramet.github.io/publication/a-la-bri-pmaa-2002-c/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-pmaa-2002-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PaStiX: A High-Performance Parallel Direct Solver for Sparse Symmetric Definite Systems</title>
+      <link>https://ramet.github.io/publication/a-la-bri-hrr-01-a/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-hrr-01-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scilab to Scilab//, the OURAGAN Project</title>
+      <link>https://ramet.github.io/publication/a-la-bri-ccc-01/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-ccc-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Sparse Linear Algebra and Application to Structural Mechanics</title>
+      <link>https://ramet.github.io/publication/a-la-bri-ghprrp-3/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-ghprrp-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

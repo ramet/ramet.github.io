@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>randomized | Pierre Ramet</title>
+    <link>https://ramet.github.io/tags/randomized/</link>
+      <atom:link href="https://ramet.github.io/tags/randomized/index.xml" rel="self" type="application/rss+xml" />
+    <description>randomized</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>randomized</title>
+      <link>https://ramet.github.io/tags/randomized/</link>
+    </image>
+    
+    <item>
+      <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
+      <link>https://ramet.github.io/publication/pichon-hal-02326407/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-02326407/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank Revealing QR Methods for Sparse Block Low Rank Solvers</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-02326070/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-02326070/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank Revealing QR Methods for Sparse Block Low Rank Solvers</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-02326084/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-02326084/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

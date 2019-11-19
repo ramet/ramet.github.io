@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. Vasseur | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/x.-vasseur/</link>
+      <atom:link href="https://ramet.github.io/authors/x.-vasseur/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. Vasseur</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>X. Vasseur</title>
+      <link>https://ramet.github.io/authors/x.-vasseur/</link>
+    </image>
+    
+    <item>
+      <title>Augmentation and Deflation in Krylov subspace methods</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pareng-13/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pareng-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deflation and augmentation techniques in Krylov lienar solvers</title>
+      <link>https://ramet.github.io/publication/coulaud-hal-00803225/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/coulaud-hal-00803225/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developments in Parallel, Distributed, Grid and Cloud Computing for Engineering</title>
+      <link>https://ramet.github.io/publication/a-la-bri-pareng-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-pareng-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

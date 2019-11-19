@@ -1,22 +1,483 @@
-<html>
+<!DOCTYPE html>
+<html lang="en-us">
 
-<title>
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Pierre Ramet">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Assistant Professor of Computer Science">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ramet.github.io/bib/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="hsl(339, 90%, 68%)">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  <link rel="alternate" href="/bib/index.xml" type="application/rss+xml" title="Pierre Ramet">
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://ramet.github.io/bib/">
+
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Pierre Ramet">
+  <meta property="og:url" content="https://ramet.github.io/bib/">
+  <meta property="og:title" content="bibtex2html | Pierre Ramet">
+  <meta property="og:description" content="Assistant Professor of Computer Science"><meta property="og:image" content="https://ramet.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://ramet.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+    
+  
+
+  
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>bibtex2html | Pierre Ramet</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Pierre Ramet</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>About</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/hal/"><span>HAL</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/bib/"><span>BIB</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1>bibtex2html</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  
+  <div class="article-style"><p><html></p>
+
+<p><title>
 List of publications: index</title>
 <META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <META name="keywords" lang="en" content="bibtex2html, bibliography, article, report">
 <META name="GENERATOR" content="bibtex2html 1.01">
 </head>
-<body bgcolor="#ffffff" link="blue" alink="blue" vlink="blue">
+<body bgcolor="#ffffff" link="blue" alink="blue" vlink="blue"></p>
 
-<br />
+<p><br />
 <table width="100%">
 <tr><td height="50" bgcolor="#669999" align="center">
 <strong><font size=6 color="#ffffff" face="times">
 List of publications: index
 </font></strong>
 </td></tr>
-</table>
-
+</table></p>
 
 <table width="100%">
 <tr><td height="35"  align="center" valign="center" bgcolor="#badfe1">
@@ -26,9 +487,7 @@ Selection by year
 </td></tr>
 </table>
 
-
-
-<br /><table align="center" cellpadding="4" cellspacing="2">
+<p><br /><table align="center" cellpadding="4" cellspacing="2">
 <tr align="left" valign="top">
 <td><a href="Year/2020.html">2020</a></td>
 <td><a href="Year/2019.html">2019</a></td>
@@ -62,8 +521,7 @@ Selection by year
 <td></td>
 <td></td>
 </tr>
-</table><br />
-
+</table><br /></p>
 
 <table width="100%">
 <tr><td height="35"  align="center" valign="center" bgcolor="#badfe1">
@@ -73,9 +531,7 @@ Selection by category
 </td></tr>
 </table>
 
-
-
-<br /><table align="center" cellpadding="4" cellspacing="2">
+<p><br /><table align="center" cellpadding="4" cellspacing="2">
 <tr align="left" valign="top">
 <td><a href="Category/thesis.html">Thesis</a></td>
 <td><a href="Category/articles.html">Articles in journal, book chapters</a></td>
@@ -86,8 +542,7 @@ Selection by category
 <td><a href="Category/misc.html">Miscellaneous</a></td>
 <td></td>
 </tr>
-</table><br />
-
+</table><br /></p>
 
 <table width="100%">
 <tr><td height="35"  align="center" valign="center" bgcolor="#badfe1">
@@ -97,9 +552,7 @@ Selection by author
 </td></tr>
 </table>
 
-
-
-<br /><table align="center" cellpadding="4" cellspacing="4">
+<p><br /><table align="center" cellpadding="4" cellspacing="4">
 <tr align="center">
 <td bgcolor="#badfe1"><a href="#AUTHA">A</a></td>
 <td bgcolor="#badfe1">B</td>
@@ -131,7 +584,7 @@ Selection by author
 <td bgcolor="#badfe1">Z</td>
 <td bgcolor="#badfe1"></td>
 <td></td>
-</table><br />
+</table><br /></p>
 
 <table align="center" cellpadding="3" cellspacing="1">
 <tr align="left" valign="top">
@@ -166,7 +619,7 @@ Selection by author
 </tr>
 <tr align="left" valign="top">
 <td bgcolor="#badfe1"><strong>H</strong></td>
-<td><a name="AUTHH"></a><a href="Author/HENON-P.html">Pascal <strong>Hénon</strong></a></td>
+<td><a name="AUTHH"></a><a href="Author/HENON-P.html">Pascal <strong>HÃ©non</strong></a></td>
 <td></td>
 <td></td>
 </tr>
@@ -179,7 +632,7 @@ Selection by author
 <tr align="left" valign="top">
 <td bgcolor="#badfe1"><strong>L</strong></td>
 <td><a name="AUTHL"></a><a href="Author/LACOSTE-X.html">Xavier <strong>Lacoste</strong></a></td>
-<td><a href="Author/LATHUILIERE-B.html">B. <strong>Lathuilière</strong></a></td>
+<td><a href="Author/LATHUILIERE-B.html">B. <strong>LathuiliÃ¨re</strong></a></td>
 <td></td>
 </tr>
 <tr align="left" valign="top">
@@ -191,7 +644,7 @@ Selection by author
 <tr align="left" valign="top">
 <td bgcolor="#badfe1"><strong>P</strong></td>
 <td><a name="AUTHP"></a><a href="Author/PELLEGRINI-F.html">F. <strong>Pellegrini</strong></a></td>
-<td><a href="Author/PICHON-G.html">Grégoire <strong>Pichon</strong></a></td>
+<td><a href="Author/PICHON-G.html">GrÃ©goire <strong>Pichon</strong></a></td>
 <td></td>
 </tr>
 <tr align="left" valign="top">
@@ -212,9 +665,7 @@ Selection by keyword
 </td></tr>
 </table>
 
-
-
-<br /><table align="center" cellpadding="4" cellspacing="4">
+<p><br /><table align="center" cellpadding="4" cellspacing="4">
 <tr align="center">
 <td bgcolor="#badfe1">A</td>
 <td bgcolor="#badfe1">B</td>
@@ -246,7 +697,7 @@ Selection by keyword
 <td bgcolor="#badfe1">Z</td>
 <td></td>
 <td></td>
-</table><br />
+</table><br /></p>
 
 <table align="center" cellpadding="3" cellspacing="1">
 <tr align="left" valign="top">
@@ -297,9 +748,7 @@ Complete bibliography
 </td></tr>
 </table>
 
-
-
-<br /><table align="center" cellpadding="4" cellspacing="2">
+<p><br /><table align="center" cellpadding="4" cellspacing="2">
 <tr align="left" valign="top">
 <td><a href="Biblio/complete-bibliography.html">Complete bibliography as a single HTML page</a>
 </td>
@@ -308,50 +757,228 @@ Complete bibliography
 <td><a href="Biblio/complete-bibliography.bib">Complete bibliography as a single BIBTEX file</a>
 </td>
 </tr>
-</table><br />
+</table><br /></p>
 
- 
-<br /><hr size="2" width="100%"><br />
+<p><br /><hr size="2" width="100%"><br /></p>
 
-<u><strong>Disclaimer:</strong></u><br /><br />
+<p><u><strong>Disclaimer:</strong></u><br /><br />
 <p><em>
 This material is presented to ensure timely dissemination of
 scholarly and technical work. Copyright and all rights therein
 are retained by authors or by other copyright holders.
 All person copying this information are expected to adhere to
-the terms and constraints invoked by each author's copyright.
+the terms and constraints invoked by each author&rsquo;s copyright.
 In most cases, these works may not be reposted
-without the explicit permission of the copyright holder.
+without the explicit permission of the copyright holder.</p>
 
-</em></p>
+<p></em></p>
 <p><em>
-Les documents contenus dans ces répertoires sont rendus disponibles
-par les auteurs qui y ont contribué en vue d'assurer la diffusion
-à temps de travaux savants et techniques sur une base non-commerciale.
-Les droits de copie et autres droits sont gardés par les auteurs
-et par les détenteurs du copyright, en dépit du fait qu'ils présentent
-ici leurs travaux sous forme électronique. Les personnes copiant ces
-informations doivent adhérer aux termes et contraintes couverts par
-le copyright de chaque auteur. Ces travaux ne peuvent pas être
-rendus disponibles ailleurs sans la permission explicite du détenteur
-du copyright.
+Les documents contenus dans ces rÃ©pertoires sont rendus disponibles
+par les auteurs qui y ont contribuÃ© en vue d&rsquo;assurer la diffusion
+Ã  temps de travaux savants et techniques sur une base non-commerciale.
+Les droits de copie et autres droits sont gardÃ©s par les auteurs
+et par les dÃ©tenteurs du copyright, en dÃ©pit du fait qu&rsquo;ils prÃ©sentent
+ici leurs travaux sous forme Ã©lectronique. Les personnes copiant ces
+informations doivent adhÃ©rer aux termes et contraintes couverts par
+le copyright de chaque auteur. Ces travaux ne peuvent pas Ãªtre
+rendus disponibles ailleurs sans la permission explicite du dÃ©tenteur
+du copyright.</p>
 
-</em></p>
+<p></em></p></p>
 
-<br /><hr size="2" width="100%"><br />
+<p><br /><hr size="2" width="100%"><br /></p>
 
-Last modified: Tue Oct 22 17:26:59 2019
+<p>Last modified: Tue Nov 19 11:02:52 2019</p>
 
-<br />Author: ramet.
+<p><br />Author: ramet.</p>
 
-<br /><hr size="2" width="100%"><br />
+<p><br /><hr size="2" width="100%"><br /></p>
 
 <p>This document was translated from BibT<sub>E</sub>X by
 <a href="http://www-sop.inria.fr/epidaure/personnel/malandain/codes/bibtex2html.html"><em>bibtex2html</em></a>
 </p>
 
+<p></body></p>
+
+<p></html></p>
+</div>
+  
+
+  
+  
+
+  
+
+</div>
+
+      
+
+    
+    
+    
+    <script src="/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.3.1/mermaid.min.js" integrity="sha256-vOIuDSYDirTfyr+S2MjFnhOz6Rgiz4ODFAHATG0rFxw=" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/c.min.js"></script>
+        
+      
+
+      
+      
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
 
 </body>
-
-
 </html>

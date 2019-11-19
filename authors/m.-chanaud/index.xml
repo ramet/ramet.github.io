@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Chanaud | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/m.-chanaud/</link>
+      <atom:link href="https://ramet.github.io/authors/m.-chanaud/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Chanaud</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>M. Chanaud</title>
+      <link>https://ramet.github.io/authors/m.-chanaud/</link>
+    </image>
+    
+    <item>
+      <title>Résolution des systèmes lináires sur calculateurs p&#39;áflopiques</title>
+      <link>https://ramet.github.io/publication/c-la-bri-chocs/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-chocs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conception d&#39;un solveur haute performance de systèmes linéaires creux couplant des mt́hodes multigrilles et directes pour la r&#39;ólution des &#39;eátions de Maxwell 3D en r&#39;egé harmonique discr&#39;eti&#39;́ees ŕ &#39;el&#39;eńtsínis</title>
+      <link>https://ramet.github.io/publication/t-la-bri-mc-09/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/t-la-bri-mc-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Giraud | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/l.-giraud/</link>
+      <atom:link href="https://ramet.github.io/authors/l.-giraud/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Giraud</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>L. Giraud</title>
+      <link>https://ramet.github.io/authors/l.-giraud/</link>
+    </image>
+    
+    <item>
+      <title>Toward parallel scalable linear solvers suited for large scale hierarchical parallel platforms</title>
+      <link>https://ramet.github.io/publication/c-la-bri-hoscar-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-hoscar-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward parallel scalable linear solvers suited for large scale hierarchical parallel platforms</title>
+      <link>https://ramet.github.io/publication/c-la-bri-ecfd-14-a/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-ecfd-14-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Domain Decomposition with Balanced Halo</title>
+      <link>https://ramet.github.io/publication/c-la-bri-nd-40-a/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-nd-40-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmentation and Deflation in Krylov subspace methods</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pareng-13/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pareng-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deflation and augmentation techniques in Krylov lienar solvers</title>
+      <link>https://ramet.github.io/publication/coulaud-hal-00803225/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/coulaud-hal-00803225/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developments in Parallel, Distributed, Grid and Cloud Computing for Engineering</title>
+      <link>https://ramet.github.io/publication/a-la-bri-pareng-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-pareng-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Résolution des systèmes lináires sur calculateurs p&#39;áflopiques</title>
+      <link>https://ramet.github.io/publication/c-la-bri-chocs/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-chocs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

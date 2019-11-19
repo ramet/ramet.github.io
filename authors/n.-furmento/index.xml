@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Furmento | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/n.-furmento/</link>
+      <atom:link href="https://ramet.github.io/authors/n.-furmento/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Furmento</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>N. Furmento</title>
+      <link>https://ramet.github.io/authors/n.-furmento/</link>
+    </image>
+    
+    <item>
+      <title>Matrices over Runtime Systems at Exascale</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sc-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sc-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

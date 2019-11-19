@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Bosilca | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/g.-bosilca/</link>
+      <atom:link href="https://ramet.github.io/authors/g.-bosilca/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Bosilca</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>G. Bosilca</title>
+      <link>https://ramet.github.io/authors/g.-bosilca/</link>
+    </image>
+    
+    <item>
+      <title>Taking advantage of hybrid systems for sparse direct solvers via task-based runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-hcw-14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-hcw-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking advantage of hybrid systems for sparse direct solvers via task-based runtimes</title>
+      <link>https://ramet.github.io/publication/lacoste-hal-00925017/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/lacoste-hal-00925017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrices over Runtime Systems at Exascale</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sc-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sc-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a supernodal sparse direct solver over DAG runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2012/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

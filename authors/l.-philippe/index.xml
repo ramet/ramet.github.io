@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Philippe | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/l.-philippe/</link>
+      <atom:link href="https://ramet.github.io/authors/l.-philippe/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Philippe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>L. Philippe</title>
+      <link>https://ramet.github.io/authors/l.-philippe/</link>
+    </image>
+    
+    <item>
+      <title>Scilab to Scilab//, the OURAGAN Project</title>
+      <link>https://ramet.github.io/publication/a-la-bri-ccc-01/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-ccc-01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

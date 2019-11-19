@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Beaugendre | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/h.-beaugendre/</link>
+      <atom:link href="https://ramet.github.io/authors/h.-beaugendre/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Beaugendre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>H. Beaugendre</title>
+      <link>https://ramet.github.io/authors/h.-beaugendre/</link>
+    </image>
+    
+    <item>
+      <title>Benchmarking of the linear solver PaStiX for integration in LESCAPE</title>
+      <link>https://ramet.github.io/publication/c-la-bri-lescape/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-lescape/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

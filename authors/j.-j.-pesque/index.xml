@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.-J. Pesque | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/j.-j.-pesque/</link>
+      <atom:link href="https://ramet.github.io/authors/j.-j.-pesque/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.-J. Pesque</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>J.-J. Pesque</title>
+      <link>https://ramet.github.io/authors/j.-j.-pesque/</link>
+    </image>
+    
+    <item>
+      <title>Résolution des systèmes lináires sur calculateurs p&#39;áflopiques</title>
+      <link>https://ramet.github.io/publication/c-la-bri-chocs/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-chocs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outils numériques parallèles pour la rśolution de trs̀ grands probl`ès d&#39;&#39;éctromagn&#39;eśme</title>
+      <link>https://ramet.github.io/publication/c-la-bri-ghmmprrp-03/</link>
+      <pubDate>Thu, 01 May 2003 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-ghmmprrp-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Description of the EMILIO Software Processing Chain and Application to Structural Mechanics</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2-k-2/</link>
+      <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2-k-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Sparse Linear Algebra and Application to Structural Mechanics</title>
+      <link>https://ramet.github.io/publication/c-la-bri-actc/</link>
+      <pubDate>Mon, 01 May 2000 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-actc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Sparse Linear Algebra and Application to Structural Mechanics</title>
+      <link>https://ramet.github.io/publication/a-la-bri-ghprrp-3/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-ghprrp-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algèbre Linéaire Creuse Paralll̀e pour les Mt́hodes Directes : Application `l̀a Parall&#39;ísation d&#39;un Code de M&#39;eńique des Structures</title>
+      <link>https://ramet.github.io/publication/c-la-bri-ghprrp-1/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-ghprrp-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Sparse Linear Algebra and Application to Structural Mechanics</title>
+      <link>https://ramet.github.io/publication/c-la-bri-spworld/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-spworld/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

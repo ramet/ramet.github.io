@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Faverge | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/m.-faverge/</link>
+      <atom:link href="https://ramet.github.io/authors/m.-faverge/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Faverge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>M. Faverge</title>
+      <link>https://ramet.github.io/authors/m.-faverge/</link>
+    </image>
+    
+    <item>
+      <title>Recent Developments Around the Block Low-Rank PaStiX Solver</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pp-20/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Block Low-rank Algebraic Clustering for Sparse Direct Solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01956962/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01956962/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Parameterized Task-graph in Sparse Direct Solvers</title>
+      <link>https://ramet.github.io/publication/faverge-hal-01956963/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/faverge-hal-01956963/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation de la compression low-rank pour réduire la complexité du solveur PaStiX</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01956928/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01956928/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01824275/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01824275/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation de la compression Block Low-Rank pour accélérer un solveur direct creux supernodal</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01956959/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01956959/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supernodes ordering to enhance Block Low-Rank compression in sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01956960/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01956960/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Supernodal Solver Using Block Low-Rank Compression: design, performance and analysis</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01660665/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01660665/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse supernodal solver with low-rank compression for solving the frequency-domain Maxwell equations discretized by a high order HDG method</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01660653/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01660653/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Parallel Solution of the 3D Stationary Boltzmann Transport Equation for Diffusive Problems</title>
+      <link>https://ramet.github.io/publication/faverge-hal-01630208/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/faverge-hal-01630208/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Supernodal Solver exploiting Low-Rankness Property</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01585622/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01585622/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Supernodal Solver Using Block Low-Rank Compression</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01502215/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01502215/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Modern Manycore Architecture in Sparse Direct Solver with Runtime Systems</title>
+      <link>https://ramet.github.io/publication/c-la-bri-siam-2017-b/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-siam-2017-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Blocking Strategies for Sparse Direct Solvers on Top of Generic Runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-siam-2017-c/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-siam-2017-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Supernodal Solver Using Hierarchical Compression over Runtime System</title>
+      <link>https://ramet.github.io/publication/c-la-bri-siam-2017-a/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-siam-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reordering Strategy for Blocking Optimization in Sparse Linear Solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01485507/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01485507/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Supernodal Solver Using Block Low-Rank Compression</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01450732/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01450732/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Supernodal Solver Using Hierarchical Compression</title>
+      <link>https://ramet.github.io/publication/c-la-bri-purdue-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-purdue-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Kepler architecture in sparse direct solver with runtime systems</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the use of low rank approximations for sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/c-la-bri-an-16/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-an-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting H-Matrices in Sparse Direct Solvers</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pp-16-b/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pp-16-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Blocking Strategies for Sparse Direct Solvers on Top of Generic Runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pp-16-a/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pp-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reordering strategy for blocking optimization in sparse linear solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01276746/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01276746/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocking strategy optimizations for sparse direct linear solver on heterogeneous architectures</title>
+      <link>https://ramet.github.io/publication/c-la-bri-hoscar-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-hoscar-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PaStiX: Parallel Sparse Matrix Package</title>
+      <link>https://ramet.github.io/publication/c-la-bri-jdev/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-jdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocking Strategy Optimization for Sparse Direct Linear Solvers on Heterogeneous Architectures</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pastix-solhar-3/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pastix-solhar-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocking strategy optimizations for sparse direct linear solver on heterogeneous architectures</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sparsedays-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sparsedays-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the use of H-Matrix Arithmetic in PaStiX: a Preliminary Study</title>
+      <link>https://ramet.github.io/publication/c-la-bri-cimi-15/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-cimi-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Cartesian Transport Sweep for Massively Parallel Architectures with PARSEC</title>
+      <link>https://ramet.github.io/publication/moustafa-hal-01078362/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/moustafa-hal-01078362/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divide and Conquer Symmetric Tridiagonal Eigensolver for Multicore Architectures</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01078356/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01078356/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simul&#39;Elec and PASTIX interface specifications</title>
+      <link>https://ramet.github.io/publication/alaya-hal-01142204/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/alaya-hal-01142204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A task-based sparse direct solver suited for large scale hierarchical/heterogeneous architectures</title>
+      <link>https://ramet.github.io/publication/c-la-bri-cse-15-a/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-cse-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etude de la factorisation directe hétŕogène et de la factorisation incomplt̀e sur solveur PaStiX appliqu&#39;ś `d̀es syst`es̀ issus de probl`em ̀du CEA/CESTA</title>
+      <link>https://ramet.github.io/publication/f-la-bri-cesta-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/f-la-bri-cesta-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed sparse matrix factorization on top of tasks based runtime systems</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pastix-solhar-2/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pastix-solhar-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward parallel scalable linear solvers suited for large scale hierarchical parallel platforms</title>
+      <link>https://ramet.github.io/publication/c-la-bri-hoscar-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-hoscar-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel 3D Sweep Kernel with PARSEC</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sweep-2013/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sweep-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Cartesian Transport Sweep for Massively Parallel Architectures on top of PaRSEC</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sweep-scheduling/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sweep-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Algorithms for Dense Linear Algebra</title>
+      <link>https://ramet.github.io/publication/c-la-bri-cp-ub/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-cp-ub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward parallel scalable linear solvers suited for large scale hierarchical parallel platforms</title>
+      <link>https://ramet.github.io/publication/c-la-bri-ecfd-14-a/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-ecfd-14-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Cartesian Transport Sweep for Massively Parallel Architectures on top of PaRSEC</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sweep-solhar/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sweep-solhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking advantage of hybrid systems for sparse direct solvers via task-based runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-hcw-14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-hcw-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking advantage of hybrid systems for sparse direct solvers via task-based runtimes</title>
+      <link>https://ramet.github.io/publication/lacoste-hal-00925017/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/lacoste-hal-00925017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Linear Algebra over DAG Runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pastix-solhar/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pastix-solhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Linear Algebra over DAG Runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-siam-2013/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-siam-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrices over Runtime Systems at Exascale</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sc-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sc-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling for Sparse Solver on Manycore Architectures</title>
+      <link>https://ramet.github.io/publication/c-la-bri-hoscar-2012-b/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-hoscar-2012-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse direct solvers with accelerators over DAG runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-hoscar-2012-a/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-hoscar-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a supernodal sparse direct solver over DAG runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2012/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine Grain Scheduling for Sparse Solver on Manycore Architectures</title>
+      <link>https://ramet.github.io/publication/c-la-bri-siam-2012/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-siam-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse direct solvers with accelerators over DAG runtimes</title>
+      <link>https://ramet.github.io/publication/lacoste-hal-00700066/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/lacoste-hal-00700066/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> A NUMA Aware Scheduler for a Parallel Sparse Direct Solver</title>
+      <link>https://ramet.github.io/publication/faverge-2010-inria-00549827-1/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/faverge-2010-inria-00549827-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static-Dynamic Hybrid Scheduling in sparse linear algebra for large clusters of NUMA and multi-cores architectures</title>
+      <link>https://ramet.github.io/publication/t-la-bri-mf-09/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/t-la-bri-mf-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vers un solveur de systèmes linéaires creux adapt ́aux machines NUMA</title>
+      <link>https://ramet.github.io/publication/c-la-bri-renpar-09/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-renpar-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Scheduling for Sparse Direct Solver on NUMA and Multicore Architectures</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sparsedays-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sparsedays-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A NUMA Aware Scheduler for a Parallel Sparse Direct Solver</title>
+      <link>https://ramet.github.io/publication/c-la-bri-i-3-m/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-i-3-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A NUMA Aware Scheduler for a Parallel Sparse Direct Solver</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2008-b/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2008-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Scheduling for sparse direct Solver on NUMA architectures</title>
+      <link>https://ramet.github.io/publication/c-la-bri-para-08/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-para-08/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

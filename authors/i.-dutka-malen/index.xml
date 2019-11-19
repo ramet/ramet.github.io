@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. Dutka-Malen | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/i.-dutka-malen/</link>
+      <atom:link href="https://ramet.github.io/authors/i.-dutka-malen/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. Dutka-Malen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>I. Dutka-Malen</title>
+      <link>https://ramet.github.io/authors/i.-dutka-malen/</link>
+    </image>
+    
+    <item>
+      <title>Shared Memory Parallelism for 3D Cartesian Discrete Ordinates Solver</title>
+      <link>https://ramet.github.io/publication/c-la-bri-neutron-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-neutron-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

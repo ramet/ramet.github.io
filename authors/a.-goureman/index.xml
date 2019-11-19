@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Goureman | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/a.-goureman/</link>
+      <atom:link href="https://ramet.github.io/authors/a.-goureman/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Goureman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>A. Goureman</title>
+      <link>https://ramet.github.io/authors/a.-goureman/</link>
+    </image>
+    
+    <item>
+      <title>Développement de la phase d&#39;assemblage de la chaîne EMILIO (distribution du maillage et multi-threading)</title>
+      <link>https://ramet.github.io/publication/f-la-bri-grr-04-b/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/f-la-bri-grr-04-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

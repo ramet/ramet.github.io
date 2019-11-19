@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Czarny | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/o.-czarny/</link>
+      <atom:link href="https://ramet.github.io/authors/o.-czarny/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Czarny</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>O. Czarny</title>
+      <link>https://ramet.github.io/authors/o.-czarny/</link>
+    </image>
+    
+    <item>
+      <title>Improvement of existing solvers for the simulation of MHD instabilities</title>
+      <link>https://ramet.github.io/publication/c-la-bri-fusion-2007/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-fusion-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

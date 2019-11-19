@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Barrault | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/m.-barrault/</link>
+      <atom:link href="https://ramet.github.io/authors/m.-barrault/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Barrault</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>M. Barrault</title>
+      <link>https://ramet.github.io/authors/m.-barrault/</link>
+    </image>
+    
+    <item>
+      <title>Efficient parallel resolution of the simplified transport equations in mixed-dual formulation</title>
+      <link>https://ramet.github.io/publication/a-la-bri-jcp-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-jcp-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Non Overlapping Parallel Domain Decomposition Method Applied to The Simplified Transport Equations</title>
+      <link>https://ramet.github.io/publication/c-la-bri-neutron-2009/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-neutron-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A domain decomposition method applied to the simplified transport equations</title>
+      <link>https://ramet.github.io/publication/c-la-bri-neutron-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-neutron-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Domain Decomposition Method Applied to Large Eigenvalue Problems in Neutron Physics</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2008-a/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2008-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

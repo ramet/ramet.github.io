@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. Yamazaki | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/i.-yamazaki/</link>
+      <atom:link href="https://ramet.github.io/authors/i.-yamazaki/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. Yamazaki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>I. Yamazaki</title>
+      <link>https://ramet.github.io/authors/i.-yamazaki/</link>
+    </image>
+    
+    <item>
+      <title>Matrices over Runtime Systems at Exascale</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sc-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sc-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a supernodal sparse direct solver over DAG runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2012/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Agullo | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/e.-agullo/</link>
+      <atom:link href="https://ramet.github.io/authors/e.-agullo/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Agullo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>E. Agullo</title>
+      <link>https://ramet.github.io/authors/e.-agullo/</link>
+    </image>
+    
+    <item>
+      <title>Overview of Task-based Sparse and Data-sparse Solvers on Top of Runtime Systems</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sparsedays-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sparsedays-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward parallel scalable linear solvers suited for large scale hierarchical parallel platforms</title>
+      <link>https://ramet.github.io/publication/c-la-bri-hoscar-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-hoscar-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-based linear solvers for modern architectures</title>
+      <link>https://ramet.github.io/publication/c-la-bri-iter-14/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-iter-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward parallel scalable linear solvers suited for large scale hierarchical parallel platforms</title>
+      <link>https://ramet.github.io/publication/c-la-bri-ecfd-14-a/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-ecfd-14-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrices over Runtime Systems at Exascale</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sc-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sc-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

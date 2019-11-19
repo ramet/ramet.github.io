@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Thibault | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/s.-thibault/</link>
+      <atom:link href="https://ramet.github.io/authors/s.-thibault/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Thibault</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>S. Thibault</title>
+      <link>https://ramet.github.io/authors/s.-thibault/</link>
+    </image>
+    
+    <item>
+      <title>Taking advantage of hybrid systems for sparse direct solvers via task-based runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-hcw-14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-hcw-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking advantage of hybrid systems for sparse direct solvers via task-based runtimes</title>
+      <link>https://ramet.github.io/publication/lacoste-hal-00925017/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/lacoste-hal-00925017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

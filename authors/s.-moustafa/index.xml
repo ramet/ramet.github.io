@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Moustafa | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/s.-moustafa/</link>
+      <atom:link href="https://ramet.github.io/authors/s.-moustafa/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Moustafa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>S. Moustafa</title>
+      <link>https://ramet.github.io/authors/s.-moustafa/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Parallel Solution of the 3D Stationary Boltzmann Transport Equation for Diffusive Problems</title>
+      <link>https://ramet.github.io/publication/faverge-hal-01630208/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/faverge-hal-01630208/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Cartesian Transport Sweep for Massively Parallel Architectures with PARSEC</title>
+      <link>https://ramet.github.io/publication/moustafa-hal-01078362/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/moustafa-hal-01078362/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel 3D Sweep Kernel with PARSEC</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sweep-2013/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sweep-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Cartesian Transport Sweep for Massively Parallel Architectures on top of PaRSEC</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sweep-scheduling/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sweep-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Cartesian Transport Sweep for Massively Parallel Architectures on top of PaRSEC</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sweep-solhar/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sweep-solhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shared Memory Parallelism for 3D Cartesian Discrete Ordinates Solver</title>
+      <link>https://ramet.github.io/publication/c-la-bri-neutron-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-neutron-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

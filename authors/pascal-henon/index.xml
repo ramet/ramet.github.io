@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pascal Hénon | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/pascal-henon/</link>
+      <atom:link href="https://ramet.github.io/authors/pascal-henon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pascal Hénon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>Pascal Hénon</title>
+      <link>https://ramet.github.io/authors/pascal-henon/</link>
+    </image>
+    
+    <item>
+      <title>Optimization of a kinetic laser-plasma interaction code for large parallel systems</title>
+      <link>https://ramet.github.io/publication/a-la-bri-pmaa-2002-c/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-pmaa-2002-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

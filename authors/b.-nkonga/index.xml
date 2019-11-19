@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Nkonga | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/b.-nkonga/</link>
+      <atom:link href="https://ramet.github.io/authors/b.-nkonga/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Nkonga</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>B. Nkonga</title>
+      <link>https://ramet.github.io/authors/b.-nkonga/</link>
+    </image>
+    
+    <item>
+      <title>Numerical simulation of tokamak plasmas</title>
+      <link>https://ramet.github.io/publication/c-la-bri-fusion-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-fusion-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient solution technique for low Mach number  compressible multiphase problems</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2006-b/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2006-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using of the High Performance Sparse Solver PaStiX for the Complex Multiscale 3D Simulations performed by the FluidBox Fluid Mechanics Software</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2004-b/</link>
+      <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2004-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1869 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ramet.github.io/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication_types/1/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/e.-korkmaz/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/g.-pichon/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/m.-faverge/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/p.-ramet/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication_types/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pp-20/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/tags/sparse/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/tags/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/post/guix-build/</loc>
+    <lastmod>2019-11-16T13:49:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/post/pastix-release/</loc>
+    <lastmod>2019-11-16T13:49:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/tags/pastix6/</loc>
+    <lastmod>2019-11-16T13:49:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/pierre-ramet/</loc>
+    <lastmod>2019-11-16T13:49:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/post/</loc>
+    <lastmod>2019-11-16T13:49:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication_types/0/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/e-darve/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/esragul-korkmaz/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/gregoire-pichon/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/jean-roman/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/mathieu-faverge/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/tags/randomized/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-02326407/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication_types/4/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/augonnet-cea-02304706/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/cedric-augonnet/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/david-goudin/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/tags/h-mat/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/matthieu-kuhn/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/raymond-namyst/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/xavier-lacoste/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/korkmaz-hal-02326070/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/korkmaz-hal-02326084/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication_types/2/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/moustafa-hal-02080624/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/francois-fevotte/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/laurent-plagne/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/salli-moustafa/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/ramet-hal-02081108/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01956962/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/e.-darve/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/faverge-hal-01956963/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/j.-roman/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication_types/7/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/t-la-bri-gp-18/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01956928/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01824275/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01956959/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01956960/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-stanford-18/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/project/pastix6/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/project/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01660665/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/ramet-tel-01668740/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/s.-lanteri/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01660653/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/faverge-hal-01630208/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/f.-fevotte/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/l.-plagne/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/tags/neutron/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/s.-moustafa/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01585622/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01502215/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01585660/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-siam-2017-b/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-siam-2017-c/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-siam-2017-a/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01485507/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01450732/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-purdue-2016/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pmaa-2016/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-an-16/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/e.-agullo/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sparsedays-2016/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pp-16-b/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pp-16-a/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01276746/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/project/spm/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/a.-casadei/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/t-la-bri-ac-15/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-hoscar-2015/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-iciam-15-a/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-iciam-15-b/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-jdev/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/x.-lacoste/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pastix-solhar-3/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sparsedays-2015/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-cimi-15/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/moustafa-hal-01078362/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/a.-haidar/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01078356/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/j.-kurzak/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/a.-pere-laperne/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/j.-pere-laperne/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/m.-alaya/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/alaya-hal-01142204/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-mds-15/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/t.-terraz/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-cse-15-a/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/a.-franc/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/a.-moreau/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-lescape/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-mcia-15/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/d.-sherman/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/h.-beaugendre/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/j.-m.-frigerio/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/l.-lestandi/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/p.-gay/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/ph.-chaumeil/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-cse-15-b/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/y.-laizet/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/t-la-bri-xl-15/</loc>
+    <lastmod>2015-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-cesta-15/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-cnrs-15/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-hipc-14/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/sellama-hal-01088094/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pastix-solhar-2/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/g.-huijsmans/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/h.-sellama/</loc>
+    <lastmod>2014-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/a.-guermouche/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/l.-giraud/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-hoscar-2014/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/casadei-hal-01056749/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sweep-2013/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-iter-14/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sweep-scheduling/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/a.~h.-aminfar/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/c.-dudley/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-cp-ub/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pmaa-2014/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-ecfd-14-b/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-cp-ua/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-csc-14/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/s.-ambikasaran/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-ecfd-14-a/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sweep-solhar/</loc>
+    <lastmod>2014-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/g.-bosilca/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/s.-thibault/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-hcw-14/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-mds-14/</loc>
+    <lastmod>2014-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-mcia-14/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/lacoste-hal-00925017/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-stanford-13-b/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sc-2013/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pastix-solhar/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/a.-poncot/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/i.-dutka-malen/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-neutron-2013/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-nd-40-b/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-stanford-13-a/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-etsn-2013/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-nd-40-a/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sparsedays-2013/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pareng-13/</loc>
+    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/o.-coulaud/</loc>
+    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-mds-13/</loc>
+    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/x.-vasseur/</loc>
+    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/coulaud-hal-00803225/</loc>
+    <lastmod>2013-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-siam-2013/</loc>
+    <lastmod>2013-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication_types/6/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/a-la-bri-pareng-13/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/b.-bramas/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/c.-castagnede/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/g.-giraud/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/h.-ltaief/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/i.-yamazaki/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/j.-dongarra/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/j.-langou/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/m.-messner/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sc-2012/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/n.-furmento/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/r.-namyst/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/s-thibault/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/s.-tomov/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/t.-takahashi/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-hoscar-2012-b/</loc>
+    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-cemracs-12/</loc>
+    <lastmod>2012-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-hoscar-2012-a/</loc>
+    <lastmod>2012-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-la-12-a/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-la-12-b/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pmaa-2012/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-siam-2012/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/d.-goudin/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/g.-meurant/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/j.-j.-pesque/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/m.-boulet/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/m.-chanaud/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/astrid-hal-00700053/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/p.-henon/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-chocs/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/lacoste-hal-00700066/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/y.-ichitaro/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-utk-11/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-mds-11/</loc>
+    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-mfn-2011/</loc>
+    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/b.-lathuiliere/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/a-la-bri-jcp-2011/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/m.-barrault/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-cnrs-10/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sc-2010/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sna-mc-2010/</loc>
+    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/m.-dayde/</loc>
+    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/n.-kushida/</loc>
+    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/n.-teshima/</loc>
+    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/r.-guivarch/</loc>
+    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/t.-tatekawa/</loc>
+    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/y.-caniou/</loc>
+    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/y.-suzuki/</loc>
+    <lastmod>2010-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-cemracs-10/</loc>
+    <lastmod>2010-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-uuic/</loc>
+    <lastmod>2010-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/t-la-bri-bl-10/</loc>
+    <lastmod>2010-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/faverge-2010-inria-00549827-1/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/t-la-bri-mc-09/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/t-la-bri-jg-09/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/j.-gaidamour/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/t-la-bri-mf-09/</loc>
+    <lastmod>2009-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-cost-2009/</loc>
+    <lastmod>2009-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-renpar-09/</loc>
+    <lastmod>2009-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sparsedays-2009/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/e.-van~der~plas/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/tags/fusion/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/g.-huysmans/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-eps-2009/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/pamela-s./</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-neutron-2009/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-i-3-m/</loc>
+    <lastmod>2009-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/a-la-bri-eps-2009/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/a-la-bri-mhd-2009/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/r.-abgrall/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/r.-huart/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/s.-pamela/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-cnrs-08/</loc>
+    <lastmod>2008-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/b.-nkonga/</loc>
+    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/huart-r./</loc>
+    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/huysmans-g./</loc>
+    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/latu-g./</loc>
+    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-fusion-2008/</loc>
+    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-neutron-2008/</loc>
+    <lastmod>2008-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-mn-08/</loc>
+    <lastmod>2008-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pmaa-2008-a/</loc>
+    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pmaa-2008-b/</loc>
+    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/b.-and-nkonga/</loc>
+    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/j.-s.-gay/</loc>
+    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/m.-becoulet/</loc>
+    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/n.-nakajima/</loc>
+    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-eps-2008/</loc>
+    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-vecpar-08-redimps/</loc>
+    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-vecpar-08-diet/</loc>
+    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-para-08/</loc>
+    <lastmod>2008-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/a-la-bri-hrr-07/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-ppam-07/</loc>
+    <lastmod>2007-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-redimsops/</loc>
+    <lastmod>2007-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-fusion-2007/</loc>
+    <lastmod>2007-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/o.-czarny/</loc>
+    <lastmod>2007-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/g.-caramel/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-cr-07-b/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-cei-06/</loc>
+    <lastmod>2006-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/b.-braconnier/</loc>
+    <lastmod>2006-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pmaa-2006-b/</loc>
+    <lastmod>2006-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/m.-papin/</loc>
+    <lastmod>2006-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pmaa-2006-a/</loc>
+    <lastmod>2006-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/ricchiuto-m./</loc>
+    <lastmod>2006-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-para-2006/</loc>
+    <lastmod>2006-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/a-la-bri-sisc-06/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/project/pastix5/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/y.-saad/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-ppam-05/</loc>
+    <lastmod>2005-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pre-05/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/f.-pellegrini/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-hr-05-b/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-hrr-05/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/f.-huard/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-hr-05-d/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sc-2004/</loc>
+    <lastmod>2004-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pmaa-2004-a/</loc>
+    <lastmod>2004-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pmaa-2004-b/</loc>
+    <lastmod>2004-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-para-2004/</loc>
+    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-ppsc-2004-a/</loc>
+    <lastmod>2004-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/a.-goureman/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-grr-04-b/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-hprr-04-b/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pre-03-ph/</loc>
+    <lastmod>2003-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pre-03/</loc>
+    <lastmod>2003-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-ppam-03/</loc>
+    <lastmod>2003-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/o.-beaumont/</loc>
+    <lastmod>2003-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/tags/overlap/</loc>
+    <lastmod>2003-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-siam-2003/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sparsedays-2003/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sparsedays-2003-ph/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/k.-mer/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/m.-mandallena/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-ghmmprrp-03/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-ipdps-2003/</loc>
+    <lastmod>2003-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-hlrr-03/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/d.-lecas/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-crr-03-b/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/erik-lefebvre/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/michael.-dussere/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/olivier-coulaud/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/a-la-bri-pmaa-2002-c/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/pascal-henon/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/s.-christy/</loc>
+    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/c.-travers/</loc>
+    <lastmod>2002-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/f.-desprez/</loc>
+    <lastmod>2002-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-grid-2002/</loc>
+    <lastmod>2002-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/v.-boudet/</loc>
+    <lastmod>2002-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-sc-2002/</loc>
+    <lastmod>2002-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/m.-dussere/</loc>
+    <lastmod>2002-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pmaa-2002-b/</loc>
+    <lastmod>2002-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pmaa-2002-a/</loc>
+    <lastmod>2002-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-hr-02/</loc>
+    <lastmod>2002-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/a-la-bri-hrr-01-a/</loc>
+    <lastmod>2002-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/t-la-bri-ph-01/</loc>
+    <lastmod>2001-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/c.-gomez/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/d.-lazure/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/e.-caron/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/e.-fleury/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/e.-jeannot/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/f.-lombard/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/f.-rubi/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/f.-suter/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/g.-utard/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/j.-m.-nicod/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/l.-philippe/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/m.-goursat/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/m.-quinson/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/s.-chaumette/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/s.-contassot-vivier/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/s.-steer/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/a-la-bri-ccc-01/</loc>
+    <lastmod>2001-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-hr-01/</loc>
+    <lastmod>2001-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-siam-2001/</loc>
+    <lastmod>2001-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-rr-01/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/n-la-bri-all-01/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-ihperf-2-k/</loc>
+    <lastmod>2000-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/j-j.-pesque/</loc>
+    <lastmod>2000-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/t-la-bri-dg-2-k/</loc>
+    <lastmod>2000-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-jsft/</loc>
+    <lastmod>2000-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pmaa-2-k-2/</loc>
+    <lastmod>2000-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pmaa-2-k-1/</loc>
+    <lastmod>2000-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-actc/</loc>
+    <lastmod>2000-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-hrr-2-k/</loc>
+    <lastmod>2000-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-gopara/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-dg-2-ka/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-go-2-ka/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/t-la-bri-pr-2-k/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/a-la-bri-ghprrp-3/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-hrr-99-a/</loc>
+    <lastmod>1999-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-ghprrp-1/</loc>
+    <lastmod>1999-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-go-99-a/</loc>
+    <lastmod>1999-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-go-99-b/</loc>
+    <lastmod>1999-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-spworld/</loc>
+    <lastmod>1999-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/f-la-bri-go-98-a/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pr-3/</loc>
+    <lastmod>1997-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pr-4/</loc>
+    <lastmod>1997-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/p.-r.-amestoy/</loc>
+    <lastmod>1997-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pr-2/</loc>
+    <lastmod>1996-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/c-la-bri-pr-1/</loc>
+    <lastmod>1996-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/hal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/restricted/restricted/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/bib/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/restricted/</loc>
+  </url>
+  
+</urlset>

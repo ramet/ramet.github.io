@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Restricteds | Pierre Ramet</title>
+    <link>https://ramet.github.io/restricted/</link>
+      <atom:link href="https://ramet.github.io/restricted/index.xml" rel="self" type="application/rss+xml" />
+    <description>Restricteds</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>Restricteds</title>
+      <link>https://ramet.github.io/restricted/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://ramet.github.io/restricted/restricted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/restricted/restricted/</guid>
+      <description>&lt;TITLE&gt;RESTRICTED&lt;/TITLE&gt;
+
+
+&lt;H1&gt;restricted access to guest area&lt;/H1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

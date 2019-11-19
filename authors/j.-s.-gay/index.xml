@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.-S. Gay | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/j.-s.-gay/</link>
+      <atom:link href="https://ramet.github.io/authors/j.-s.-gay/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.-S. Gay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>J.-S. Gay</title>
+      <link>https://ramet.github.io/authors/j.-s.-gay/</link>
+    </image>
+    
+    <item>
+      <title>Tunable parallel experiments in a GridRPC framework: application to linear solvers</title>
+      <link>https://ramet.github.io/publication/c-la-bri-vecpar-08-diet/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-vecpar-08-diet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

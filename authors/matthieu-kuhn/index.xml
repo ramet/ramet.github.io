@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthieu Kuhn | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/matthieu-kuhn/</link>
+      <atom:link href="https://ramet.github.io/authors/matthieu-kuhn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthieu Kuhn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>Matthieu Kuhn</title>
+      <link>https://ramet.github.io/authors/matthieu-kuhn/</link>
+    </image>
+    
+    <item>
+      <title>A hierarchical fast direct solver for distributed memory machines with manycore nodes</title>
+      <link>https://ramet.github.io/publication/augonnet-cea-02304706/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/augonnet-cea-02304706/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. Lacoste | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/x.-lacoste/</link>
+      <atom:link href="https://ramet.github.io/authors/x.-lacoste/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. Lacoste</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>X. Lacoste</title>
+      <link>https://ramet.github.io/authors/x.-lacoste/</link>
+    </image>
+    
+    <item>
+      <title>PaStiX: Parallel Sparse Matrix Package</title>
+      <link>https://ramet.github.io/publication/c-la-bri-jdev/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-jdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simul&#39;Elec and PASTIX interface specifications</title>
+      <link>https://ramet.github.io/publication/alaya-hal-01142204/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/alaya-hal-01142204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A task-based sparse direct solver suited for large scale hierarchical/heterogeneous architectures</title>
+      <link>https://ramet.github.io/publication/c-la-bri-cse-15-a/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-cse-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling and memory optimizations for sparse direct solver on multi-core/multi-gpu duster systems</title>
+      <link>https://ramet.github.io/publication/t-la-bri-xl-15/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/t-la-bri-xl-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etude de la factorisation directe hétŕogène et de la factorisation incomplt̀e sur solveur PaStiX appliqu&#39;ś `d̀es syst`es̀ issus de probl`em ̀du CEA/CESTA</title>
+      <link>https://ramet.github.io/publication/f-la-bri-cesta-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/f-la-bri-cesta-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed sparse matrix factorization on top of tasks based runtime systems</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pastix-solhar-2/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pastix-solhar-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking advantage of hybrid systems for sparse direct solvers via task-based runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-hcw-14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-hcw-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking advantage of hybrid systems for sparse direct solvers via task-based runtimes</title>
+      <link>https://ramet.github.io/publication/lacoste-hal-00925017/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/lacoste-hal-00925017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Linear Algebra over DAG Runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pastix-solhar/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pastix-solhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work stealing and granularity optimizations for a sparse solver on manycores</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sparsedays-2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sparsedays-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Linear Algebra over DAG Runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-siam-2013/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-siam-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrices over Runtime Systems at Exascale</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sc-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sc-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling for Sparse Solver on Manycore Architectures</title>
+      <link>https://ramet.github.io/publication/c-la-bri-hoscar-2012-b/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-hoscar-2012-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse direct solvers with accelerators over DAG runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-hoscar-2012-a/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-hoscar-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse direct solver on top of large-scale multicore systems with GPU accelerators</title>
+      <link>https://ramet.github.io/publication/c-la-bri-la-12-b/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-la-12-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a supernodal sparse direct solver over DAG runtimes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2012/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse direct solvers with accelerators over DAG runtimes</title>
+      <link>https://ramet.github.io/publication/lacoste-hal-00700066/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/lacoste-hal-00700066/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> A NUMA Aware Scheduler for a Parallel Sparse Direct Solver</title>
+      <link>https://ramet.github.io/publication/faverge-2010-inria-00549827-1/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/faverge-2010-inria-00549827-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A NUMA Aware Scheduler for a Parallel Sparse Direct Solver</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2008-b/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2008-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

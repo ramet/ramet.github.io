@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.-M. Frigerio | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/j.-m.-frigerio/</link>
+      <atom:link href="https://ramet.github.io/authors/j.-m.-frigerio/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.-M. Frigerio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>J.-M. Frigerio</title>
+      <link>https://ramet.github.io/authors/j.-m.-frigerio/</link>
+    </image>
+    
+    <item>
+      <title>Biodiversiton : application du HPC à l&#39;étude de la biodiversit</title>
+      <link>https://ramet.github.io/publication/c-la-bri-mcia-15/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-mcia-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

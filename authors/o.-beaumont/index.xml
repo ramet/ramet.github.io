@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Beaumont | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/o.-beaumont/</link>
+      <atom:link href="https://ramet.github.io/authors/o.-beaumont/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Beaumont</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>O. Beaumont</title>
+      <link>https://ramet.github.io/authors/o.-beaumont/</link>
+    </image>
+    
+    <item>
+      <title>Asymptotically optimal algorithm for Laplace task graphs on heterogeneous platforms</title>
+      <link>https://ramet.github.io/publication/c-la-bri-ppam-03/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-ppam-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modélisation de pipelines ht́&#39;ógènes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-grid-2002/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-grid-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

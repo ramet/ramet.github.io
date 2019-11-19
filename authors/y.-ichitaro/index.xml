@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Ichitaro | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/y.-ichitaro/</link>
+      <atom:link href="https://ramet.github.io/authors/y.-ichitaro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Ichitaro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>Y. Ichitaro</title>
+      <link>https://ramet.github.io/authors/y.-ichitaro/</link>
+    </image>
+    
+    <item>
+      <title>Sparse direct solvers with accelerators over DAG runtimes</title>
+      <link>https://ramet.github.io/publication/lacoste-hal-00700066/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/lacoste-hal-00700066/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

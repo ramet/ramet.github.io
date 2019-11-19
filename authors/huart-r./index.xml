@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huart R. | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/huart-r./</link>
+      <atom:link href="https://ramet.github.io/authors/huart-r./index.xml" rel="self" type="application/rss+xml" />
+    <description>Huart R.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>Huart R.</title>
+      <link>https://ramet.github.io/authors/huart-r./</link>
+    </image>
+    
+    <item>
+      <title>Numerical simulation of tokamak plasmas</title>
+      <link>https://ramet.github.io/publication/c-la-bri-fusion-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-fusion-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Linear MHD code developement for ELM simulations</title>
+      <link>https://ramet.github.io/publication/c-la-bri-eps-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-eps-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

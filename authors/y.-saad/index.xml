@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Saad | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/y.-saad/</link>
+      <atom:link href="https://ramet.github.io/authors/y.-saad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Saad</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>Y. Saad</title>
+      <link>https://ramet.github.io/authors/y.-saad/</link>
+    </image>
+    
+    <item>
+      <title>A Parallel Multilevel ILU Factorization based on a Hierarchical Graph Decomposition</title>
+      <link>https://ramet.github.io/publication/a-la-bri-sisc-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-sisc-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying parallel direct solver skills to build robust and highly performant preconditioners</title>
+      <link>https://ramet.github.io/publication/c-la-bri-para-2004/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-para-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Performance Complete and Incomplete Factorizations for Very Large Sparse Systems by using Scotch and PaStiX softwares</title>
+      <link>https://ramet.github.io/publication/c-la-bri-ppsc-2004-a/</link>
+      <pubDate>Sun, 01 Feb 2004 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-ppsc-2004-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Parallel ILU factorization based on a Hierarchical Interface Decomposition algorithm</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pre-03-ph/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pre-03-ph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHIDAL: A Parallel Hierarchical Interface Decomposition Algorithm for solving sparse linear systems</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sparsedays-2003-ph/</link>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sparsedays-2003-ph/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

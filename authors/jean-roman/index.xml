@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean Roman | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/jean-roman/</link>
+      <atom:link href="https://ramet.github.io/authors/jean-roman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean Roman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>Jean Roman</title>
+      <link>https://ramet.github.io/authors/jean-roman/</link>
+    </image>
+    
+    <item>
+      <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
+      <link>https://ramet.github.io/publication/pichon-hal-02326407/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-02326407/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of a kinetic laser-plasma interaction code for large parallel systems</title>
+      <link>https://ramet.github.io/publication/a-la-bri-pmaa-2002-c/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-pmaa-2002-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

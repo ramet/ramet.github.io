@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Desprez | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/f.-desprez/</link>
+      <atom:link href="https://ramet.github.io/authors/f.-desprez/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Desprez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>F. Desprez</title>
+      <link>https://ramet.github.io/authors/f.-desprez/</link>
+    </image>
+    
+    <item>
+      <title>Modélisation de pipelines ht́&#39;ógènes</title>
+      <link>https://ramet.github.io/publication/c-la-bri-grid-2002/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-grid-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scilab to Scilab//, the OURAGAN Project</title>
+      <link>https://ramet.github.io/publication/a-la-bri-ccc-01/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/a-la-bri-ccc-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation des Communications et Régulation de Charge pour la Rśolution par M&#39;h́ode Directe de Grands Systèmes Lin&#39;eŕes Creux</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pr-4/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pr-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Grain Size Computation for Pipelined Algorithms</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pr-1/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pr-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

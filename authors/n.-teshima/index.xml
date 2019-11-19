@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Teshima | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/n.-teshima/</link>
+      <atom:link href="https://ramet.github.io/authors/n.-teshima/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Teshima</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>N. Teshima</title>
+      <link>https://ramet.github.io/authors/n.-teshima/</link>
+    </image>
+    
+    <item>
+      <title>Development of an International Matrix-Solver Prediction System on a French-Japanese International Grid Computing Environment</title>
+      <link>https://ramet.github.io/publication/c-la-bri-sna-mc-2010/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-sna-mc-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an International Sparse Linear Algebra Expert System by Interconnecting the ITBL Computational Grid with the Grid-TLSE Platform</title>
+      <link>https://ramet.github.io/publication/c-la-bri-vecpar-08-redimps/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-vecpar-08-redimps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
