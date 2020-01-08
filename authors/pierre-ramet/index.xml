@@ -26,19 +26,23 @@ with the following snippet to request the &lt;code&gt;guix-hpc&lt;/code&gt; &lt;
         (name &#39;guix-hpc)
         (url &amp;quot;https://gitlab.inria.fr/guix-hpc/guix-hpc.git&amp;quot;))
       %default-channels)
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;That way, &lt;code&gt;guix pull&lt;/code&gt; will systematically pull not only Guix, but also
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;That way, &lt;code&gt;guix pull&lt;/code&gt; will systematically pull not only Guix, but also
 Guix-HPC.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;guix package -u pastix
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;hacking-on-guix-hpc&#34;&gt;Hacking on Guix-HPC&lt;/h2&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;hacking-on-guix-hpc&#34;&gt;Hacking on Guix-HPC&lt;/h2&gt;
 &lt;p&gt;When working on packages of the &lt;code&gt;guix-hpc&lt;/code&gt; channel, you&#39;ll need to clone
 the &lt;code&gt;guix-hpc&lt;/code&gt; repository:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;cd src
 git clone https://gitlab.inria.fr/guix-hpc/guix-hpc.git
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;From then on, you can edit package definitions, and then try them out by
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;From then on, you can edit package definitions, and then try them out by
 passing the location of the checkout using the &lt;code&gt;-L&lt;/code&gt; flag to &lt;code&gt;guix build&lt;/code&gt;
 and other command-line tools, as in this example:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;guix build -L ~/src/guix-hpc pastix
-&lt;/code&gt;&lt;/pre&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
     <item>
