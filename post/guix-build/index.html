@@ -627,43 +627,28 @@
   <div class="article-container">
 
     <div class="article-style">
-      
-
-<h2 id="how-to-build-pastix">How to build PaStiX</h2>
-
+      <h2 id="how-to-build-pastix">How to build PaStiX</h2>
 <p>The package definitions in <em>Guix-HPC</em> repository <em>extend</em> <a href="https://gnu.org/s/guix/packages">those that come with
 Guix</a>.  To make them visible to the
 <code>guix</code> command-line tools, create the <code>~/.config/guix/channels.scm</code> file
 with the following snippet to request the <code>guix-hpc</code> <em>channel</em>:</p>
-
 <pre><code>(cons (channel
         (name 'guix-hpc)
         (url &quot;https://gitlab.inria.fr/guix-hpc/guix-hpc.git&quot;))
       %default-channels)
-</code></pre>
-
-<p>That way, <code>guix pull</code> will systematically pull not only Guix, but also
+</code></pre><p>That way, <code>guix pull</code> will systematically pull not only Guix, but also
 Guix-HPC.</p>
-
 <pre><code>guix package -u pastix
-</code></pre>
-
-<h2 id="hacking-on-guix-hpc">Hacking on Guix-HPC</h2>
-
-<p>When working on packages of the <code>guix-hpc</code> channel, you&rsquo;ll need to clone
+</code></pre><h2 id="hacking-on-guix-hpc">Hacking on Guix-HPC</h2>
+<p>When working on packages of the <code>guix-hpc</code> channel, you'll need to clone
 the <code>guix-hpc</code> repository:</p>
-
 <pre><code>cd src
 git clone https://gitlab.inria.fr/guix-hpc/guix-hpc.git
-</code></pre>
-
-<p>From then on, you can edit package definitions, and then try them out by
+</code></pre><p>From then on, you can edit package definitions, and then try them out by
 passing the location of the checkout using the <code>-L</code> flag to <code>guix build</code>
 and other command-line tools, as in this example:</p>
-
 <pre><code>guix build -L ~/src/guix-hpc pastix
 </code></pre>
-
     </div>
 
     

@@ -619,23 +619,17 @@
   <div class="article-container">
 
     <div class="article-style">
-      
-
-<h1 id="pastix-a-sparse-direct-solver">PaStiX: A sparse direct solver</h1>
-
+      <h1 id="pastix-a-sparse-direct-solver">PaStiX: A sparse direct solver</h1>
 <p>PaStiX (Parallel Sparse matriX package) is a scientific library that provides a
 high performance parallel solver for very large sparse linear systems based on
 direct methods.  Numerical algorithms are implemented in single or double
 precision (real or complex) using LLt, LDLt and LU with static pivoting (for non
 symmetric matrices having a symmetric pattern).
 This solver also provides some low-rank compression methods to reduce the memory footprint and/or the time-to-solution.</p>
-
 <h2 id="get-pastix">Get PaStiX</h2>
-
 <p>To use last development state of PaStiX, please clone the master
 branch. Note that PaStiX contains two <code>git submodule</code> for <strong>spm</strong> and <strong>morse_cmake</strong>.
 To get sources please use these commands:</p>
-
 <pre><code># if git version &gt;= 1.9
   git clone --recursive git@gitlab.inria.fr:solverstack/pastix.git
   cd pastix
@@ -645,13 +639,10 @@ To get sources please use these commands:</p>
   git submodule init
   git submodule update
 </code></pre>
-
 <p>Previous releases of PaStiX are hosted on the
 <a href="https://gforge.inria.fr/frs/?group_id=186">gforge.inria.fr</a> for now.
 Future releases will be available on this gitlab project.</p>
-
 <h2 id="available-features">Available Features</h2>
-
 <table>
 <thead>
 <tr>
@@ -663,7 +654,6 @@ Future releases will be available on this gitlab project.</p>
 <th>PaRSEC</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>POTRF (Cholesky)</td>
@@ -673,7 +663,6 @@ Future releases will be available on this gitlab project.</p>
 <td>SHM/LR/GPU</td>
 <td>SHM/LR/GPU</td>
 </tr>
-
 <tr>
 <td>PXTRF (LL^t for complex)</td>
 <td>SHM/LR</td>
@@ -682,7 +671,6 @@ Future releases will be available on this gitlab project.</p>
 <td>SHM/LR/GPU</td>
 <td>SHM/LR/GPU</td>
 </tr>
-
 <tr>
 <td>HETRF (LDL^h)</td>
 <td>SHM/LR</td>
@@ -691,7 +679,6 @@ Future releases will be available on this gitlab project.</p>
 <td>SHM/LR/GPU</td>
 <td>SHM/LR/GPU</td>
 </tr>
-
 <tr>
 <td>SYTRF (LDL^t)</td>
 <td>SHM/LR</td>
@@ -700,7 +687,6 @@ Future releases will be available on this gitlab project.</p>
 <td>SHM/LR/GPU</td>
 <td>SHM/LR/GPU</td>
 </tr>
-
 <tr>
 <td>GETRF (LU)</td>
 <td>SHM/LR</td>
@@ -709,7 +695,6 @@ Future releases will be available on this gitlab project.</p>
 <td>SHM/LR/GPU</td>
 <td>SHM/LR/GPU</td>
 </tr>
-
 <tr>
 <td>TRSM</td>
 <td>SHM/LR</td>
@@ -718,7 +703,6 @@ Future releases will be available on this gitlab project.</p>
 <td>SHM/LR</td>
 <td>-</td>
 </tr>
-
 <tr>
 <td>DIAG</td>
 <td>SHM/LR</td>
@@ -729,28 +713,20 @@ Future releases will be available on this gitlab project.</p>
 </tr>
 </tbody>
 </table>
-
 <ul>
 <li>SHM means Shared Memory using POSIX theads for multicores architectures</li>
 <li>LR means (block) Low-Rank compression technique to reduce the memory footprint and/or the time-to-solution</li>
 <li><em>WARNING</em> GPU kernels are not available on compressed supernodes</li>
 <li>MPI is not available yet and will come with 6.1.0</li>
 </ul>
-
 <h2 id="documentation">Documentation</h2>
-
 <p>The latest Doxygen documentation is available <a href="http://solverstack.gitlabpages.inria.fr/pastix">here</a>.</p>
-
 <p>The <a href="http://solverstack.gitlabpages.inria.fr/pastix/group__pastix__users.html">main steps</a> and <a href="http://solverstack.gitlabpages.inria.fr/pastix/group__pastix__api.html">parameters</a> of the solver are described. Some <a href="http://solverstack.gitlabpages.inria.fr/pastix/group__pastix__examples.html">examples</a> are also provided.</p>
-
 <h2 id="installation">Installation</h2>
-
 <h3 id="build-and-install-with-cmake">Build and install with CMake</h3>
-
 <p>PaStiX can be built using <a href="https://cmake.org/">CMake</a>. This
 installation requires to have some library dependencies already
 installed on the system:</p>
-
 <ul>
 <li>BLAS (MKL, OpenBlas, &hellip;) and CBLAS (sequential version required)</li>
 <li>LAPACK and LAPACKE (sequential version required, with TMG enabled for testing)</li>
@@ -763,66 +739,54 @@ installed on the system:</p>
 <li>EZTRACE to enable tracing support (optional)</li>
 <li>Python and Fortran compiler for wrappers and examples (optional)</li>
 </ul>
-
 <p>For instance, on debian-like systems, dependencies can be installed with the following command:</p>
-
 <pre><code>  sudo apt-get install cmake gcc gfortran libhwloc-dev libscotch-dev libopenblas-dev liblapacke-dev python-numpy
 </code></pre>
-
 <p>The main options to configure the PaStiX configuration build are:</p>
-
 <ul>
 <li>Classic cmake options:
-
 <ul>
 <li>CMAKE_BUILD_TYPE: Debug, RelWithDebInfo, Release, MinSizeRel; we recommend to use the Release, or RelWithDebInfo, for performance.</li>
 <li>CMAKE_INSTALL_PREFIX: Specify the prefix directory to install the library</li>
 <li>BUILD_SHARED_LIBS=[OFF]: Enable the shared libraries build. This option needs to be enabled for the Python wrapper.</li>
-</ul></li>
+</ul>
+</li>
 <li>Integer type:
-
 <ul>
 <li>PASTIX_INT64[=ON]: Enable/disable int64_t for integer arrays.</li>
-</ul></li>
+</ul>
+</li>
 <li>Ordering libraries:
-
 <ul>
 <li>Ordering libraries must match the integer type chosen for integer arrays in PaStiX</li>
 <li>PASTIX_ORDERING_SCOTCH[=ON]: Enable/Disable the support of the Scotch library to compute the ordering.</li>
 <li>PASTIX_ORDERING_METIS[=OFF]: Enable/Disable the support of the Metis library to compute the ordering. Metis 5.1 is required.</li>
-</ul></li>
+</ul>
+</li>
 <li>External schedulers:
-
 <ul>
 <li>PASTIX_WITH_PARSEC[=OFF]: Enable/disable the PaRSEC runtime support. Require to install PaRSEC tag pastix-<em>releasenumber</em> (mymaster for master branch) from the repository <a href="https://bitbucket.org/mfaverge/parsec">https://bitbucket.org/mfaverge/parsec</a> that includes a few patches on top of the original PaRSEC runtime system. PaRSEC needs to be compiled with option -DPARSEC_WITH_DEVEL_HEADERS=ON.</li>
 <li>PASTIX_WITH_STARPU[=OFF]: Enable/disable the StarPU runtime support. Require to install StarPU 1.2.</li>
-</ul></li>
+</ul>
+</li>
 <li>Distributed memory:
-
 <ul>
 <li>PASTIX_WITH_MPI=[OFF]: Distributed memory is not supported yet in PaStiX, however you might need to enable this option if your PaRSEC library has been compiled with MPI support.</li>
-</ul></li>
+</ul>
+</li>
 <li>Documentation:
-
 <ul>
 <li>BUILD_DOCUMENTATION[=OFF] to enable the Doxygen documentation generation.</li>
-</ul></li>
 </ul>
-
+</li>
+</ul>
 <h2 id="get-involved">Get involved</h2>
-
 <h3 id="reporting-an-issue">Reporting an issue</h3>
-
 <p>We strongly recommend all users to use the issue tracker to report any problems with the software, or for any feature request. We will try our best to answer them in a short time frame.</p>
-
 <h3 id="contributions">Contributions</h3>
-
 <p><a href="https://gitlab.inria.fr/solverstack/pastix/blob/master/CONTRIBUTING.md">https://gitlab.inria.fr/solverstack/pastix/blob/master/CONTRIBUTING.md</a></p>
-
 <h2 id="authors">Authors</h2>
-
 <p>The following people contribute or contributed to the development of PaStiX:</p>
-
 <ul>
 <li>Mathieu Faverge, PI</li>
 <li>Pierre Ramet, PI</li>
@@ -835,38 +799,32 @@ installed on the system:</p>
 <li>Florent Pruvost, CMake and Spack</li>
 <li>Theophile Terraz</li>
 </ul>
-
 <p>If we forgot your name, please let us know that we can fix that mistake.</p>
-
 <h2 id="citing-pastix">Citing PaStiX</h2>
-
 <p>Feel free to use the following publications to reference PaStiX:</p>
-
 <ul>
 <li>Original paper that initiated PaStiX:
-
 <ul>
 <li>Pascal Hénon, Pierre Ramet, Jean Roman. Pascal Hénon, Pierre Ramet, Jean Roman. PaStiX: A High-Performance Parallel Direct Solver for Sparse Symmetric Definite Systems. Parallel Computing, Elsevier, 2002, 28 (2), pp.301&ndash;321. <a href="https://hal.inria.fr/inria-00346017">INRIA HAL</a></li>
-</ul></li>
+</ul>
+</li>
 <li>Parallel incomplete factorization implemented in PaStiX:
-
 <ul>
 <li>Pascal Hénon, Pierre Ramet, Jean Roman. On finding approximate supernodes for an efficient ILU(k) factorization. Parallel Computing, Elsevier, 2008, 34, pp.345&ndash;362. <a href="https://hal.inria.fr/inria-00346018">INRIA HAL</a></li>
-</ul></li>
+</ul>
+</li>
 <li>Reordering strategy for blocking optimization in PaStiX:
-
 <ul>
 <li>Grégoire Pichon, Mathieu Faverge, Pierre Ramet, Jean Roman. Reordering Strategy for Blocking Optimization in Sparse Linear Solvers. SIAM Journal on Matrix Analysis and Applications, Society for Industrial and Applied Mathematics, 2017, SIAM Journal on Matrix Analysis and Applications, 38 (1), pp.226 - 248. <a href="https://hal.inria.fr/hal-01485507v2">INRIA HAL</a></li>
-</ul></li>
+</ul>
+</li>
 <li>On the use of low rank approximations in PaStiX:
-
 <ul>
 <li>Grégoire Pichon, Eric Darve, Mathieu Faverge, Pierre Ramet, Jean Roman. Sparse supernodal solver using block low-rank compression: Design, performance and analysis. International Journal of Computational Science and Engineering, Inderscience, 2018, 27, pp.255 - 270. <a href="http://dx.doi.org/10.1016/J.JOCS.2018.06.007">10.1016/J.JOCS.2018.06.007</a> <a href="https://hal.inria.fr/hal-01824275">Inria HAL</a></li>
-</ul></li>
 </ul>
-
+</li>
+</ul>
 <h2 id="licence">Licence</h2>
-
 <p><a href="https://gitlab.inria.fr/solverstack/pastix/blob/master/LICENCE">https://gitlab.inria.fr/solverstack/pastix/blob/master/LICENCE</a></p>
 
     </div>
@@ -1062,8 +1020,8 @@ installed on the system:</p>
       
     
     <li>
-      <a href="https://www.researchgate.net/profile/Pierre_Ramet" target="_blank" rel="noopener">
-        <i class="ai ai-researchgate"></i>
+      <a href="https://dl.acm.org/profile/81100480198" target="_blank" rel="noopener">
+        <i class="ai ai-acm"></i>
       </a>
     </li>
   
@@ -1077,8 +1035,8 @@ installed on the system:</p>
       
     
     <li>
-      <a href="http://member.acm.org/~pramet" target="_blank" rel="noopener">
-        <i class="ai ai-acm"></i>
+      <a href="https://www.researchgate.net/profile/Pierre_Ramet" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
       </a>
     </li>
   

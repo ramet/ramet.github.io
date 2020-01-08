@@ -119,7 +119,7 @@
   <meta property="twitter:image" content="https://ramet.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-11-19T10:03:17&#43;00:00">
+      <meta property="article:published_time" content="2020-01-08T19:58:54&#43;00:00">
     
     <meta property="article:modified_time" content="2018-04-01T00:00:00&#43;00:00">
   
@@ -149,7 +149,7 @@
   },
   "headline": "Heterogeneous architectures, Hybrid methods, Hierarchical matrices for Sparse Linear Solvers",
   
-  "datePublished": "2019-11-19T10:03:17Z",
+  "datePublished": "2020-01-08T19:58:54Z",
   "dateModified": "2018-04-01T00:00:00Z",
   
   "author": {
@@ -608,7 +608,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Sparse direct solvers is a time consuming operation required by many scientific applications to simulate physical problems. By its important overall cost, many studies tried to optimize the time to solution of those solvers on multi-core and distributed architectures.  In this talk, we will present recent advances on PaStiX (<a href="https://gitlab.inria.fr/solverstack/pastix">https://gitlab.inria.fr/solverstack/pastix</a>), a supernodal sparse direct solver, which has been enhanced by the introduction of Block Low-Rank compression.  We will compare the numerical stability, and the performance in terms of memory consumption and time to solution of different approaches by selecting when the compression of the factorized matrix occurs. Many works have also addressed heterogeneous architectures to exploit accelerators such as GPUs or Intel Xeon Phi with interesting speedup. The new implementation on top of runtime systems (PaRSEC, StarPU), will be compared with the static scheduling used in previous experiments. Among the preprocessing steps of a sparse direct solver, reordering and block symbolic factorization are two major steps to reach a suitable granularity. In this talk, we will present a reordering strategy to increase off-diagonal block sizes. It enhances BLAS kernels and allows to handle larger tasks, reducing runtime overhead. Finally, in order to improve the efficiency of the sparse update kernel for both BLR (block low rank) and HODLR (hierarchically off-diagonal low-rank), we are currently investigating the BDLR (boundary distance low-rank) method to preselect rows and columns in the low-rank approximation algorithm.</p>
+    <p class="pub-abstract">Sparse direct solvers is a time consuming operation required by many scientific applications to simulate physical problems. By its important overall cost, many studies tried to optimize the time to solution of those solvers on multi-core and distributed architectures.  In this talk, we will present recent advances on PaStiX (<a href="https://gitlab.inria.fr/solverstack/pastix),">https://gitlab.inria.fr/solverstack/pastix),</a> a supernodal sparse direct solver, which has been enhanced by the introduction of Block Low-Rank compression.  We will compare the numerical stability, and the performance in terms of memory consumption and time to solution of different approaches by selecting when the compression of the factorized matrix occurs. Many works have also addressed heterogeneous architectures to exploit accelerators such as GPUs or Intel Xeon Phi with interesting speedup. The new implementation on top of runtime systems (PaRSEC, StarPU), will be compared with the static scheduling used in previous experiments. Among the preprocessing steps of a sparse direct solver, reordering and block symbolic factorization are two major steps to reach a suitable granularity. In this talk, we will present a reordering strategy to increase off-diagonal block sizes. It enhances BLAS kernels and allows to handle larger tasks, reducing runtime overhead. Finally, in order to improve the efficiency of the sparse update kernel for both BLR (block low rank) and HODLR (hierarchically off-diagonal low-rank), we are currently investigating the BDLR (boundary distance low-rank) method to preselect rows and columns in the low-rank approximation algorithm.</p>
     
 
     

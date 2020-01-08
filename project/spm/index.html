@@ -619,15 +619,11 @@
   <div class="article-container">
 
     <div class="article-style">
-      
-
-<h1 id="spm-sparse-matrix-package">SPM: SParse Matrix package</h1>
-
+      <h1 id="spm-sparse-matrix-package">SPM: SParse Matrix package</h1>
 <p>SPM (SParse Matrix package) is a scientific library that provides
 basic operation coverage to manipulate sparse matrices in CSC, CSR,
 and IJV format.
 The functionalities covered are:</p>
-
 <ul>
 <li>sparse matrix -by- dense matrix products</li>
 <li>sparse matrix -by- vector products</li>
@@ -642,19 +638,14 @@ The functionalities covered are:</p>
 <li>Laplacian generators for stencils</li>
 <li>multi-dof and variadic dof as input</li>
 </ul>
-
 <p>This package is for now available in sequential for shared memory
 system, and will be further developed to handle distributed matrices
 over MPI processes.</p>
-
 <p>Python and Fortran90 wrappers are included in the package.</p>
-
 <h2 id="get-spm">Get SPM</h2>
-
 <p>To use last development state of SPM, please clone the master
 branch. Note that SPM contains a <code>git submodule</code> <strong>morse_cmake</strong>.
 To get sources please use these commands:</p>
-
 <pre><code># if git version &gt;= 1.9
   git clone --recursive git@gitlab.inria.fr:solverstack/spm.git
   cd spm
@@ -664,68 +655,50 @@ To get sources please use these commands:</p>
   git submodule init
   git submodule update
 </code></pre>
-
 <h2 id="documentation">Documentation</h2>
-
 <p>The documentation will be soon available as Doxygen pages.</p>
-
 <h2 id="installation">Installation</h2>
-
 <h3 id="build-and-install-with-cmake">Build and install with CMake</h3>
-
 <p>SPM can be built using <a href="https://cmake.org/">CMake</a>. This
 installation requires to have some library dependencies already
 installed on the system:</p>
-
 <ul>
 <li>BLAS (MKL, OpenBlas, &hellip;) and CBLAS (sequential version required)</li>
 <li>LAPACK and LAPACKE</li>
 <li>Python and Fortran compiler for wrappers and examples (optional)</li>
 </ul>
-
 <p>For instance, on debian-like systems, dependencies can be installed with the following command:</p>
-
 <pre><code>  sudo apt-get install cmake gcc gfortran libopenblas-dev liblapacke-dev python-numpy
 </code></pre>
-
 <p>The main options to configure the SPM configuration build are:</p>
-
 <ul>
 <li>Classic cmake options:
-
 <ul>
 <li>CMAKE_BUILD_TYPE: Debug, RelWithDebInfo, Release, MinSizeRel; we recommend to use the Release, or RelWithDebInfo, for performance.</li>
 <li>CMAKE_INSTALL_PREFIX: Specify the prefix directory to install the library</li>
 <li>BUILD_SHARED_LIBS=[OFF]: Enable the shared libraries build. This option needs to be enabled for the Python wrapper.</li>
-</ul></li>
+</ul>
+</li>
 <li>Integer type:
-
 <ul>
 <li>SPM_INT64[=ON]: Enable/disable int64_t for integer arrays.</li>
-</ul></li>
+</ul>
+</li>
 <li>Documentation:
-
 <ul>
 <li>BUILD_DOCUMENTATION[=OFF] to enable the Doxygen documentation generation</li>
-</ul></li>
 </ul>
-
+</li>
+</ul>
 <h2 id="get-involved">Get involved!</h2>
-
 <h3 id="reporting-an-issue">Reporting an issue</h3>
-
 <p>We strongly recommend all users to use the issue tracker to report any
 problems with the software, or for any feature request. We will try
 our best to answer them in a short time frame.</p>
-
 <h3 id="contributions">Contributions</h3>
-
 <p><a href="https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md">https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md</a></p>
-
 <h3 id="authors">Authors</h3>
-
 <p>The following people contribute or contributed to the development of SPM:</p>
-
 <ul>
 <li>Mathieu Faverge</li>
 <li>Matthieu Kuhn</li>
@@ -735,11 +708,8 @@ our best to answer them in a short time frame.</p>
 <li>Pierre Ramet</li>
 <li>Theophile Terraz</li>
 </ul>
-
 <p>If we forgot your name, please let us know that we can fix that mistake.</p>
-
 <h3 id="licence">Licence</h3>
-
 <p><a href="https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE">https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE</a></p>
 
     </div>
@@ -935,8 +905,8 @@ our best to answer them in a short time frame.</p>
       
     
     <li>
-      <a href="https://www.researchgate.net/profile/Pierre_Ramet" target="_blank" rel="noopener">
-        <i class="ai ai-researchgate"></i>
+      <a href="https://dl.acm.org/profile/81100480198" target="_blank" rel="noopener">
+        <i class="ai ai-acm"></i>
       </a>
     </li>
   
@@ -950,8 +920,8 @@ our best to answer them in a short time frame.</p>
       
     
     <li>
-      <a href="http://member.acm.org/~pramet" target="_blank" rel="noopener">
-        <i class="ai ai-acm"></i>
+      <a href="https://www.researchgate.net/profile/Pierre_Ramet" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
       </a>
     </li>
   
