@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
+      <link>https://ramet.github.io/publication/gou-hal-02491495/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/gou-hal-02491495/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent Developments Around the Block Low-Rank PaStiX Solver</title>
       <link>https://ramet.github.io/publication/c-la-bri-pp-20/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
@@ -81,6 +89,14 @@
       <link>https://ramet.github.io/publication/faverge-hal-01956963/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/publication/faverge-hal-01956963/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supernodes ordering to enhance Block Low-Rank compression in sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01961675/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01961675/</guid>
       <description></description>
     </item>
     

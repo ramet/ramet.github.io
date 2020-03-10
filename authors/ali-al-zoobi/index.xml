@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali AL ZOOBI | Pierre Ramet</title>
+    <link>https://ramet.github.io/authors/ali-al-zoobi/</link>
+      <atom:link href="https://ramet.github.io/authors/ali-al-zoobi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ali AL ZOOBI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/img/icon-192.png</url>
+      <title>Ali AL ZOOBI</title>
+      <link>https://ramet.github.io/authors/ali-al-zoobi/</link>
+    </image>
+    
+    <item>
+      <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
+      <link>https://ramet.github.io/publication/gou-hal-02491495/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/gou-hal-02491495/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

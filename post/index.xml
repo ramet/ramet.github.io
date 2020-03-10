@@ -5,12 +5,47 @@
     <link>https://ramet.github.io/post/</link>
       <atom:link href="https://ramet.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2019 13:49:56 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2020 13:49:56 +0100</lastBuildDate>
     <image>
       <url>https://ramet.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://ramet.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>PaStiX Release 6.1.0</title>
+      <link>https://ramet.github.io/post/pastix-release/</link>
+      <pubDate>Fri, 07 Feb 2020 13:49:56 +0100</pubDate>
+      <guid>https://ramet.github.io/post/pastix-release/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Add a new dynamic scheduler supported by the internal threads for numerical factorization&lt;/li&gt;
+&lt;li&gt;Add MPI support for the numerical factorization and solve
+&lt;ul&gt;
+&lt;li&gt;Available for all schedulers: sequential, internal threads (static, dynamic), StarPU, and PaRSEC&lt;/li&gt;
+&lt;li&gt;WARNING: The RHS is not distributed yet, and must be replicated on all nodes&lt;/li&gt;
+&lt;li&gt;WARNING: The low-rank and Schur functionalities are not available in distributed yet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Enable the use of an external SPM module&lt;/li&gt;
+&lt;li&gt;Improve splitting strategy:
+&lt;ul&gt;
+&lt;li&gt;avoid unnecessary splits when using K-Way&lt;/li&gt;
+&lt;li&gt;reduce the range of possible split to limit the apparition of small blocks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Change the preselected behavior to be:
+&lt;ul&gt;
+&lt;li&gt;never compressed in the JustInTime scenario&lt;/li&gt;
+&lt;li&gt;compress the preselected block just before applying the TRSM in the MinimalMemory scenario&lt;/li&gt;
+&lt;li&gt;the behavior can be change through IPARM_COMPRESS_PRESELECT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Add a cmake summary&lt;/li&gt;
+&lt;li&gt;Add coverity scan&lt;/li&gt;
+&lt;li&gt;Update README.md and documentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Build PaStiX with Guix-HPC</title>
@@ -32,7 +67,7 @@ Guix-HPC.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;guix package -u pastix
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;hacking-on-guix-hpc&#34;&gt;Hacking on Guix-HPC&lt;/h2&gt;
-&lt;p&gt;When working on packages of the &lt;code&gt;guix-hpc&lt;/code&gt; channel, you&#39;ll need to clone
+&lt;p&gt;When working on packages of the &lt;code&gt;guix-hpc&lt;/code&gt; channel, you&amp;rsquo;ll need to clone
 the &lt;code&gt;guix-hpc&lt;/code&gt; repository:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;cd src
 git clone https://gitlab.inria.fr/guix-hpc/guix-hpc.git
@@ -42,43 +77,6 @@ passing the location of the checkout using the &lt;code&gt;-L&lt;/code&gt; flag 
 and other command-line tools, as in this example:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;guix build -L ~/src/guix-hpc pastix
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PaStiX Release 6.0.3</title>
-      <link>https://ramet.github.io/post/pastix-release/</link>
-      <pubDate>Sat, 16 Nov 2019 13:49:56 +0100</pubDate>
-      <guid>https://ramet.github.io/post/pastix-release/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Update spm module to ada4963&lt;/li&gt;
-&lt;li&gt;Update morse_cmake to ade4996&lt;/li&gt;
-&lt;li&gt;CMake: Update cmake_module to integrate the last version of the precision generator&lt;/li&gt;
-&lt;li&gt;Change StarPU requirement to &amp;gt;= 1.3&lt;/li&gt;
-&lt;li&gt;Refactor and extend the CI/CTests&lt;/li&gt;
-&lt;li&gt;Update documentation&lt;/li&gt;
-&lt;li&gt;Low-rank:
-&lt;ul&gt;
-&lt;li&gt;Add a new parameter IPARM_COMPRESS_RELTOL to switch between absolute and relative tolerance&lt;/li&gt;
-&lt;li&gt;Improved stability of low-rank kernels&lt;/li&gt;
-&lt;li&gt;Extend the number of tests&lt;/li&gt;
-&lt;li&gt;Add rotation QR kernels (unstable/work in progress)&lt;/li&gt;
-&lt;li&gt;Enable multiple low-rank factorization in a row&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Supports compilation with mpicc (no distributed solver yet)&lt;/li&gt;
-&lt;li&gt;Add separated output directories for future distributed process, or for MPI multiple instances&lt;/li&gt;
-&lt;li&gt;Octave: Fix issue with number of threads larger than the number of columns&lt;/li&gt;
-&lt;li&gt;Octave: Fix compilation on Windows system&lt;/li&gt;
-&lt;li&gt;Documentation: add documentation on process binding&lt;/li&gt;
-&lt;li&gt;HwLoc: fix binding when already restricted through batch scheduler and/or MPI&lt;/li&gt;
-&lt;li&gt;Fix issue #35, make pastix_task_analyze thread safe&lt;/li&gt;
-&lt;li&gt;Add support for multi-dof in Fortran&lt;/li&gt;
-&lt;li&gt;Fix issue in simulation, and a switch between cost and tree levels&lt;/li&gt;
-&lt;li&gt;Refinement: Fix issue with gemv computation and PastixConjTrans&lt;/li&gt;
-&lt;li&gt;CMake: Enable a round-robin selection of CMAKE_BUILD_TYPE depending on the sanitizers provided by the compiler&lt;/li&gt;
-&lt;li&gt;Homebrew: update formula&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

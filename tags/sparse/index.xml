@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
+      <link>https://ramet.github.io/publication/gou-hal-02491495/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/gou-hal-02491495/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent Developments Around the Block Low-Rank PaStiX Solver</title>
       <link>https://ramet.github.io/publication/c-la-bri-pp-20/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
@@ -33,6 +41,14 @@
       <link>https://ramet.github.io/publication/faverge-hal-01956963/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/publication/faverge-hal-01956963/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supernodes ordering to enhance Block Low-Rank compression in sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01961675/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01961675/</guid>
       <description></description>
     </item>
     
@@ -105,6 +121,9 @@ To get sources please use these commands:&lt;/p&gt;
 &lt;a href=&#34;https://gforge.inria.fr/frs/?group_id=186&#34;&gt;gforge.inria.fr&lt;/a&gt; for now.
 Future releases will be available on this gitlab project.&lt;/p&gt;
 &lt;h2 id=&#34;available-features&#34;&gt;Available Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Features available in shared memory with POSIX threads for multicores architectures.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -119,67 +138,140 @@ Future releases will be available on this gitlab project.&lt;/p&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;POTRF (Cholesky)&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR/GPU&lt;/td&gt;
-&lt;td&gt;SHM/LR/GPU&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+&lt;td&gt;FR/LR/GPU&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;PXTRF (LL^t for complex)&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR/GPU&lt;/td&gt;
-&lt;td&gt;SHM/LR/GPU&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+&lt;td&gt;FR/LR/GPU&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;HETRF (LDL^h)&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR/GPU&lt;/td&gt;
-&lt;td&gt;SHM/LR/GPU&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+&lt;td&gt;FR/LR/GPU&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;SYTRF (LDL^t)&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR/GPU&lt;/td&gt;
-&lt;td&gt;SHM/LR/GPU&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+&lt;td&gt;FR/LR/GPU&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;GETRF (LU)&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR/GPU&lt;/td&gt;
-&lt;td&gt;SHM/LR/GPU&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+&lt;td&gt;FR/LR/GPU&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;TRSM&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;DIAG&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
-&lt;td&gt;SHM/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
+&lt;td&gt;FR/LR&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;ul&gt;
-&lt;li&gt;SHM means Shared Memory using POSIX theads for multicores architectures&lt;/li&gt;
-&lt;li&gt;LR means (block) Low-Rank compression technique to reduce the memory footprint and/or the time-to-solution&lt;/li&gt;
+&lt;li&gt;Features available in hybrid shared/distributed memory with MPI between processes, and POSIX threads within a process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Seq&lt;/th&gt;
+&lt;th&gt;Static&lt;/th&gt;
+&lt;th&gt;Dyn&lt;/th&gt;
+&lt;th&gt;StarPU&lt;/th&gt;
+&lt;th&gt;PaRSEC&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;POTRF (Cholesky)&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR/GPU&lt;/td&gt;
+&lt;td&gt;FR/GPU&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PXTRF (LL^t for complex)&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR/GPU&lt;/td&gt;
+&lt;td&gt;FR/GPU&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HETRF (LDL^h)&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR/GPU&lt;/td&gt;
+&lt;td&gt;FR/GPU&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SYTRF (LDL^t)&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR/GPU&lt;/td&gt;
+&lt;td&gt;FR/GPU&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;GETRF (LU)&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR/GPU&lt;/td&gt;
+&lt;td&gt;FR/GPU&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;TRSM&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DIAG&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;FR&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;FR means Full-Rank computations without compression techniques&lt;/li&gt;
+&lt;li&gt;LR means Low-Rank compression technique to reduce the memory footprint and/or the time-to-solution&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;WARNING&lt;/em&gt; GPU kernels are not available on compressed supernodes&lt;/li&gt;
-&lt;li&gt;MPI is not available yet and will come with 6.1.0&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;WARNING&lt;/em&gt; Low-rank compression and Schur complement are not available with MPI yet.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
 &lt;p&gt;The latest Doxygen documentation is available &lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/pastix&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -228,12 +320,17 @@ installed on the system:&lt;/p&gt;
 &lt;li&gt;External schedulers:
 &lt;ul&gt;
 &lt;li&gt;PASTIX_WITH_PARSEC[=OFF]: Enable/disable the PaRSEC runtime support. Require to install PaRSEC tag pastix-&lt;em&gt;releasenumber&lt;/em&gt; (mymaster for master branch) from the repository &lt;a href=&#34;https://bitbucket.org/mfaverge/parsec&#34;&gt;https://bitbucket.org/mfaverge/parsec&lt;/a&gt; that includes a few patches on top of the original PaRSEC runtime system. PaRSEC needs to be compiled with option -DPARSEC_WITH_DEVEL_HEADERS=ON.&lt;/li&gt;
-&lt;li&gt;PASTIX_WITH_STARPU[=OFF]: Enable/disable the StarPU runtime support. Require to install StarPU 1.2.&lt;/li&gt;
+&lt;li&gt;PASTIX_WITH_STARPU[=OFF]: Enable/disable the StarPU runtime support. Require to install StarPU 1.3.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Distributed memory:
 &lt;ul&gt;
-&lt;li&gt;PASTIX_WITH_MPI=[OFF]: Distributed memory is not supported yet in PaStiX, however you might need to enable this option if your PaRSEC library has been compiled with MPI support.&lt;/li&gt;
+&lt;li&gt;PASTIX_WITH_MPI=[OFF]: Enable/disable distributed memory support (See above for details). If used with the PaRSEC library, MPI should be enabled or disabled in both libraries.*&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;External SpM library:
+&lt;ul&gt;
+&lt;li&gt;PASTIX_WITH_EXTERNAL_SPM=[OFF]: Enable/disable the use of an external SpM library in favor of the internal one.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Documentation:
@@ -260,6 +357,7 @@ installed on the system:&lt;/p&gt;
 &lt;li&gt;Grégoire Pichon, Low-rank solver&lt;/li&gt;
 &lt;li&gt;Florent Pruvost, CMake and Spack&lt;/li&gt;
 &lt;li&gt;Theophile Terraz&lt;/li&gt;
+&lt;li&gt;Tony Delarue, MPI implementation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If we forgot your name, please let us know that we can fix that mistake.&lt;/p&gt;
 &lt;h2 id=&#34;citing-pastix&#34;&gt;Citing PaStiX&lt;/h2&gt;
@@ -287,7 +385,7 @@ installed on the system:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;licence&#34;&gt;Licence&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://gitlab.inria.fr/solverstack/pastix/blob/master/LICENCE&#34;&gt;https://gitlab.inria.fr/solverstack/pastix/blob/master/LICENCE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gitlab.inria.fr/solverstack/pastix/blob/master/LICENSE&#34;&gt;https://gitlab.inria.fr/solverstack/pastix/blob/master/LICENSE&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -33,12 +33,57 @@
   </url>
   
   <url>
+    <loc>https://ramet.github.io/authors/</loc>
+    <lastmod>2020-02-07T13:49:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/post/pastix-release/</loc>
+    <lastmod>2020-02-07T13:49:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/tags/pastix6/</loc>
+    <lastmod>2020-02-07T13:49:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/pierre-ramet/</loc>
+    <lastmod>2020-02-07T13:49:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/post/</loc>
+    <lastmod>2020-02-07T13:49:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/tags/</loc>
+    <lastmod>2020-02-07T13:49:56+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ramet.github.io/publication_types/1/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ramet.github.io/authors/</loc>
+    <loc>https://ramet.github.io/publication_types/4/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/ali-al-zoobi/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/anne-benoit/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/changjiang-gou/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,7 +98,27 @@
   </url>
   
   <url>
+    <loc>https://ramet.github.io/authors/gregoire-pichon/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/gou-hal-02491495/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/loris-marchal/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ramet.github.io/authors/m.-faverge/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/authors/mathieu-faverge/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,32 +148,7 @@
   </url>
   
   <url>
-    <loc>https://ramet.github.io/tags/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ramet.github.io/post/guix-build/</loc>
-    <lastmod>2019-11-16T13:49:56+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ramet.github.io/post/pastix-release/</loc>
-    <lastmod>2019-11-16T13:49:56+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ramet.github.io/tags/pastix6/</loc>
-    <lastmod>2019-11-16T13:49:56+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ramet.github.io/authors/pierre-ramet/</loc>
-    <lastmod>2019-11-16T13:49:56+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ramet.github.io/post/</loc>
     <lastmod>2019-11-16T13:49:56+01:00</lastmod>
   </url>
   
@@ -128,17 +168,7 @@
   </url>
   
   <url>
-    <loc>https://ramet.github.io/authors/gregoire-pichon/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ramet.github.io/authors/jean-roman/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ramet.github.io/authors/mathieu-faverge/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -150,11 +180,6 @@
   <url>
     <loc>https://ramet.github.io/publication/pichon-hal-02326407/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ramet.github.io/publication_types/4/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -200,6 +225,11 @@
   <url>
     <loc>https://ramet.github.io/publication/korkmaz-hal-02326084/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -260,6 +290,11 @@
   <url>
     <loc>https://ramet.github.io/authors/j.-roman/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ramet.github.io/publication/pichon-hal-01961675/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1846,24 +1881,11 @@
   </url>
   
   <url>
-    <loc>https://ramet.github.io/restricted/restricted/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ramet.github.io/bib/</loc>
   </url>
   
   <url>
     <loc>https://ramet.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ramet.github.io/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ramet.github.io/restricted/</loc>
   </url>
   
 </urlset>

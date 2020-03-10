@@ -5,7 +5,7 @@
     <link>https://ramet.github.io/publication_types/4/</link>
       <atom:link href="https://ramet.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ramet.github.io/img/icon-192.png</url>
       <title>4</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
+      <link>https://ramet.github.io/publication/gou-hal-02491495/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/gou-hal-02491495/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A hierarchical fast direct solver for distributed memory machines with manycore nodes</title>
       <link>https://ramet.github.io/publication/augonnet-cea-02304706/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/publication/augonnet-cea-02304706/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supernodes ordering to enhance Block Low-Rank compression in sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01961675/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01961675/</guid>
       <description></description>
     </item>
     

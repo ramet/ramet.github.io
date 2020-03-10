@@ -113,14 +113,14 @@
   
   <meta property="og:site_name" content="Pierre Ramet">
   <meta property="og:url" content="https://ramet.github.io/post/pastix-release/">
-  <meta property="og:title" content="PaStiX Release 6.0.3 | Pierre Ramet">
+  <meta property="og:title" content="PaStiX Release 6.1.0 | Pierre Ramet">
   <meta property="og:description" content="See [Gitlab Inria](https://gitlab.inria.fr/solverstack/pastix/-/releases)"><meta property="og:image" content="https://ramet.github.io/post/pastix-release/featured.png">
   <meta property="twitter:image" content="https://ramet.github.io/post/pastix-release/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-11-16T13:49:56&#43;01:00">
+      <meta property="article:published_time" content="2020-02-07T13:49:56&#43;01:00">
     
-    <meta property="article:modified_time" content="2019-11-16T13:49:56&#43;01:00">
+    <meta property="article:modified_time" content="2020-02-07T13:49:56&#43;01:00">
   
 
   
@@ -148,14 +148,14 @@
     "@type": "WebPage",
     "@id": "https://ramet.github.io/post/pastix-release/"
   },
-  "headline": "PaStiX Release 6.0.3",
+  "headline": "PaStiX Release 6.1.0",
   
   "image": [
     "https://ramet.github.io/post/pastix-release/featured.png"
   ],
   
-  "datePublished": "2019-11-16T13:49:56+01:00",
-  "dateModified": "2019-11-16T13:49:56+01:00",
+  "datePublished": "2020-02-07T13:49:56+01:00",
+  "dateModified": "2020-02-07T13:49:56+01:00",
   
   "author": {
     "@type": "Person",
@@ -188,7 +188,7 @@
 
 
 
-  <title>PaStiX Release 6.0.3 | Pierre Ramet</title>
+  <title>PaStiX Release 6.1.0 | Pierre Ramet</title>
 
 </head>
 
@@ -509,7 +509,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>PaStiX Release 6.0.3</h1>
+  <h1>PaStiX Release 6.1.0</h1>
 
   
 
@@ -540,7 +540,7 @@
     
       
     
-    Nov 16, 2019
+    Feb 7, 2020
   </span>
   
 
@@ -630,33 +630,31 @@
 
     <div class="article-style">
       <ul>
-<li>Update spm module to ada4963</li>
-<li>Update morse_cmake to ade4996</li>
-<li>CMake: Update cmake_module to integrate the last version of the precision generator</li>
-<li>Change StarPU requirement to &gt;= 1.3</li>
-<li>Refactor and extend the CI/CTests</li>
-<li>Update documentation</li>
-<li>Low-rank:
+<li>Add a new dynamic scheduler supported by the internal threads for numerical factorization</li>
+<li>Add MPI support for the numerical factorization and solve
 <ul>
-<li>Add a new parameter IPARM_COMPRESS_RELTOL to switch between absolute and relative tolerance</li>
-<li>Improved stability of low-rank kernels</li>
-<li>Extend the number of tests</li>
-<li>Add rotation QR kernels (unstable/work in progress)</li>
-<li>Enable multiple low-rank factorization in a row</li>
+<li>Available for all schedulers: sequential, internal threads (static, dynamic), StarPU, and PaRSEC</li>
+<li>WARNING: The RHS is not distributed yet, and must be replicated on all nodes</li>
+<li>WARNING: The low-rank and Schur functionalities are not available in distributed yet</li>
 </ul>
 </li>
-<li>Supports compilation with mpicc (no distributed solver yet)</li>
-<li>Add separated output directories for future distributed process, or for MPI multiple instances</li>
-<li>Octave: Fix issue with number of threads larger than the number of columns</li>
-<li>Octave: Fix compilation on Windows system</li>
-<li>Documentation: add documentation on process binding</li>
-<li>HwLoc: fix binding when already restricted through batch scheduler and/or MPI</li>
-<li>Fix issue #35, make pastix_task_analyze thread safe</li>
-<li>Add support for multi-dof in Fortran</li>
-<li>Fix issue in simulation, and a switch between cost and tree levels</li>
-<li>Refinement: Fix issue with gemv computation and PastixConjTrans</li>
-<li>CMake: Enable a round-robin selection of CMAKE_BUILD_TYPE depending on the sanitizers provided by the compiler</li>
-<li>Homebrew: update formula</li>
+<li>Enable the use of an external SPM module</li>
+<li>Improve splitting strategy:
+<ul>
+<li>avoid unnecessary splits when using K-Way</li>
+<li>reduce the range of possible split to limit the apparition of small blocks</li>
+</ul>
+</li>
+<li>Change the preselected behavior to be:
+<ul>
+<li>never compressed in the JustInTime scenario</li>
+<li>compress the preselected block just before applying the TRSM in the MinimalMemory scenario</li>
+<li>the behavior can be change through IPARM_COMPRESS_PRESELECT</li>
+</ul>
+</li>
+<li>Add a cmake summary</li>
+<li>Add coverity scan</li>
+<li>Update README.md and documentation</li>
 </ul>
 
     </div>
@@ -686,7 +684,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://ramet.github.io/post/pastix-release/&amp;text=PaStiX%20Release%206.0.3" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://ramet.github.io/post/pastix-release/&amp;text=PaStiX%20Release%206.1.0" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -699,7 +697,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://ramet.github.io/post/pastix-release/&amp;t=PaStiX%20Release%206.0.3" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://ramet.github.io/post/pastix-release/&amp;t=PaStiX%20Release%206.1.0" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -712,7 +710,7 @@
       
       
       <li>
-        <a href="mailto:?subject=PaStiX%20Release%206.0.3&amp;body=https://ramet.github.io/post/pastix-release/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=PaStiX%20Release%206.1.0&amp;body=https://ramet.github.io/post/pastix-release/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -725,7 +723,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://ramet.github.io/post/pastix-release/&amp;title=PaStiX%20Release%206.0.3" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://ramet.github.io/post/pastix-release/&amp;title=PaStiX%20Release%206.1.0" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -738,7 +736,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=PaStiX%20Release%206.0.3%20https://ramet.github.io/post/pastix-release/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=PaStiX%20Release%206.1.0%20https://ramet.github.io/post/pastix-release/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -751,7 +749,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://ramet.github.io/post/pastix-release/&amp;title=PaStiX%20Release%206.0.3" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://ramet.github.io/post/pastix-release/&amp;title=PaStiX%20Release%206.1.0" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

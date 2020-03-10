@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Supernodes ordering to enhance Block Low-Rank compression in sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01961675/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01961675/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
       <link>https://ramet.github.io/publication/pichon-hal-01824275/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>

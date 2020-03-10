@@ -5,68 +5,12 @@
     <link>https://ramet.github.io/tags/</link>
       <atom:link href="https://ramet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2020 13:49:56 +0100</lastBuildDate>
     <image>
       <url>https://ramet.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://ramet.github.io/tags/</link>
     </image>
-    
-    <item>
-      <title>Sparse</title>
-      <link>https://ramet.github.io/tags/sparse/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/tags/sparse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pastix6</title>
-      <link>https://ramet.github.io/tags/pastix6/</link>
-      <pubDate>Sat, 16 Nov 2019 13:49:56 +0100</pubDate>
-      <guid>https://ramet.github.io/tags/pastix6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>randomized</title>
-      <link>https://ramet.github.io/tags/randomized/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/tags/randomized/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>h-mat</title>
-      <link>https://ramet.github.io/tags/h-mat/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/tags/h-mat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neutron</title>
-      <link>https://ramet.github.io/tags/neutron/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/tags/neutron/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fusion</title>
-      <link>https://ramet.github.io/tags/fusion/</link>
-      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/tags/fusion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>overlap</title>
-      <link>https://ramet.github.io/tags/overlap/</link>
-      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/tags/overlap/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

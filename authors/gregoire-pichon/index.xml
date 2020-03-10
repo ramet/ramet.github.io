@@ -5,12 +5,20 @@
     <link>https://ramet.github.io/authors/gregoire-pichon/</link>
       <atom:link href="https://ramet.github.io/authors/gregoire-pichon/index.xml" rel="self" type="application/rss+xml" />
     <description>Grégoire Pichon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ramet.github.io/img/icon-192.png</url>
       <title>Grégoire Pichon</title>
       <link>https://ramet.github.io/authors/gregoire-pichon/</link>
     </image>
+    
+    <item>
+      <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
+      <link>https://ramet.github.io/publication/gou-hal-02491495/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/gou-hal-02491495/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
