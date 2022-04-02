@@ -77,389 +77,23 @@
     </item>
     
     <item>
-      <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
-      <link>https://ramet.github.io/publication/korkmaz-hal-03361299/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/korkmaz-hal-03361299/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Study of the recent developments around the PaStiX solver for the EoCoE project: distributed mem- ory, runtime systems, and low-rank</title>
-      <link>https://ramet.github.io/publication/c-la-bri-cfd-21/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-cfd-21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The JOREK non-linear extended MHD code and applications to large-scale instabilities and their control in magnetically confined fusion plasmas</title>
-      <link>https://ramet.github.io/publication/hoelzl-hal-03352509/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/hoelzl-hal-03352509/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
-      <link>https://ramet.github.io/publication/korkmaz-hal-03152932/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/korkmaz-hal-03152932/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
-      <link>https://ramet.github.io/publication/gou-hal-02973315/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/gou-hal-02973315/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PaStiX Release 6.1.0</title>
-      <link>https://ramet.github.io/post/pastix-release/</link>
-      <pubDate>Fri, 07 Feb 2020 13:49:56 +0100</pubDate>
-      <guid>https://ramet.github.io/post/pastix-release/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Add a new dynamic scheduler supported by the internal threads for numerical factorization&lt;/li&gt;
-&lt;li&gt;Add MPI support for the numerical factorization and solve
-&lt;ul&gt;
-&lt;li&gt;Available for all schedulers: sequential, internal threads (static, dynamic), StarPU, and PaRSEC&lt;/li&gt;
-&lt;li&gt;WARNING: The RHS is not distributed yet, and must be replicated on all nodes&lt;/li&gt;
-&lt;li&gt;WARNING: The low-rank and Schur functionalities are not available in distributed yet&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Enable the use of an external SPM module&lt;/li&gt;
-&lt;li&gt;Improve splitting strategy:
-&lt;ul&gt;
-&lt;li&gt;avoid unnecessary splits when using K-Way&lt;/li&gt;
-&lt;li&gt;reduce the range of possible split to limit the apparition of small blocks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Change the preselected behavior to be:
-&lt;ul&gt;
-&lt;li&gt;never compressed in the JustInTime scenario&lt;/li&gt;
-&lt;li&gt;compress the preselected block just before applying the TRSM in the MinimalMemory scenario&lt;/li&gt;
-&lt;li&gt;the behavior can be change through IPARM_COMPRESS_PRESELECT&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Add a cmake summary&lt;/li&gt;
-&lt;li&gt;Add coverity scan&lt;/li&gt;
-&lt;li&gt;Update README.md and documentation&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
-      <link>https://ramet.github.io/publication/gou-hal-02491495/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/gou-hal-02491495/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Developments Around the Block Low-Rank PaStiX Solver</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pp-20/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pp-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Build PaStiX with Guix-HPC</title>
-      <link>https://ramet.github.io/post/guix-build/</link>
-      <pubDate>Sat, 16 Nov 2019 13:49:56 +0100</pubDate>
-      <guid>https://ramet.github.io/post/guix-build/</guid>
-      <description>&lt;h2 id=&#34;how-to-build-pastix&#34;&gt;How to build PaStiX&lt;/h2&gt;
-&lt;p&gt;The package definitions in &lt;em&gt;Guix-HPC&lt;/em&gt; repository &lt;em&gt;extend&lt;/em&gt; 
-&lt;a href=&#34;https://gnu.org/s/guix/packages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;those that come with
-Guix&lt;/a&gt;.  To make them visible to the
-&lt;code&gt;guix&lt;/code&gt; command-line tools, create the &lt;code&gt;~/.config/guix/channels.scm&lt;/code&gt; file
-with the following snippet to request the &lt;code&gt;guix-hpc&lt;/code&gt; &lt;em&gt;channel&lt;/em&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;(cons (channel
-        (name &#39;guix-hpc)
-        (url &amp;quot;https://gitlab.inria.fr/guix-hpc/guix-hpc.git&amp;quot;))
-      %default-channels)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;That way, &lt;code&gt;guix pull&lt;/code&gt; will systematically pull not only Guix, but also
-Guix-HPC.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;guix package -u pastix
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;hacking-on-guix-hpc&#34;&gt;Hacking on Guix-HPC&lt;/h2&gt;
-&lt;p&gt;When working on packages of the &lt;code&gt;guix-hpc&lt;/code&gt; channel, you&amp;rsquo;ll need to clone
-the &lt;code&gt;guix-hpc&lt;/code&gt; repository:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;cd src
-git clone https://gitlab.inria.fr/guix-hpc/guix-hpc.git
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;From then on, you can edit package definitions, and then try them out by
-passing the location of the checkout using the &lt;code&gt;-L&lt;/code&gt; flag to &lt;code&gt;guix build&lt;/code&gt;
-and other command-line tools, as in this example:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;guix build -L ~/src/guix-hpc pastix
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
-      <link>https://ramet.github.io/publication/pichon-hal-02326407/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-02326407/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A hierarchical fast direct solver for distributed memory machines with manycore nodes</title>
-      <link>https://ramet.github.io/publication/augonnet-cea-02304706/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/augonnet-cea-02304706/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rank Revealing QR Methods for Sparse Block Low Rank Solvers</title>
-      <link>https://ramet.github.io/publication/korkmaz-hal-02326070/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/korkmaz-hal-02326070/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rank Revealing QR Methods for Sparse Block Low Rank Solvers</title>
-      <link>https://ramet.github.io/publication/korkmaz-hal-02326084/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/korkmaz-hal-02326084/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Parallel Solution of the 3D Stationary Boltzmann Transport Equation for Diffusive Problems</title>
-      <link>https://ramet.github.io/publication/moustafa-hal-02080624/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/moustafa-hal-02080624/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Utilisation de techniques de compression low-rank pour un solveur parallèle direct creux</title>
-      <link>https://ramet.github.io/publication/ramet-hal-02081108/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/ramet-hal-02081108/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://ramet.github.io/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/slides/example/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   One 
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   **Two** 
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   Three 
-&lt;/span&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Block Low-rank Algebraic Clustering for Sparse Direct Solvers</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01956962/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01956962/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploiting Parameterized Task-graph in Sparse Direct Solvers</title>
-      <link>https://ramet.github.io/publication/faverge-hal-01956963/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/faverge-hal-01956963/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supernodes ordering to enhance Block Low-Rank compression in sparse direct solvers</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01961675/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01961675/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the use of low-rank arithmetic to reduce the complexity of parallel sparse linear solvers based on direct factorization techniques</title>
-      <link>https://ramet.github.io/publication/t-la-bri-gp-18/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/t-la-bri-gp-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Utilisation de la compression low-rank pour réduire la complexité du solveur PaStiX</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01956928/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01956928/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01824275/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01824275/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Utilisation de la compression Block Low-Rank pour accélérer un solveur direct creux supernodal</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01956959/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01956959/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supernodes ordering to enhance Block Low-Rank compression in sparse direct solvers</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01956960/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01956960/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heterogeneous architectures, Hybrid methods, Hierarchical matrices for Sparse Linear Solvers</title>
-      <link>https://ramet.github.io/publication/c-la-bri-stanford-18/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-stanford-18/</guid>
+      <title>PaStiX 5</title>
+      <link>https://ramet.github.io/project/pastix5/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/project/pastix5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PaStiX 6</title>
       <link>https://ramet.github.io/project/pastix6/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/project/pastix6/</guid>
       <description>&lt;h1 id=&#34;pastix-a-sparse-direct-solver&#34;&gt;PaStiX: A sparse direct solver&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/pastix/pipelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/pastix/badges/master/pipeline.svg&#34; alt=&#34;pipeline status&#34;&gt;&lt;/a&gt; 
+&lt;a href=&#34;https://sonarqube.inria.fr/sonarqube/dashboard?id=hiepacs%3Apastix%3Agitlab%3Amaster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/pastix/badges/master/coverage.svg&#34; alt=&#34;coverage report&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scan.coverity.com/projects/pastix&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://scan.coverity.com/projects/20282/badge.svg&#34; alt=&#34;coverity report&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;PaStiX (Parallel Sparse matriX package) is a scientific library that provides a
 high performance parallel solver for very large sparse linear systems based on
 direct methods.  Numerical algorithms are implemented in single or double
@@ -766,6 +400,465 @@ installed on the system:&lt;/p&gt;
     </item>
     
     <item>
+      <title>SPM</title>
+      <link>https://ramet.github.io/project/spm/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/project/spm/</guid>
+      <description>&lt;h1 id=&#34;spm-sparse-matrix-package&#34;&gt;SPM: SParse Matrix package&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/pipelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/spm/badges/master/pipeline.svg&#34; alt=&#34;pipeline status&#34;&gt;&lt;/a&gt; 
+&lt;a href=&#34;https://sonarqube.inria.fr/sonarqube/dashboard?id=hiepacs%3Aspm%3Agitlab%3Amaster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/spm/badges/master/coverage.svg&#34; alt=&#34;coverage report&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scan.coverity.com/projects/spm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://scan.coverity.com/projects/20444/badge.svg&#34; alt=&#34;coverity report&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SPM (SParse Matrix package) is a scientific library that provides
+basic operation coverage to manipulate sparse matrices in CSC, CSR,
+and IJV format.
+The functionalities covered are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sparse matrix -by- dense matrix products&lt;/li&gt;
+&lt;li&gt;sparse matrix -by- vector products&lt;/li&gt;
+&lt;li&gt;norm computations&lt;/li&gt;
+&lt;li&gt;matrix and vector scaling&lt;/li&gt;
+&lt;li&gt;sort functions&lt;/li&gt;
+&lt;li&gt;graph symmetrization and merge of duplicate entries&lt;/li&gt;
+&lt;li&gt;random generators for right hand sides&lt;/li&gt;
+&lt;li&gt;check routines for linear solvers&lt;/li&gt;
+&lt;li&gt;In-place format conversion routines&lt;/li&gt;
+&lt;li&gt;drivers to read matrices from files (MatrixMarket, Harwell-Boeing/RSA, IJV, &amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Laplacian generators for stencils&lt;/li&gt;
+&lt;li&gt;multi-dof and variadic dof as input&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Python, Julia and Fortran90 wrappers are included in the package.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Warning&lt;/em&gt;: This package do not intent to provide performance for now,
+but a portable API and simple interface to manipulate sparse matrices
+both in shared or distributed memory. This is somehow similar to what
+has been proposed in the 
+&lt;a href=&#34;https://www.gnu.org/software/gsl/doc/html/spmatrix.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GNU Sparse
+Library&lt;/a&gt; in
+parallel of this project for the shared memory aspects.&lt;/p&gt;
+&lt;h2 id=&#34;get-spm&#34;&gt;Get SPM&lt;/h2&gt;
+&lt;p&gt;To use last development state of SPM, please clone the master
+branch. Note that SPM contains a &lt;code&gt;git submodule&lt;/code&gt; &lt;strong&gt;morse_cmake&lt;/strong&gt;.
+To get sources please use these commands:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# if git version &amp;gt;= 1.9
+  git clone --recursive git@gitlab.inria.fr:solverstack/spm.git
+  cd spm
+# else
+  git clone git@gitlab.inria.fr:solverstack/spm.git
+  cd spm
+  git submodule init
+  git submodule update
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;The latest Doxygen documentation is available 
+&lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/spm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The main functionalities are listed 
+&lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/spm/group__spm.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;h3 id=&#34;build-and-install-with-cmake&#34;&gt;Build and install with CMake&lt;/h3&gt;
+&lt;p&gt;SPM can be built using 
+&lt;a href=&#34;https://cmake.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMake&lt;/a&gt;. This
+installation requires to have some library dependencies already
+installed on the system:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BLAS (MKL, OpenBlas, &amp;hellip;) and CBLAS (sequential version required)&lt;/li&gt;
+&lt;li&gt;LAPACK and LAPACKE&lt;/li&gt;
+&lt;li&gt;Python and Fortran compiler for wrappers and examples (optional)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For instance, on debian-like systems, dependencies can be installed with the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  sudo apt-get install cmake gcc gfortran libopenblas-dev liblapacke-dev python-numpy
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The main options to configure the SPM configuration build are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Classic cmake options:
+&lt;ul&gt;
+&lt;li&gt;CMAKE_BUILD_TYPE: Debug, RelWithDebInfo, Release, MinSizeRel; we recommend to use the Release, or RelWithDebInfo, for performance.&lt;/li&gt;
+&lt;li&gt;CMAKE_INSTALL_PREFIX: Specify the prefix directory to install the library&lt;/li&gt;
+&lt;li&gt;BUILD_SHARED_LIBS=[OFF]: Enable the shared libraries build. This option needs to be enabled for the Python wrapper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Integer type:
+&lt;ul&gt;
+&lt;li&gt;SPM_INT64[=ON]: Enable/disable int64_t for integer arrays.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Documentation:
+&lt;ul&gt;
+&lt;li&gt;BUILD_DOCUMENTATION[=OFF] to enable the Doxygen documentation generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;get-involved&#34;&gt;Get involved!&lt;/h2&gt;
+&lt;h3 id=&#34;reporting-an-issue&#34;&gt;Reporting an issue&lt;/h3&gt;
+&lt;p&gt;We strongly recommend all users to use the issue tracker to report any
+problems with the software, or for any feature request. We will try
+our best to answer them in a short time frame.&lt;/p&gt;
+&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;
+&lt;p&gt;The following people contribute or contributed to the development of SPM:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mathieu Faverge&lt;/li&gt;
+&lt;li&gt;Matthieu Kuhn&lt;/li&gt;
+&lt;li&gt;Xavier Lacoste&lt;/li&gt;
+&lt;li&gt;Selmane Lebdaoui&lt;/li&gt;
+&lt;li&gt;Grégoire Pichon&lt;/li&gt;
+&lt;li&gt;Florent Pruvost&lt;/li&gt;
+&lt;li&gt;Pierre Ramet&lt;/li&gt;
+&lt;li&gt;Theophile Terraz&lt;/li&gt;
+&lt;li&gt;Tony Delarue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If we forgot your name, please let us know that we can fix that mistake.&lt;/p&gt;
+&lt;h3 id=&#34;license&#34;&gt;License&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENSE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENSE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-03361299/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-03361299/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of the recent developments around the PaStiX solver for the EoCoE project: distributed mem- ory, runtime systems, and low-rank</title>
+      <link>https://ramet.github.io/publication/c-la-bri-cfd-21/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-cfd-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The JOREK non-linear extended MHD code and applications to large-scale instabilities and their control in magnetically confined fusion plasmas</title>
+      <link>https://ramet.github.io/publication/hoelzl-hal-03352509/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/hoelzl-hal-03352509/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-03152932/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-03152932/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
+      <link>https://ramet.github.io/publication/gou-hal-02973315/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/gou-hal-02973315/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
+      <link>https://ramet.github.io/publication/gou-hal-02491495/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/gou-hal-02491495/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Developments Around the Block Low-Rank PaStiX Solver</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pp-20/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build PaStiX with Guix-HPC</title>
+      <link>https://ramet.github.io/post/guix-build/</link>
+      <pubDate>Sat, 16 Nov 2019 13:49:56 +0100</pubDate>
+      <guid>https://ramet.github.io/post/guix-build/</guid>
+      <description>&lt;h2 id=&#34;how-to-build-pastix&#34;&gt;How to build PaStiX&lt;/h2&gt;
+&lt;p&gt;The package definitions in &lt;em&gt;Guix-HPC&lt;/em&gt; repository &lt;em&gt;extend&lt;/em&gt; 
+&lt;a href=&#34;https://gnu.org/s/guix/packages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;those that come with
+Guix&lt;/a&gt;.  To make them visible to the
+&lt;code&gt;guix&lt;/code&gt; command-line tools, create the &lt;code&gt;~/.config/guix/channels.scm&lt;/code&gt; file
+with the following snippet to request the &lt;code&gt;guix-hpc&lt;/code&gt; &lt;em&gt;channel&lt;/em&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;(cons (channel
+        (name &#39;guix-hpc)
+        (url &amp;quot;https://gitlab.inria.fr/guix-hpc/guix-hpc.git&amp;quot;))
+      %default-channels)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;That way, &lt;code&gt;guix pull&lt;/code&gt; will systematically pull not only Guix, but also
+Guix-HPC.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;guix package -u pastix
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;hacking-on-guix-hpc&#34;&gt;Hacking on Guix-HPC&lt;/h2&gt;
+&lt;p&gt;When working on packages of the &lt;code&gt;guix-hpc&lt;/code&gt; channel, you&amp;rsquo;ll need to clone
+the &lt;code&gt;guix-hpc&lt;/code&gt; repository:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cd src
+git clone https://gitlab.inria.fr/guix-hpc/guix-hpc.git
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;From then on, you can edit package definitions, and then try them out by
+passing the location of the checkout using the &lt;code&gt;-L&lt;/code&gt; flag to &lt;code&gt;guix build&lt;/code&gt;
+and other command-line tools, as in this example:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;guix build -L ~/src/guix-hpc pastix
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
+      <link>https://ramet.github.io/publication/pichon-hal-02326407/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-02326407/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hierarchical fast direct solver for distributed memory machines with manycore nodes</title>
+      <link>https://ramet.github.io/publication/augonnet-cea-02304706/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/augonnet-cea-02304706/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank Revealing QR Methods for Sparse Block Low Rank Solvers</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-02326070/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-02326070/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank Revealing QR Methods for Sparse Block Low Rank Solvers</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-02326084/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-02326084/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Parallel Solution of the 3D Stationary Boltzmann Transport Equation for Diffusive Problems</title>
+      <link>https://ramet.github.io/publication/moustafa-hal-02080624/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/moustafa-hal-02080624/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation de techniques de compression low-rank pour un solveur parallèle direct creux</title>
+      <link>https://ramet.github.io/publication/ramet-hal-02081108/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/ramet-hal-02081108/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://ramet.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   **Two** 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three 
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Block Low-rank Algebraic Clustering for Sparse Direct Solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01956962/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01956962/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Parameterized Task-graph in Sparse Direct Solvers</title>
+      <link>https://ramet.github.io/publication/faverge-hal-01956963/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/faverge-hal-01956963/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supernodes ordering to enhance Block Low-Rank compression in sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01961675/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01961675/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the use of low-rank arithmetic to reduce the complexity of parallel sparse linear solvers based on direct factorization techniques</title>
+      <link>https://ramet.github.io/publication/t-la-bri-gp-18/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/t-la-bri-gp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation de la compression low-rank pour réduire la complexité du solveur PaStiX</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01956928/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01956928/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01824275/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01824275/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation de la compression Block Low-Rank pour accélérer un solveur direct creux supernodal</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01956959/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01956959/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supernodes ordering to enhance Block Low-Rank compression in sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01956960/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01956960/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous architectures, Hybrid methods, Hierarchical matrices for Sparse Linear Solvers</title>
+      <link>https://ramet.github.io/publication/c-la-bri-stanford-18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-stanford-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sparse Supernodal Solver Using Block Low-Rank Compression: design, performance and analysis</title>
       <link>https://ramet.github.io/publication/pichon-hal-01660665/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
@@ -915,109 +1008,6 @@ installed on the system:&lt;/p&gt;
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/publication/pichon-hal-01276746/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>SPM</title>
-      <link>https://ramet.github.io/project/spm/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/project/spm/</guid>
-      <description>&lt;h1 id=&#34;spm-sparse-matrix-package&#34;&gt;SPM: SParse Matrix package&lt;/h1&gt;
-&lt;p&gt;SPM (SParse Matrix package) is a scientific library that provides
-basic operation coverage to manipulate sparse matrices in CSC, CSR,
-and IJV format.
-The functionalities covered are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;sparse matrix -by- dense matrix products&lt;/li&gt;
-&lt;li&gt;sparse matrix -by- vector products&lt;/li&gt;
-&lt;li&gt;norm computations&lt;/li&gt;
-&lt;li&gt;matrix and vector scaling&lt;/li&gt;
-&lt;li&gt;sort functions&lt;/li&gt;
-&lt;li&gt;graph symmetrization and merge of duplicate entries&lt;/li&gt;
-&lt;li&gt;random generators for right hand sides&lt;/li&gt;
-&lt;li&gt;check routines for linear solvers&lt;/li&gt;
-&lt;li&gt;In-place format conversion routines&lt;/li&gt;
-&lt;li&gt;drivers to read matrices from files (MatrixMarket, Harwell-Boeing/RSA, IJV, &amp;hellip;)&lt;/li&gt;
-&lt;li&gt;Laplacian generators for stencils&lt;/li&gt;
-&lt;li&gt;multi-dof and variadic dof as input&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This package is for now available in sequential for shared memory
-system, and will be further developed to handle distributed matrices
-over MPI processes.&lt;/p&gt;
-&lt;p&gt;Python and Fortran90 wrappers are included in the package.&lt;/p&gt;
-&lt;h2 id=&#34;get-spm&#34;&gt;Get SPM&lt;/h2&gt;
-&lt;p&gt;To use last development state of SPM, please clone the master
-branch. Note that SPM contains a &lt;code&gt;git submodule&lt;/code&gt; &lt;strong&gt;morse_cmake&lt;/strong&gt;.
-To get sources please use these commands:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# if git version &amp;gt;= 1.9
-  git clone --recursive git@gitlab.inria.fr:solverstack/spm.git
-  cd spm
-# else
-  git clone git@gitlab.inria.fr:solverstack/spm.git
-  cd spm
-  git submodule init
-  git submodule update
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
-&lt;p&gt;The documentation will be soon available as Doxygen pages.&lt;/p&gt;
-&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
-&lt;h3 id=&#34;build-and-install-with-cmake&#34;&gt;Build and install with CMake&lt;/h3&gt;
-&lt;p&gt;SPM can be built using 
-&lt;a href=&#34;https://cmake.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMake&lt;/a&gt;. This
-installation requires to have some library dependencies already
-installed on the system:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;BLAS (MKL, OpenBlas, &amp;hellip;) and CBLAS (sequential version required)&lt;/li&gt;
-&lt;li&gt;LAPACK and LAPACKE&lt;/li&gt;
-&lt;li&gt;Python and Fortran compiler for wrappers and examples (optional)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For instance, on debian-like systems, dependencies can be installed with the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  sudo apt-get install cmake gcc gfortran libopenblas-dev liblapacke-dev python-numpy
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The main options to configure the SPM configuration build are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Classic cmake options:
-&lt;ul&gt;
-&lt;li&gt;CMAKE_BUILD_TYPE: Debug, RelWithDebInfo, Release, MinSizeRel; we recommend to use the Release, or RelWithDebInfo, for performance.&lt;/li&gt;
-&lt;li&gt;CMAKE_INSTALL_PREFIX: Specify the prefix directory to install the library&lt;/li&gt;
-&lt;li&gt;BUILD_SHARED_LIBS=[OFF]: Enable the shared libraries build. This option needs to be enabled for the Python wrapper.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Integer type:
-&lt;ul&gt;
-&lt;li&gt;SPM_INT64[=ON]: Enable/disable int64_t for integer arrays.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Documentation:
-&lt;ul&gt;
-&lt;li&gt;BUILD_DOCUMENTATION[=OFF] to enable the Doxygen documentation generation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;get-involved&#34;&gt;Get involved!&lt;/h2&gt;
-&lt;h3 id=&#34;reporting-an-issue&#34;&gt;Reporting an issue&lt;/h3&gt;
-&lt;p&gt;We strongly recommend all users to use the issue tracker to report any
-problems with the software, or for any feature request. We will try
-our best to answer them in a short time frame.&lt;/p&gt;
-&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;
-&lt;p&gt;The following people contribute or contributed to the development of SPM:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mathieu Faverge&lt;/li&gt;
-&lt;li&gt;Matthieu Kuhn&lt;/li&gt;
-&lt;li&gt;Xavier Lacoste&lt;/li&gt;
-&lt;li&gt;Grégoire Pichon&lt;/li&gt;
-&lt;li&gt;Florent Pruvost&lt;/li&gt;
-&lt;li&gt;Pierre Ramet&lt;/li&gt;
-&lt;li&gt;Theophile Terraz&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If we forgot your name, please let us know that we can fix that mistake.&lt;/p&gt;
-&lt;h3 id=&#34;licence&#34;&gt;Licence&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -1857,14 +1847,6 @@ our best to answer them in a short time frame.&lt;/p&gt;
       <link>https://ramet.github.io/publication/a-la-bri-sisc-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/publication/a-la-bri-sisc-06/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PaStiX 5</title>
-      <link>https://ramet.github.io/project/pastix5/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/project/pastix5/</guid>
       <description></description>
     </item>
     

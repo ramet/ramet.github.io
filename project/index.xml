@@ -5,7 +5,7 @@
     <link>https://ramet.github.io/project/</link>
       <atom:link href="https://ramet.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,11 +13,23 @@
     </image>
     
     <item>
+      <title>PaStiX 5</title>
+      <link>https://ramet.github.io/project/pastix5/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/project/pastix5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PaStiX 6</title>
       <link>https://ramet.github.io/project/pastix6/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/project/pastix6/</guid>
       <description>&lt;h1 id=&#34;pastix-a-sparse-direct-solver&#34;&gt;PaStiX: A sparse direct solver&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/pastix/pipelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/pastix/badges/master/pipeline.svg&#34; alt=&#34;pipeline status&#34;&gt;&lt;/a&gt; 
+&lt;a href=&#34;https://sonarqube.inria.fr/sonarqube/dashboard?id=hiepacs%3Apastix%3Agitlab%3Amaster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/pastix/badges/master/coverage.svg&#34; alt=&#34;coverage report&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scan.coverity.com/projects/pastix&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://scan.coverity.com/projects/20282/badge.svg&#34; alt=&#34;coverity report&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;PaStiX (Parallel Sparse matriX package) is a scientific library that provides a
 high performance parallel solver for very large sparse linear systems based on
 direct methods.  Numerical algorithms are implemented in single or double
@@ -326,9 +338,13 @@ installed on the system:&lt;/p&gt;
     <item>
       <title>SPM</title>
       <link>https://ramet.github.io/project/spm/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/project/spm/</guid>
       <description>&lt;h1 id=&#34;spm-sparse-matrix-package&#34;&gt;SPM: SParse Matrix package&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/pipelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/spm/badges/master/pipeline.svg&#34; alt=&#34;pipeline status&#34;&gt;&lt;/a&gt; 
+&lt;a href=&#34;https://sonarqube.inria.fr/sonarqube/dashboard?id=hiepacs%3Aspm%3Agitlab%3Amaster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/spm/badges/master/coverage.svg&#34; alt=&#34;coverage report&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scan.coverity.com/projects/spm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://scan.coverity.com/projects/20444/badge.svg&#34; alt=&#34;coverity report&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;SPM (SParse Matrix package) is a scientific library that provides
 basic operation coverage to manipulate sparse matrices in CSC, CSR,
 and IJV format.
@@ -347,10 +363,14 @@ The functionalities covered are:&lt;/p&gt;
 &lt;li&gt;Laplacian generators for stencils&lt;/li&gt;
 &lt;li&gt;multi-dof and variadic dof as input&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;This package is for now available in sequential for shared memory
-system, and will be further developed to handle distributed matrices
-over MPI processes.&lt;/p&gt;
-&lt;p&gt;Python and Fortran90 wrappers are included in the package.&lt;/p&gt;
+&lt;p&gt;Python, Julia and Fortran90 wrappers are included in the package.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Warning&lt;/em&gt;: This package do not intent to provide performance for now,
+but a portable API and simple interface to manipulate sparse matrices
+both in shared or distributed memory. This is somehow similar to what
+has been proposed in the 
+&lt;a href=&#34;https://www.gnu.org/software/gsl/doc/html/spmatrix.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GNU Sparse
+Library&lt;/a&gt; in
+parallel of this project for the shared memory aspects.&lt;/p&gt;
 &lt;h2 id=&#34;get-spm&#34;&gt;Get SPM&lt;/h2&gt;
 &lt;p&gt;To use last development state of SPM, please clone the master
 branch. Note that SPM contains a &lt;code&gt;git submodule&lt;/code&gt; &lt;strong&gt;morse_cmake&lt;/strong&gt;.
@@ -365,7 +385,10 @@ To get sources please use these commands:&lt;/p&gt;
   git submodule update
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
-&lt;p&gt;The documentation will be soon available as Doxygen pages.&lt;/p&gt;
+&lt;p&gt;The latest Doxygen documentation is available 
+&lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/spm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The main functionalities are listed 
+&lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/spm/group__spm.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
 &lt;h3 id=&#34;build-and-install-with-cmake&#34;&gt;Build and install with CMake&lt;/h3&gt;
 &lt;p&gt;SPM can be built using 
@@ -414,24 +437,18 @@ our best to answer them in a short time frame.&lt;/p&gt;
 &lt;li&gt;Mathieu Faverge&lt;/li&gt;
 &lt;li&gt;Matthieu Kuhn&lt;/li&gt;
 &lt;li&gt;Xavier Lacoste&lt;/li&gt;
+&lt;li&gt;Selmane Lebdaoui&lt;/li&gt;
 &lt;li&gt;Grégoire Pichon&lt;/li&gt;
 &lt;li&gt;Florent Pruvost&lt;/li&gt;
 &lt;li&gt;Pierre Ramet&lt;/li&gt;
 &lt;li&gt;Theophile Terraz&lt;/li&gt;
+&lt;li&gt;Tony Delarue&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If we forgot your name, please let us know that we can fix that mistake.&lt;/p&gt;
-&lt;h3 id=&#34;licence&#34;&gt;Licence&lt;/h3&gt;
+&lt;h3 id=&#34;license&#34;&gt;License&lt;/h3&gt;
 &lt;p&gt;
-&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENSE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENSE&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>PaStiX 5</title>
-      <link>https://ramet.github.io/project/pastix5/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/project/pastix5/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -20,6 +20,24 @@
     <loc>https://ramet.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ramet.github.io/project/pastix5/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ramet.github.io/project/pastix6/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ramet.github.io/project/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ramet.github.io/tags/sparse/</loc>
+    <lastmod>2022-04-02T17:37:45+02:00</lastmod>
+  </url><url>
+    <loc>https://ramet.github.io/project/spm/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ramet.github.io/tags/</loc>
+    <lastmod>2022-04-02T17:37:45+02:00</lastmod>
+  </url><url>
     <loc>https://ramet.github.io/publication_types/1/</loc>
     <lastmod>2022-04-02T17:37:45+02:00</lastmod>
   </url><url>
@@ -48,9 +66,6 @@
     <lastmod>2022-04-02T17:37:45+02:00</lastmod>
   </url><url>
     <loc>https://ramet.github.io/publication/</loc>
-    <lastmod>2022-04-02T17:37:45+02:00</lastmod>
-  </url><url>
-    <loc>https://ramet.github.io/tags/</loc>
     <lastmod>2022-04-02T17:37:45+02:00</lastmod>
   </url><url>
     <loc>https://ramet.github.io/publication_types/2/</loc>
@@ -197,9 +212,6 @@
     <loc>https://ramet.github.io/authors/shimpei-futatani/</loc>
     <lastmod>2022-04-02T17:37:37+02:00</lastmod>
   </url><url>
-    <loc>https://ramet.github.io/tags/sparse/</loc>
-    <lastmod>2022-04-02T17:37:45+02:00</lastmod>
-  </url><url>
     <loc>https://ramet.github.io/authors/stanislas-pamela/</loc>
     <lastmod>2022-04-02T17:37:37+02:00</lastmod>
   </url><url>
@@ -248,15 +260,6 @@
     <loc>https://ramet.github.io/authors/loris-marchal/</loc>
     <lastmod>2022-04-02T17:37:44+02:00</lastmod>
   </url><url>
-    <loc>https://ramet.github.io/post/pastix-release/</loc>
-    <lastmod>2020-02-07T13:49:56+01:00</lastmod>
-  </url><url>
-    <loc>https://ramet.github.io/tags/pastix6/</loc>
-    <lastmod>2020-02-07T13:49:56+01:00</lastmod>
-  </url><url>
-    <loc>https://ramet.github.io/post/</loc>
-    <lastmod>2020-02-07T13:49:56+01:00</lastmod>
-  </url><url>
     <loc>https://ramet.github.io/authors/e.-korkmaz/</loc>
     <lastmod>2022-04-02T17:37:39+02:00</lastmod>
   </url><url>
@@ -273,6 +276,12 @@
     <lastmod>2022-04-02T17:37:39+02:00</lastmod>
   </url><url>
     <loc>https://ramet.github.io/post/guix-build/</loc>
+    <lastmod>2019-11-16T13:49:56+01:00</lastmod>
+  </url><url>
+    <loc>https://ramet.github.io/tags/pastix6/</loc>
+    <lastmod>2019-11-16T13:49:56+01:00</lastmod>
+  </url><url>
+    <loc>https://ramet.github.io/post/</loc>
     <lastmod>2019-11-16T13:49:56+01:00</lastmod>
   </url><url>
     <loc>https://ramet.github.io/publication_types/0/</loc>
@@ -377,12 +386,6 @@
     <loc>https://ramet.github.io/publication/c-la-bri-stanford-18/</loc>
     <lastmod>2022-04-02T17:37:41+02:00</lastmod>
   </url><url>
-    <loc>https://ramet.github.io/project/pastix6/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ramet.github.io/project/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ramet.github.io/publication/pichon-hal-01660665/</loc>
     <lastmod>2022-04-02T17:37:44+02:00</lastmod>
   </url><url>
@@ -457,9 +460,6 @@
   </url><url>
     <loc>https://ramet.github.io/publication/pichon-hal-01276746/</loc>
     <lastmod>2022-04-02T17:37:43+02:00</lastmod>
-  </url><url>
-    <loc>https://ramet.github.io/project/spm/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ramet.github.io/authors/a.-casadei/</loc>
     <lastmod>2022-04-02T17:37:43+02:00</lastmod>
@@ -1000,9 +1000,6 @@
   </url><url>
     <loc>https://ramet.github.io/publication/a-la-bri-sisc-06/</loc>
     <lastmod>2022-04-02T17:37:37+02:00</lastmod>
-  </url><url>
-    <loc>https://ramet.github.io/project/pastix5/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ramet.github.io/authors/y.-saad/</loc>
     <lastmod>2022-04-02T17:37:45+02:00</lastmod>

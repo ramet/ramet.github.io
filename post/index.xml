@@ -5,47 +5,12 @@
     <link>https://ramet.github.io/post/</link>
       <atom:link href="https://ramet.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2020 13:49:56 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2019 13:49:56 +0100</lastBuildDate>
     <image>
       <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://ramet.github.io/post/</link>
     </image>
-    
-    <item>
-      <title>PaStiX Release 6.1.0</title>
-      <link>https://ramet.github.io/post/pastix-release/</link>
-      <pubDate>Fri, 07 Feb 2020 13:49:56 +0100</pubDate>
-      <guid>https://ramet.github.io/post/pastix-release/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Add a new dynamic scheduler supported by the internal threads for numerical factorization&lt;/li&gt;
-&lt;li&gt;Add MPI support for the numerical factorization and solve
-&lt;ul&gt;
-&lt;li&gt;Available for all schedulers: sequential, internal threads (static, dynamic), StarPU, and PaRSEC&lt;/li&gt;
-&lt;li&gt;WARNING: The RHS is not distributed yet, and must be replicated on all nodes&lt;/li&gt;
-&lt;li&gt;WARNING: The low-rank and Schur functionalities are not available in distributed yet&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Enable the use of an external SPM module&lt;/li&gt;
-&lt;li&gt;Improve splitting strategy:
-&lt;ul&gt;
-&lt;li&gt;avoid unnecessary splits when using K-Way&lt;/li&gt;
-&lt;li&gt;reduce the range of possible split to limit the apparition of small blocks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Change the preselected behavior to be:
-&lt;ul&gt;
-&lt;li&gt;never compressed in the JustInTime scenario&lt;/li&gt;
-&lt;li&gt;compress the preselected block just before applying the TRSM in the MinimalMemory scenario&lt;/li&gt;
-&lt;li&gt;the behavior can be change through IPARM_COMPRESS_PRESELECT&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Add a cmake summary&lt;/li&gt;
-&lt;li&gt;Add coverity scan&lt;/li&gt;
-&lt;li&gt;Update README.md and documentation&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>Build PaStiX with Guix-HPC</title>

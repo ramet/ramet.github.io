@@ -5,7 +5,7 @@
     <link>https://ramet.github.io/tags/sparse/</link>
       <atom:link href="https://ramet.github.io/tags/sparse/index.xml" rel="self" type="application/rss+xml" />
     <description>Sparse</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Sparse</title>
@@ -13,19 +13,23 @@
     </image>
     
     <item>
-      <title>Study of the recent developments around the PaStiX solver for the EoCoE project: distributed mem- ory, runtime systems, and low-rank</title>
-      <link>https://ramet.github.io/publication/c-la-bri-cfd-21/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-cfd-21/</guid>
+      <title>PaStiX 5</title>
+      <link>https://ramet.github.io/project/pastix5/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/project/pastix5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PaStiX 6</title>
       <link>https://ramet.github.io/project/pastix6/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/project/pastix6/</guid>
       <description>&lt;h1 id=&#34;pastix-a-sparse-direct-solver&#34;&gt;PaStiX: A sparse direct solver&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/pastix/pipelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/pastix/badges/master/pipeline.svg&#34; alt=&#34;pipeline status&#34;&gt;&lt;/a&gt; 
+&lt;a href=&#34;https://sonarqube.inria.fr/sonarqube/dashboard?id=hiepacs%3Apastix%3Agitlab%3Amaster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/pastix/badges/master/coverage.svg&#34; alt=&#34;coverage report&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scan.coverity.com/projects/pastix&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://scan.coverity.com/projects/20282/badge.svg&#34; alt=&#34;coverity report&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;PaStiX (Parallel Sparse matriX package) is a scientific library that provides a
 high performance parallel solver for very large sparse linear systems based on
 direct methods.  Numerical algorithms are implemented in single or double
@@ -332,6 +336,130 @@ installed on the system:&lt;/p&gt;
     </item>
     
     <item>
+      <title>SPM</title>
+      <link>https://ramet.github.io/project/spm/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/project/spm/</guid>
+      <description>&lt;h1 id=&#34;spm-sparse-matrix-package&#34;&gt;SPM: SParse Matrix package&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/pipelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/spm/badges/master/pipeline.svg&#34; alt=&#34;pipeline status&#34;&gt;&lt;/a&gt; 
+&lt;a href=&#34;https://sonarqube.inria.fr/sonarqube/dashboard?id=hiepacs%3Aspm%3Agitlab%3Amaster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/spm/badges/master/coverage.svg&#34; alt=&#34;coverage report&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scan.coverity.com/projects/spm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://scan.coverity.com/projects/20444/badge.svg&#34; alt=&#34;coverity report&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SPM (SParse Matrix package) is a scientific library that provides
+basic operation coverage to manipulate sparse matrices in CSC, CSR,
+and IJV format.
+The functionalities covered are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sparse matrix -by- dense matrix products&lt;/li&gt;
+&lt;li&gt;sparse matrix -by- vector products&lt;/li&gt;
+&lt;li&gt;norm computations&lt;/li&gt;
+&lt;li&gt;matrix and vector scaling&lt;/li&gt;
+&lt;li&gt;sort functions&lt;/li&gt;
+&lt;li&gt;graph symmetrization and merge of duplicate entries&lt;/li&gt;
+&lt;li&gt;random generators for right hand sides&lt;/li&gt;
+&lt;li&gt;check routines for linear solvers&lt;/li&gt;
+&lt;li&gt;In-place format conversion routines&lt;/li&gt;
+&lt;li&gt;drivers to read matrices from files (MatrixMarket, Harwell-Boeing/RSA, IJV, &amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Laplacian generators for stencils&lt;/li&gt;
+&lt;li&gt;multi-dof and variadic dof as input&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Python, Julia and Fortran90 wrappers are included in the package.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Warning&lt;/em&gt;: This package do not intent to provide performance for now,
+but a portable API and simple interface to manipulate sparse matrices
+both in shared or distributed memory. This is somehow similar to what
+has been proposed in the 
+&lt;a href=&#34;https://www.gnu.org/software/gsl/doc/html/spmatrix.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GNU Sparse
+Library&lt;/a&gt; in
+parallel of this project for the shared memory aspects.&lt;/p&gt;
+&lt;h2 id=&#34;get-spm&#34;&gt;Get SPM&lt;/h2&gt;
+&lt;p&gt;To use last development state of SPM, please clone the master
+branch. Note that SPM contains a &lt;code&gt;git submodule&lt;/code&gt; &lt;strong&gt;morse_cmake&lt;/strong&gt;.
+To get sources please use these commands:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# if git version &amp;gt;= 1.9
+  git clone --recursive git@gitlab.inria.fr:solverstack/spm.git
+  cd spm
+# else
+  git clone git@gitlab.inria.fr:solverstack/spm.git
+  cd spm
+  git submodule init
+  git submodule update
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;The latest Doxygen documentation is available 
+&lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/spm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The main functionalities are listed 
+&lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/spm/group__spm.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;h3 id=&#34;build-and-install-with-cmake&#34;&gt;Build and install with CMake&lt;/h3&gt;
+&lt;p&gt;SPM can be built using 
+&lt;a href=&#34;https://cmake.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMake&lt;/a&gt;. This
+installation requires to have some library dependencies already
+installed on the system:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BLAS (MKL, OpenBlas, &amp;hellip;) and CBLAS (sequential version required)&lt;/li&gt;
+&lt;li&gt;LAPACK and LAPACKE&lt;/li&gt;
+&lt;li&gt;Python and Fortran compiler for wrappers and examples (optional)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For instance, on debian-like systems, dependencies can be installed with the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  sudo apt-get install cmake gcc gfortran libopenblas-dev liblapacke-dev python-numpy
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The main options to configure the SPM configuration build are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Classic cmake options:
+&lt;ul&gt;
+&lt;li&gt;CMAKE_BUILD_TYPE: Debug, RelWithDebInfo, Release, MinSizeRel; we recommend to use the Release, or RelWithDebInfo, for performance.&lt;/li&gt;
+&lt;li&gt;CMAKE_INSTALL_PREFIX: Specify the prefix directory to install the library&lt;/li&gt;
+&lt;li&gt;BUILD_SHARED_LIBS=[OFF]: Enable the shared libraries build. This option needs to be enabled for the Python wrapper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Integer type:
+&lt;ul&gt;
+&lt;li&gt;SPM_INT64[=ON]: Enable/disable int64_t for integer arrays.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Documentation:
+&lt;ul&gt;
+&lt;li&gt;BUILD_DOCUMENTATION[=OFF] to enable the Doxygen documentation generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;get-involved&#34;&gt;Get involved!&lt;/h2&gt;
+&lt;h3 id=&#34;reporting-an-issue&#34;&gt;Reporting an issue&lt;/h3&gt;
+&lt;p&gt;We strongly recommend all users to use the issue tracker to report any
+problems with the software, or for any feature request. We will try
+our best to answer them in a short time frame.&lt;/p&gt;
+&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;
+&lt;p&gt;The following people contribute or contributed to the development of SPM:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mathieu Faverge&lt;/li&gt;
+&lt;li&gt;Matthieu Kuhn&lt;/li&gt;
+&lt;li&gt;Xavier Lacoste&lt;/li&gt;
+&lt;li&gt;Selmane Lebdaoui&lt;/li&gt;
+&lt;li&gt;Grégoire Pichon&lt;/li&gt;
+&lt;li&gt;Florent Pruvost&lt;/li&gt;
+&lt;li&gt;Pierre Ramet&lt;/li&gt;
+&lt;li&gt;Theophile Terraz&lt;/li&gt;
+&lt;li&gt;Tony Delarue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If we forgot your name, please let us know that we can fix that mistake.&lt;/p&gt;
+&lt;h3 id=&#34;license&#34;&gt;License&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENSE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENSE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study of the recent developments around the PaStiX solver for the EoCoE project: distributed mem- ory, runtime systems, and low-rank</title>
+      <link>https://ramet.github.io/publication/c-la-bri-cfd-21/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-cfd-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Heterogeneous architectures, Hybrid methods, Hierarchical matrices for Sparse Linear Solvers</title>
       <link>https://ramet.github.io/publication/ramet-tel-01668740/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
@@ -401,109 +529,6 @@ installed on the system:&lt;/p&gt;
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/publication/pichon-hal-01276746/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>SPM</title>
-      <link>https://ramet.github.io/project/spm/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/project/spm/</guid>
-      <description>&lt;h1 id=&#34;spm-sparse-matrix-package&#34;&gt;SPM: SParse Matrix package&lt;/h1&gt;
-&lt;p&gt;SPM (SParse Matrix package) is a scientific library that provides
-basic operation coverage to manipulate sparse matrices in CSC, CSR,
-and IJV format.
-The functionalities covered are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;sparse matrix -by- dense matrix products&lt;/li&gt;
-&lt;li&gt;sparse matrix -by- vector products&lt;/li&gt;
-&lt;li&gt;norm computations&lt;/li&gt;
-&lt;li&gt;matrix and vector scaling&lt;/li&gt;
-&lt;li&gt;sort functions&lt;/li&gt;
-&lt;li&gt;graph symmetrization and merge of duplicate entries&lt;/li&gt;
-&lt;li&gt;random generators for right hand sides&lt;/li&gt;
-&lt;li&gt;check routines for linear solvers&lt;/li&gt;
-&lt;li&gt;In-place format conversion routines&lt;/li&gt;
-&lt;li&gt;drivers to read matrices from files (MatrixMarket, Harwell-Boeing/RSA, IJV, &amp;hellip;)&lt;/li&gt;
-&lt;li&gt;Laplacian generators for stencils&lt;/li&gt;
-&lt;li&gt;multi-dof and variadic dof as input&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This package is for now available in sequential for shared memory
-system, and will be further developed to handle distributed matrices
-over MPI processes.&lt;/p&gt;
-&lt;p&gt;Python and Fortran90 wrappers are included in the package.&lt;/p&gt;
-&lt;h2 id=&#34;get-spm&#34;&gt;Get SPM&lt;/h2&gt;
-&lt;p&gt;To use last development state of SPM, please clone the master
-branch. Note that SPM contains a &lt;code&gt;git submodule&lt;/code&gt; &lt;strong&gt;morse_cmake&lt;/strong&gt;.
-To get sources please use these commands:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# if git version &amp;gt;= 1.9
-  git clone --recursive git@gitlab.inria.fr:solverstack/spm.git
-  cd spm
-# else
-  git clone git@gitlab.inria.fr:solverstack/spm.git
-  cd spm
-  git submodule init
-  git submodule update
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
-&lt;p&gt;The documentation will be soon available as Doxygen pages.&lt;/p&gt;
-&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
-&lt;h3 id=&#34;build-and-install-with-cmake&#34;&gt;Build and install with CMake&lt;/h3&gt;
-&lt;p&gt;SPM can be built using 
-&lt;a href=&#34;https://cmake.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMake&lt;/a&gt;. This
-installation requires to have some library dependencies already
-installed on the system:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;BLAS (MKL, OpenBlas, &amp;hellip;) and CBLAS (sequential version required)&lt;/li&gt;
-&lt;li&gt;LAPACK and LAPACKE&lt;/li&gt;
-&lt;li&gt;Python and Fortran compiler for wrappers and examples (optional)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For instance, on debian-like systems, dependencies can be installed with the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  sudo apt-get install cmake gcc gfortran libopenblas-dev liblapacke-dev python-numpy
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The main options to configure the SPM configuration build are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Classic cmake options:
-&lt;ul&gt;
-&lt;li&gt;CMAKE_BUILD_TYPE: Debug, RelWithDebInfo, Release, MinSizeRel; we recommend to use the Release, or RelWithDebInfo, for performance.&lt;/li&gt;
-&lt;li&gt;CMAKE_INSTALL_PREFIX: Specify the prefix directory to install the library&lt;/li&gt;
-&lt;li&gt;BUILD_SHARED_LIBS=[OFF]: Enable the shared libraries build. This option needs to be enabled for the Python wrapper.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Integer type:
-&lt;ul&gt;
-&lt;li&gt;SPM_INT64[=ON]: Enable/disable int64_t for integer arrays.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Documentation:
-&lt;ul&gt;
-&lt;li&gt;BUILD_DOCUMENTATION[=OFF] to enable the Doxygen documentation generation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;get-involved&#34;&gt;Get involved!&lt;/h2&gt;
-&lt;h3 id=&#34;reporting-an-issue&#34;&gt;Reporting an issue&lt;/h3&gt;
-&lt;p&gt;We strongly recommend all users to use the issue tracker to report any
-problems with the software, or for any feature request. We will try
-our best to answer them in a short time frame.&lt;/p&gt;
-&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;
-&lt;p&gt;The following people contribute or contributed to the development of SPM:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mathieu Faverge&lt;/li&gt;
-&lt;li&gt;Matthieu Kuhn&lt;/li&gt;
-&lt;li&gt;Xavier Lacoste&lt;/li&gt;
-&lt;li&gt;Grégoire Pichon&lt;/li&gt;
-&lt;li&gt;Florent Pruvost&lt;/li&gt;
-&lt;li&gt;Pierre Ramet&lt;/li&gt;
-&lt;li&gt;Theophile Terraz&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If we forgot your name, please let us know that we can fix that mistake.&lt;/p&gt;
-&lt;h3 id=&#34;licence&#34;&gt;Licence&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -943,14 +968,6 @@ our best to answer them in a short time frame.&lt;/p&gt;
       <link>https://ramet.github.io/publication/a-la-bri-sisc-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/publication/a-la-bri-sisc-06/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PaStiX 5</title>
-      <link>https://ramet.github.io/project/pastix5/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/project/pastix5/</guid>
       <description></description>
     </item>
     

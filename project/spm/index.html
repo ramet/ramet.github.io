@@ -237,9 +237,9 @@
   <meta property="twitter:image" content="https://ramet.github.io/project/spm/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2016-01-01T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2022-04-02T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2016-01-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-04-02T00:00:00&#43;00:00">
   
 
   
@@ -269,8 +269,8 @@
     "https://ramet.github.io/project/spm/featured.png"
   ],
   
-  "datePublished": "2016-01-01T00:00:00Z",
-  "dateModified": "2016-01-01T00:00:00Z",
+  "datePublished": "2022-04-02T00:00:00Z",
+  "dateModified": "2022-04-02T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -659,7 +659,7 @@
     
       
     
-    Jan 1, 2016
+    Apr 2, 2022
   </span>
   
 
@@ -756,6 +756,10 @@
 
     <div class="article-style">
       <h1 id="spm-sparse-matrix-package">SPM: SParse Matrix package</h1>
+<p>
+<a href="https://gitlab.inria.fr/solverstack/spm/pipelines" target="_blank" rel="noopener"><img src="https://gitlab.inria.fr/solverstack/spm/badges/master/pipeline.svg" alt="pipeline status"></a> 
+<a href="https://sonarqube.inria.fr/sonarqube/dashboard?id=hiepacs%3Aspm%3Agitlab%3Amaster" target="_blank" rel="noopener"><img src="https://gitlab.inria.fr/solverstack/spm/badges/master/coverage.svg" alt="coverage report"></a>
+<a href="https://scan.coverity.com/projects/spm" target="_blank" rel="noopener"><img src="https://scan.coverity.com/projects/20444/badge.svg" alt="coverity report"></a></p>
 <p>SPM (SParse Matrix package) is a scientific library that provides
 basic operation coverage to manipulate sparse matrices in CSC, CSR,
 and IJV format.
@@ -774,10 +778,14 @@ The functionalities covered are:</p>
 <li>Laplacian generators for stencils</li>
 <li>multi-dof and variadic dof as input</li>
 </ul>
-<p>This package is for now available in sequential for shared memory
-system, and will be further developed to handle distributed matrices
-over MPI processes.</p>
-<p>Python and Fortran90 wrappers are included in the package.</p>
+<p>Python, Julia and Fortran90 wrappers are included in the package.</p>
+<p><em>Warning</em>: This package do not intent to provide performance for now,
+but a portable API and simple interface to manipulate sparse matrices
+both in shared or distributed memory. This is somehow similar to what
+has been proposed in the 
+<a href="https://www.gnu.org/software/gsl/doc/html/spmatrix.html" target="_blank" rel="noopener">GNU Sparse
+Library</a> in
+parallel of this project for the shared memory aspects.</p>
 <h2 id="get-spm">Get SPM</h2>
 <p>To use last development state of SPM, please clone the master
 branch. Note that SPM contains a <code>git submodule</code> <strong>morse_cmake</strong>.
@@ -792,7 +800,10 @@ To get sources please use these commands:</p>
   git submodule update
 </code></pre>
 <h2 id="documentation">Documentation</h2>
-<p>The documentation will be soon available as Doxygen pages.</p>
+<p>The latest Doxygen documentation is available 
+<a href="http://solverstack.gitlabpages.inria.fr/spm" target="_blank" rel="noopener">here</a>.</p>
+<p>The main functionalities are listed 
+<a href="http://solverstack.gitlabpages.inria.fr/spm/group__spm.html" target="_blank" rel="noopener">here</a>.</p>
 <h2 id="installation">Installation</h2>
 <h3 id="build-and-install-with-cmake">Build and install with CMake</h3>
 <p>SPM can be built using 
@@ -841,15 +852,17 @@ our best to answer them in a short time frame.</p>
 <li>Mathieu Faverge</li>
 <li>Matthieu Kuhn</li>
 <li>Xavier Lacoste</li>
+<li>Selmane Lebdaoui</li>
 <li>Grégoire Pichon</li>
 <li>Florent Pruvost</li>
 <li>Pierre Ramet</li>
 <li>Theophile Terraz</li>
+<li>Tony Delarue</li>
 </ul>
 <p>If we forgot your name, please let us know that we can fix that mistake.</p>
-<h3 id="licence">Licence</h3>
+<h3 id="license">License</h3>
 <p>
-<a href="https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE" target="_blank" rel="noopener">https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE</a></p>
+<a href="https://gitlab.inria.fr/solverstack/spm/blob/master/LICENSE" target="_blank" rel="noopener">https://gitlab.inria.fr/solverstack/spm/blob/master/LICENSE</a></p>
 
     </div>
 
@@ -1189,6 +1202,8 @@ our best to answer them in a short time frame.</p>
     <ul>
       
       <li><a href="/project/pastix5/">PaStiX 5</a></li>
+      
+      <li><a href="/project/pastix6/">PaStiX 6</a></li>
       
     </ul>
   </div>
