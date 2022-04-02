@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilu factorization ; sparse direct solvers ; low-rank compression ; factorisation ilu ; compression de rang  faible ; solveur direct creux | Pierre Ramet</title>
+    <link>https://ramet.github.io/tags/ilu-factorization-sparse-direct-solvers-low-rank-compression-factorisation-ilu-compression-de-rang-faible-solveur-direct-creux/</link>
+      <atom:link href="https://ramet.github.io/tags/ilu-factorization-sparse-direct-solvers-low-rank-compression-factorisation-ilu-compression-de-rang-faible-solveur-direct-creux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ilu factorization ; sparse direct solvers ; low-rank compression ; factorisation ilu ; compression de rang  faible ; solveur direct creux</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Ilu factorization ; sparse direct solvers ; low-rank compression ; factorisation ilu ; compression de rang  faible ; solveur direct creux</title>
+      <link>https://ramet.github.io/tags/ilu-factorization-sparse-direct-solvers-low-rank-compression-factorisation-ilu-compression-de-rang-faible-solveur-direct-creux/</link>
+    </image>
+    
+    <item>
+      <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-03152932/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-03152932/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

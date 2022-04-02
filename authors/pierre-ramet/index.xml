@@ -5,12 +5,44 @@
     <link>https://ramet.github.io/authors/pierre-ramet/</link>
       <atom:link href="https://ramet.github.io/authors/pierre-ramet/index.xml" rel="self" type="application/rss+xml" />
     <description>Pierre Ramet</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2020 13:49:56 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ramet.github.io/img/icon-192.png</url>
+      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Pierre Ramet</title>
       <link>https://ramet.github.io/authors/pierre-ramet/</link>
     </image>
+    
+    <item>
+      <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-03361299/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-03361299/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The JOREK non-linear extended MHD code and applications to large-scale instabilities and their control in magnetically confined fusion plasmas</title>
+      <link>https://ramet.github.io/publication/hoelzl-hal-03352509/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/hoelzl-hal-03352509/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-03152932/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-03152932/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
+      <link>https://ramet.github.io/publication/gou-hal-02973315/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/gou-hal-02973315/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PaStiX Release 6.1.0</title>
@@ -61,7 +93,8 @@
       <pubDate>Sat, 16 Nov 2019 13:49:56 +0100</pubDate>
       <guid>https://ramet.github.io/post/guix-build/</guid>
       <description>&lt;h2 id=&#34;how-to-build-pastix&#34;&gt;How to build PaStiX&lt;/h2&gt;
-&lt;p&gt;The package definitions in &lt;em&gt;Guix-HPC&lt;/em&gt; repository &lt;em&gt;extend&lt;/em&gt; &lt;a href=&#34;https://gnu.org/s/guix/packages&#34;&gt;those that come with
+&lt;p&gt;The package definitions in &lt;em&gt;Guix-HPC&lt;/em&gt; repository &lt;em&gt;extend&lt;/em&gt; 
+&lt;a href=&#34;https://gnu.org/s/guix/packages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;those that come with
 Guix&lt;/a&gt;.  To make them visible to the
 &lt;code&gt;guix&lt;/code&gt; command-line tools, create the &lt;code&gt;~/.config/guix/channels.scm&lt;/code&gt; file
 with the following snippet to request the &lt;code&gt;guix-hpc&lt;/code&gt; &lt;em&gt;channel&lt;/em&gt;:&lt;/p&gt;

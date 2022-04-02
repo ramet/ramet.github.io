@@ -7,7 +7,7 @@
     <description>G. Pichon</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ramet.github.io/img/icon-192.png</url>
+      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>G. Pichon</title>
       <link>https://ramet.github.io/authors/g.-pichon/</link>
     </image>
@@ -221,7 +221,7 @@
     </item>
     
     <item>
-      <title>Blocking Strategy Optimization for Sparse Direct Linear Solvers on Heterogeneous Architectures</title>
+      <title>Blocking strategy optimization for sparse direct linear solvers on heterogeneous architectures</title>
       <link>https://ramet.github.io/publication/c-la-bri-pastix-solhar-3/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/publication/c-la-bri-pastix-solhar-3/</guid>

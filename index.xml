@@ -7,7 +7,7 @@
     <description>Pierre Ramet</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ramet.github.io/img/icon-192.png</url>
+      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Pierre Ramet</title>
       <link>https://ramet.github.io/</link>
     </image>
@@ -66,12 +66,54 @@
 &lt;/div&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-03361299/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-03361299/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of the recent developments around the PaStiX solver for the EoCoE project: distributed mem- ory, runtime systems, and low-rank</title>
+      <link>https://ramet.github.io/publication/c-la-bri-cfd-21/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-cfd-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The JOREK non-linear extended MHD code and applications to large-scale instabilities and their control in magnetically confined fusion plasmas</title>
+      <link>https://ramet.github.io/publication/hoelzl-hal-03352509/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/hoelzl-hal-03352509/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-03152932/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-03152932/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
+      <link>https://ramet.github.io/publication/gou-hal-02973315/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/gou-hal-02973315/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -131,7 +173,8 @@
       <pubDate>Sat, 16 Nov 2019 13:49:56 +0100</pubDate>
       <guid>https://ramet.github.io/post/guix-build/</guid>
       <description>&lt;h2 id=&#34;how-to-build-pastix&#34;&gt;How to build PaStiX&lt;/h2&gt;
-&lt;p&gt;The package definitions in &lt;em&gt;Guix-HPC&lt;/em&gt; repository &lt;em&gt;extend&lt;/em&gt; &lt;a href=&#34;https://gnu.org/s/guix/packages&#34;&gt;those that come with
+&lt;p&gt;The package definitions in &lt;em&gt;Guix-HPC&lt;/em&gt; repository &lt;em&gt;extend&lt;/em&gt; 
+&lt;a href=&#34;https://gnu.org/s/guix/packages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;those that come with
 Guix&lt;/a&gt;.  To make them visible to the
 &lt;code&gt;guix&lt;/code&gt; command-line tools, create the &lt;code&gt;~/.config/guix/channels.scm&lt;/code&gt; file
 with the following snippet to request the &lt;code&gt;guix-hpc&lt;/code&gt; &lt;em&gt;channel&lt;/em&gt;:&lt;/p&gt;
@@ -212,7 +255,8 @@ and other command-line tools, as in this example:&lt;/p&gt;
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
@@ -232,7 +276,8 @@ and other command-line tools, as in this example:&lt;/p&gt;
 &lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
@@ -257,15 +302,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
@@ -286,6 +331,7 @@ Three
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
@@ -329,8 +375,10 @@ Three
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -432,7 +480,8 @@ To get sources please use these commands:&lt;/p&gt;
   git submodule update
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Previous releases of PaStiX are hosted on the
-&lt;a href=&#34;https://gforge.inria.fr/frs/?group_id=186&#34;&gt;gforge.inria.fr&lt;/a&gt; for now.
+
+&lt;a href=&#34;https://gforge.inria.fr/frs/?group_id=186&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gforge.inria.fr&lt;/a&gt; for now.
 Future releases will be available on this gitlab project.&lt;/p&gt;
 &lt;h2 id=&#34;available-features&#34;&gt;Available Features&lt;/h2&gt;
 &lt;ul&gt;
@@ -588,11 +637,16 @@ Future releases will be available on this gitlab project.&lt;/p&gt;
 &lt;li&gt;&lt;em&gt;WARNING&lt;/em&gt; Low-rank compression and Schur complement are not available with MPI yet.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
-&lt;p&gt;The latest Doxygen documentation is available &lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/pastix&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/pastix/group__pastix__users.html&#34;&gt;main steps&lt;/a&gt; and &lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/pastix/group__pastix__api.html&#34;&gt;parameters&lt;/a&gt; of the solver are described. Some &lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/pastix/group__pastix__examples.html&#34;&gt;examples&lt;/a&gt; are also provided.&lt;/p&gt;
+&lt;p&gt;The latest Doxygen documentation is available 
+&lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/pastix&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/pastix/group__pastix__users.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;main steps&lt;/a&gt; and 
+&lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/pastix/group__pastix__api.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;parameters&lt;/a&gt; of the solver are described. Some 
+&lt;a href=&#34;http://solverstack.gitlabpages.inria.fr/pastix/group__pastix__examples.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;examples&lt;/a&gt; are also provided.&lt;/p&gt;
 &lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
 &lt;h3 id=&#34;build-and-install-with-cmake&#34;&gt;Build and install with CMake&lt;/h3&gt;
-&lt;p&gt;PaStiX can be built using &lt;a href=&#34;https://cmake.org/&#34;&gt;CMake&lt;/a&gt;. This
+&lt;p&gt;PaStiX can be built using 
+&lt;a href=&#34;https://cmake.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMake&lt;/a&gt;. This
 installation requires to have some library dependencies already
 installed on the system:&lt;/p&gt;
 &lt;ul&gt;
@@ -633,7 +687,8 @@ installed on the system:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;External schedulers:
 &lt;ul&gt;
-&lt;li&gt;PASTIX_WITH_PARSEC[=OFF]: Enable/disable the PaRSEC runtime support. Require to install PaRSEC tag pastix-&lt;em&gt;releasenumber&lt;/em&gt; (mymaster for master branch) from the repository &lt;a href=&#34;https://bitbucket.org/mfaverge/parsec&#34;&gt;https://bitbucket.org/mfaverge/parsec&lt;/a&gt; that includes a few patches on top of the original PaRSEC runtime system. PaRSEC needs to be compiled with option -DPARSEC_WITH_DEVEL_HEADERS=ON.&lt;/li&gt;
+&lt;li&gt;PASTIX_WITH_PARSEC[=OFF]: Enable/disable the PaRSEC runtime support. Require to install PaRSEC tag pastix-&lt;em&gt;releasenumber&lt;/em&gt; (mymaster for master branch) from the repository 
+&lt;a href=&#34;https://bitbucket.org/mfaverge/parsec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bitbucket.org/mfaverge/parsec&lt;/a&gt; that includes a few patches on top of the original PaRSEC runtime system. PaRSEC needs to be compiled with option -DPARSEC_WITH_DEVEL_HEADERS=ON.&lt;/li&gt;
 &lt;li&gt;PASTIX_WITH_STARPU[=OFF]: Enable/disable the StarPU runtime support. Require to install StarPU 1.3.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -657,7 +712,8 @@ installed on the system:&lt;/p&gt;
 &lt;h3 id=&#34;reporting-an-issue&#34;&gt;Reporting an issue&lt;/h3&gt;
 &lt;p&gt;We strongly recommend all users to use the issue tracker to report any problems with the software, or for any feature request. We will try our best to answer them in a short time frame.&lt;/p&gt;
 &lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://gitlab.inria.fr/solverstack/pastix/blob/master/CONTRIBUTING.md&#34;&gt;https://gitlab.inria.fr/solverstack/pastix/blob/master/CONTRIBUTING.md&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/pastix/blob/master/CONTRIBUTING.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/pastix/blob/master/CONTRIBUTING.md&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
 &lt;p&gt;The following people contribute or contributed to the development of PaStiX:&lt;/p&gt;
 &lt;ul&gt;
@@ -679,27 +735,33 @@ installed on the system:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Original paper that initiated PaStiX:
 &lt;ul&gt;
-&lt;li&gt;Pascal Hénon, Pierre Ramet, Jean Roman. Pascal Hénon, Pierre Ramet, Jean Roman. PaStiX: A High-Performance Parallel Direct Solver for Sparse Symmetric Definite Systems. Parallel Computing, Elsevier, 2002, 28 (2), pp.301&amp;ndash;321. &lt;a href=&#34;https://hal.inria.fr/inria-00346017&#34;&gt;INRIA HAL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pascal Hénon, Pierre Ramet, Jean Roman. Pascal Hénon, Pierre Ramet, Jean Roman. PaStiX: A High-Performance Parallel Direct Solver for Sparse Symmetric Definite Systems. Parallel Computing, Elsevier, 2002, 28 (2), pp.301&amp;ndash;321. 
+&lt;a href=&#34;https://hal.inria.fr/inria-00346017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INRIA HAL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Parallel incomplete factorization implemented in PaStiX:
 &lt;ul&gt;
-&lt;li&gt;Pascal Hénon, Pierre Ramet, Jean Roman. On finding approximate supernodes for an efficient ILU(k) factorization. Parallel Computing, Elsevier, 2008, 34, pp.345&amp;ndash;362. &lt;a href=&#34;https://hal.inria.fr/inria-00346018&#34;&gt;INRIA HAL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pascal Hénon, Pierre Ramet, Jean Roman. On finding approximate supernodes for an efficient ILU(k) factorization. Parallel Computing, Elsevier, 2008, 34, pp.345&amp;ndash;362. 
+&lt;a href=&#34;https://hal.inria.fr/inria-00346018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INRIA HAL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Reordering strategy for blocking optimization in PaStiX:
 &lt;ul&gt;
-&lt;li&gt;Grégoire Pichon, Mathieu Faverge, Pierre Ramet, Jean Roman. Reordering Strategy for Blocking Optimization in Sparse Linear Solvers. SIAM Journal on Matrix Analysis and Applications, Society for Industrial and Applied Mathematics, 2017, SIAM Journal on Matrix Analysis and Applications, 38 (1), pp.226 - 248. &lt;a href=&#34;https://hal.inria.fr/hal-01485507v2&#34;&gt;INRIA HAL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Grégoire Pichon, Mathieu Faverge, Pierre Ramet, Jean Roman. Reordering Strategy for Blocking Optimization in Sparse Linear Solvers. SIAM Journal on Matrix Analysis and Applications, Society for Industrial and Applied Mathematics, 2017, SIAM Journal on Matrix Analysis and Applications, 38 (1), pp.226 - 248. 
+&lt;a href=&#34;https://hal.inria.fr/hal-01485507v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INRIA HAL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;On the use of low rank approximations in PaStiX:
 &lt;ul&gt;
-&lt;li&gt;Grégoire Pichon, Eric Darve, Mathieu Faverge, Pierre Ramet, Jean Roman. Sparse supernodal solver using block low-rank compression: Design, performance and analysis. International Journal of Computational Science and Engineering, Inderscience, 2018, 27, pp.255 - 270. &lt;a href=&#34;http://dx.doi.org/10.1016/J.JOCS.2018.06.007&#34;&gt;10.1016/J.JOCS.2018.06.007&lt;/a&gt; &lt;a href=&#34;https://hal.inria.fr/hal-01824275&#34;&gt;Inria HAL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Grégoire Pichon, Eric Darve, Mathieu Faverge, Pierre Ramet, Jean Roman. Sparse supernodal solver using block low-rank compression: Design, performance and analysis. International Journal of Computational Science and Engineering, Inderscience, 2018, 27, pp.255 - 270. 
+&lt;a href=&#34;http://dx.doi.org/10.1016/J.JOCS.2018.06.007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/J.JOCS.2018.06.007&lt;/a&gt; 
+&lt;a href=&#34;https://hal.inria.fr/hal-01824275&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Inria HAL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;licence&#34;&gt;Licence&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://gitlab.inria.fr/solverstack/pastix/blob/master/LICENSE&#34;&gt;https://gitlab.inria.fr/solverstack/pastix/blob/master/LICENSE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/pastix/blob/master/LICENSE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/pastix/blob/master/LICENSE&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -900,7 +962,8 @@ To get sources please use these commands:&lt;/p&gt;
 &lt;p&gt;The documentation will be soon available as Doxygen pages.&lt;/p&gt;
 &lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
 &lt;h3 id=&#34;build-and-install-with-cmake&#34;&gt;Build and install with CMake&lt;/h3&gt;
-&lt;p&gt;SPM can be built using &lt;a href=&#34;https://cmake.org/&#34;&gt;CMake&lt;/a&gt;. This
+&lt;p&gt;SPM can be built using 
+&lt;a href=&#34;https://cmake.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMake&lt;/a&gt;. This
 installation requires to have some library dependencies already
 installed on the system:&lt;/p&gt;
 &lt;ul&gt;
@@ -937,7 +1000,8 @@ installed on the system:&lt;/p&gt;
 problems with the software, or for any feature request. We will try
 our best to answer them in a short time frame.&lt;/p&gt;
 &lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/CONTRIBUTING.md&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;
 &lt;p&gt;The following people contribute or contributed to the development of SPM:&lt;/p&gt;
 &lt;ul&gt;
@@ -951,7 +1015,8 @@ our best to answer them in a short time frame.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;If we forgot your name, please let us know that we can fix that mistake.&lt;/p&gt;
 &lt;h3 id=&#34;licence&#34;&gt;Licence&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.inria.fr/solverstack/spm/blob/master/LICENCE&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -996,7 +1061,7 @@ our best to answer them in a short time frame.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Blocking Strategy Optimization for Sparse Direct Linear Solvers on Heterogeneous Architectures</title>
+      <title>Blocking strategy optimization for sparse direct linear solvers on heterogeneous architectures</title>
       <link>https://ramet.github.io/publication/c-la-bri-pastix-solhar-3/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/publication/c-la-bri-pastix-solhar-3/</guid>

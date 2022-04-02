@@ -5,12 +5,36 @@
     <link>https://ramet.github.io/authors/mathieu-faverge/</link>
       <atom:link href="https://ramet.github.io/authors/mathieu-faverge/index.xml" rel="self" type="application/rss+xml" />
     <description>Mathieu Faverge</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ramet.github.io/img/icon-192.png</url>
+      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Mathieu Faverge</title>
       <link>https://ramet.github.io/authors/mathieu-faverge/</link>
     </image>
+    
+    <item>
+      <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-03361299/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-03361299/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-03152932/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-03152932/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
+      <link>https://ramet.github.io/publication/gou-hal-02973315/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/gou-hal-02973315/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>

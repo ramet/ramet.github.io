@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low-rank compression | Pierre Ramet</title>
+    <link>https://ramet.github.io/tags/low-rank-compression/</link>
+      <atom:link href="https://ramet.github.io/tags/low-rank-compression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Low-rank compression</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Low-rank compression</title>
+      <link>https://ramet.github.io/tags/low-rank-compression/</link>
+    </image>
+    
+    <item>
+      <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-03361299/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-03361299/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
+      <link>https://ramet.github.io/publication/korkmaz-hal-03152932/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-hal-03152932/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Developments Around the Block Low-Rank PaStiX Solver</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pp-20/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
+      <link>https://ramet.github.io/publication/pichon-hal-02326407/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-02326407/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Block Low-rank Algebraic Clustering for Sparse Direct Solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01956962/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01956962/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Parameterized Task-graph in Sparse Direct Solvers</title>
+      <link>https://ramet.github.io/publication/faverge-hal-01956963/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/faverge-hal-01956963/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supernodes ordering to enhance Block Low-Rank compression in sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01961675/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01961675/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the use of low-rank arithmetic to reduce the complexity of parallel sparse linear solvers based on direct factorization techniques</title>
+      <link>https://ramet.github.io/publication/t-la-bri-gp-18/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/t-la-bri-gp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation de la compression low-rank pour réduire la complexité du solveur PaStiX</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01956928/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01956928/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01824275/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01824275/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation de la compression Block Low-Rank pour accélérer un solveur direct creux supernodal</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01956959/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01956959/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supernodes ordering to enhance Block Low-Rank compression in sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01956960/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01956960/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Supernodal Solver Using Block Low-Rank Compression: design, performance and analysis</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01660665/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01660665/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse supernodal solver with low-rank compression for solving the frequency-domain Maxwell equations discretized by a high order HDG method</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01660653/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01660653/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Supernodal Solver exploiting Low-Rankness Property</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01585622/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01585622/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Supernodal Solver Using Block Low-Rank Compression</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01502215/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01502215/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation de la compression Block Low-Rank pour accélérer un solveur direct creux supernodal</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01585660/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01585660/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Supernodal Solver Using Block Low-Rank Compression</title>
+      <link>https://ramet.github.io/publication/pichon-hal-01450732/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/pichon-hal-01450732/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Supernodal Solver Using Hierarchical Compression</title>
+      <link>https://ramet.github.io/publication/c-la-bri-purdue-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-purdue-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the use of low rank approximations for sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/c-la-bri-an-16/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-an-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting H-Matrices in Sparse Direct Solvers</title>
+      <link>https://ramet.github.io/publication/c-la-bri-pp-16-b/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-pp-16-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the use of H-Matrix Arithmetic in PaStiX: a Preliminary Study</title>
+      <link>https://ramet.github.io/publication/c-la-bri-cimi-15/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/c-la-bri-cimi-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

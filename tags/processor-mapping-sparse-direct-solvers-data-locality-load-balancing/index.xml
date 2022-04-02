@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Processor mapping ; sparse direct solvers ; data locality ; load balancing | Pierre Ramet</title>
+    <link>https://ramet.github.io/tags/processor-mapping-sparse-direct-solvers-data-locality-load-balancing/</link>
+      <atom:link href="https://ramet.github.io/tags/processor-mapping-sparse-direct-solvers-data-locality-load-balancing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Processor mapping ; sparse direct solvers ; data locality ; load balancing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Processor mapping ; sparse direct solvers ; data locality ; load balancing</title>
+      <link>https://ramet.github.io/tags/processor-mapping-sparse-direct-solvers-data-locality-load-balancing/</link>
+    </image>
+    
+    <item>
+      <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
+      <link>https://ramet.github.io/publication/gou-hal-02973315/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/gou-hal-02973315/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

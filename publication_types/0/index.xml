@@ -7,7 +7,7 @@
     <description>0</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ramet.github.io/img/icon-192.png</url>
+      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>0</title>
       <link>https://ramet.github.io/publication_types/0/</link>
     </image>
@@ -77,7 +77,7 @@
     </item>
     
     <item>
-      <title>Blocking Strategy Optimization for Sparse Direct Linear Solvers on Heterogeneous Architectures</title>
+      <title>Blocking strategy optimization for sparse direct linear solvers on heterogeneous architectures</title>
       <link>https://ramet.github.io/publication/c-la-bri-pastix-solhar-3/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/publication/c-la-bri-pastix-solhar-3/</guid>
