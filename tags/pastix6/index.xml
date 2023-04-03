@@ -1,49 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pastix6 | Pierre Ramet</title>
+    <title>pastix6 on Pierre Ramet</title>
     <link>https://ramet.github.io/tags/pastix6/</link>
-      <atom:link href="https://ramet.github.io/tags/pastix6/index.xml" rel="self" type="application/rss+xml" />
-    <description>pastix6</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2019 13:49:56 +0100</lastBuildDate>
-    <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>pastix6</title>
-      <link>https://ramet.github.io/tags/pastix6/</link>
-    </image>
+    <description>Recent content in pastix6 on Pierre Ramet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Apr 2022 18:07:19 +0100</lastBuildDate><atom:link href="https://ramet.github.io/tags/pastix6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PaStiX Release 6.2.1</title>
+      <link>https://ramet.github.io/post/pastix-release/</link>
+      <pubDate>Sat, 02 Apr 2022 18:07:19 +0100</pubDate>
+      
+      <guid>https://ramet.github.io/post/pastix-release/</guid>
+      <description>See &lt;a href=&#34;https://gitlab.inria.fr/solverstack/pastix/-/releases&#34;&gt;Gitlab Inria&lt;/a&gt;</description>
+    </item>
     
     <item>
       <title>Build PaStiX with Guix-HPC</title>
       <link>https://ramet.github.io/post/guix-build/</link>
       <pubDate>Sat, 16 Nov 2019 13:49:56 +0100</pubDate>
+      
       <guid>https://ramet.github.io/post/guix-build/</guid>
-      <description>&lt;h2 id=&#34;how-to-build-pastix&#34;&gt;How to build PaStiX&lt;/h2&gt;
-&lt;p&gt;The package definitions in &lt;em&gt;Guix-HPC&lt;/em&gt; repository &lt;em&gt;extend&lt;/em&gt; 
-&lt;a href=&#34;https://gnu.org/s/guix/packages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;those that come with
-Guix&lt;/a&gt;.  To make them visible to the
-&lt;code&gt;guix&lt;/code&gt; command-line tools, create the &lt;code&gt;~/.config/guix/channels.scm&lt;/code&gt; file
-with the following snippet to request the &lt;code&gt;guix-hpc&lt;/code&gt; &lt;em&gt;channel&lt;/em&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;(cons (channel
-        (name &#39;guix-hpc)
-        (url &amp;quot;https://gitlab.inria.fr/guix-hpc/guix-hpc.git&amp;quot;))
-      %default-channels)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;That way, &lt;code&gt;guix pull&lt;/code&gt; will systematically pull not only Guix, but also
-Guix-HPC.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;guix package -u pastix
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;hacking-on-guix-hpc&#34;&gt;Hacking on Guix-HPC&lt;/h2&gt;
-&lt;p&gt;When working on packages of the &lt;code&gt;guix-hpc&lt;/code&gt; channel, you&amp;rsquo;ll need to clone
-the &lt;code&gt;guix-hpc&lt;/code&gt; repository:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;cd src
-git clone https://gitlab.inria.fr/guix-hpc/guix-hpc.git
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;From then on, you can edit package definitions, and then try them out by
-passing the location of the checkout using the &lt;code&gt;-L&lt;/code&gt; flag to &lt;code&gt;guix build&lt;/code&gt;
-and other command-line tools, as in this example:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;guix build -L ~/src/guix-hpc pastix
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <description>See &lt;a href=&#34;https://gitlab.inria.fr/guix-hpc/guix-hpc&#34;&gt;Gitlab Inria&lt;/a&gt;</description>
     </item>
     
   </channel>
