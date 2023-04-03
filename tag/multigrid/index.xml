@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multigrid | Academic</title>
+    <link>https://example.com/tag/multigrid/</link>
+      <atom:link href="https://example.com/tag/multigrid/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multigrid</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Multigrid</title>
+      <link>https://example.com/tag/multigrid/</link>
+    </image>
+    
+    <item>
+      <title>Toward a multilevel method for the Helmholtz equation</title>
+      <link>https://example.com/publication/richefort-hal-04046622/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/richefort-hal-04046622/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward  a Multigrid Method for the Indefinite Helmholtz Equation</title>
+      <link>https://example.com/publication/falgout-hal-04046630/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/falgout-hal-04046630/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

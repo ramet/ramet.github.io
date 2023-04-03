@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Academic</title>
+    <link>https://example.com/publication-type/7/</link>
+      <atom:link href="https://example.com/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>7</title>
+      <link>https://example.com/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>On the use of low-rank arithmetic to reduce the complexity of parallel sparse linear solvers based on direct factorization techniques</title>
+      <link>https://example.com/publication/t-la-bri-gp-18/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/t-la-bri-gp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous architectures, Hybrid methods, Hierarchical matrices for Sparse Linear Solvers</title>
+      <link>https://example.com/publication/ramet-tel-01668740/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ramet-tel-01668740/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizations of hybrid sparse linear solvers relying on Schur complement and domain decomposition approaches</title>
+      <link>https://example.com/publication/t-la-bri-ac-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/t-la-bri-ac-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling and memory optimizations for sparse direct solver on multi-core/multi-gpu duster systems</title>
+      <link>https://example.com/publication/t-la-bri-xl-15/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/t-la-bri-xl-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain decomposition method for the Simplified Transport Equation in neutronic</title>
+      <link>https://example.com/publication/t-la-bri-bl-10/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/t-la-bri-bl-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conception d&#39;un solveur haute performance de systèmes linéaires creux couplant des mt́hodes multigrilles et directes pour la r&#39;ólution des &#39;eátions de Maxwell 3D en r&#39;egé harmonique discr&#39;eti&#39;́ees ŕ &#39;el&#39;eńtsínis</title>
+      <link>https://example.com/publication/t-la-bri-mc-09/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/t-la-bri-mc-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a parallel hybrid direct/iterative sparse linear solver</title>
+      <link>https://example.com/publication/t-la-bri-jg-09/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/t-la-bri-jg-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static-Dynamic Hybrid Scheduling in sparse linear algebra for large clusters of NUMA and multi-cores architectures</title>
+      <link>https://example.com/publication/t-la-bri-mf-09/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/t-la-bri-mf-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution des Données et Rǵulation Statique des Calculs et des Communications pour la R&#39;ólution de Grands Systèmes Lin&#39;eŕes Creux par M&#39;etd́e Directe</title>
+      <link>https://example.com/publication/t-la-bri-ph-01/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/t-la-bri-ph-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mise en øe uvre d&#39;une Bibliothèque d&#39;Outils pour la Résolution Paralll̀e Hautes Performances par Mt́hode Directe de Grands Syst`ès Lin&#39;íres Creux et application `aǹ Code de M&#39;eńique des Structures</title>
+      <link>https://example.com/publication/t-la-bri-dg-2-k/</link>
+      <pubDate>Wed, 01 Nov 2000 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/t-la-bri-dg-2-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation de la Communication et de la Distribution des Données pour des Solveurs Parallèles Directs en Algb̀re Lináire Dense et Creuse</title>
+      <link>https://example.com/publication/t-la-bri-pr-2-k/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/t-la-bri-pr-2-k/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

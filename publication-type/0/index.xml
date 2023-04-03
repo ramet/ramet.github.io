@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Academic</title>
+    <link>https://example.com/publication-type/0/</link>
+      <atom:link href="https://example.com/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>0</title>
+      <link>https://example.com/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
+      <link>https://example.com/publication/pichon-hal-02326407/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pichon-hal-02326407/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation de techniques de compression low-rank pour un solveur parallèle direct creux</title>
+      <link>https://example.com/publication/ramet-hal-02081108/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ramet-hal-02081108/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation de la compression low-rank pour réduire la complexité du solveur PaStiX</title>
+      <link>https://example.com/publication/pichon-hal-01956928/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pichon-hal-01956928/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation de la compression Block Low-Rank pour accélérer un solveur direct creux supernodal</title>
+      <link>https://example.com/publication/pichon-hal-01956959/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pichon-hal-01956959/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous architectures, Hybrid methods, Hierarchical matrices for Sparse Linear Solvers</title>
+      <link>https://example.com/publication/c-la-bri-stanford-18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-stanford-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse supernodal solver with low-rank compression for solving the frequency-domain Maxwell equations discretized by a high order HDG method</title>
+      <link>https://example.com/publication/pichon-hal-01660653/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pichon-hal-01660653/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocking strategy optimizations for sparse direct linear solver on heterogeneous architectures</title>
+      <link>https://example.com/publication/c-la-bri-hoscar-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-hoscar-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PaStiX: Parallel Sparse Matrix Package</title>
+      <link>https://example.com/publication/c-la-bri-jdev/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-jdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocking strategy optimization for sparse direct linear solvers on heterogeneous architectures</title>
+      <link>https://example.com/publication/c-la-bri-pastix-solhar-3/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-pastix-solhar-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solveurs Directs</title>
+      <link>https://example.com/publication/c-la-bri-mds-15/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-mds-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking of the linear solver PaStiX for integration in LESCAPE</title>
+      <link>https://example.com/publication/c-la-bri-lescape/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-lescape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biodiversiton : application du HPC à l&#39;étude de la biodiversit</title>
+      <link>https://example.com/publication/c-la-bri-mcia-15/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-mcia-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the design of parallel linear solvers for large scale problems</title>
+      <link>https://example.com/publication/c-la-bri-cnrs-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-cnrs-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed sparse matrix factorization on top of tasks based runtime systems</title>
+      <link>https://example.com/publication/c-la-bri-pastix-solhar-2/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-pastix-solhar-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward parallel scalable linear solvers suited for large scale hierarchical parallel platforms</title>
+      <link>https://example.com/publication/c-la-bri-hoscar-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-hoscar-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-based linear solvers for modern architectures</title>
+      <link>https://example.com/publication/c-la-bri-iter-14/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-iter-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Cartesian Transport Sweep for Massively Parallel Architectures on top of PaRSEC</title>
+      <link>https://example.com/publication/c-la-bri-sweep-scheduling/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-sweep-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Algorithms for Dense Linear Algebra</title>
+      <link>https://example.com/publication/c-la-bri-cp-ub/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-cp-ub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From hybrid architectures to hybrid solvers</title>
+      <link>https://example.com/publication/c-la-bri-cp-ua/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-cp-ua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Cartesian Transport Sweep for Massively Parallel Architectures on top of PaRSEC</title>
+      <link>https://example.com/publication/c-la-bri-sweep-solhar/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-sweep-solhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solveurs Directs</title>
+      <link>https://example.com/publication/c-la-bri-mds-14/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-mds-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid methods, Hybrid architectures, Hybrid compressions for sparse direct solvers</title>
+      <link>https://example.com/publication/c-la-bri-mcia-14/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-mcia-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid methods, Hybrid architectures, Hybrid compressions for sparse direct solvers</title>
+      <link>https://example.com/publication/c-la-bri-stanford-13-b/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-stanford-13-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Numerical Solvers on top of Runtime Systems</title>
+      <link>https://example.com/publication/c-la-bri-sc-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-sc-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Linear Algebra over DAG Runtimes</title>
+      <link>https://example.com/publication/c-la-bri-pastix-solhar/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-pastix-solhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From hybrid architectures to hybrid solvers</title>
+      <link>https://example.com/publication/c-la-bri-stanford-13-a/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-stanford-13-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Méthodes directes et hybrides pour des solveurs creux adapatś aux machines multiCPUs/multiGPUs</title>
+      <link>https://example.com/publication/c-la-bri-etsn-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-etsn-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solveurs Directs</title>
+      <link>https://example.com/publication/c-la-bri-mds-13/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-mds-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrices over Runtime Systems at Exascale</title>
+      <link>https://example.com/publication/c-la-bri-sc-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-sc-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling for Sparse Solver on Manycore Architectures</title>
+      <link>https://example.com/publication/c-la-bri-hoscar-2012-b/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-hoscar-2012-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse direct solver on top of large-scale multicore systems with GPU accelerators</title>
+      <link>https://example.com/publication/c-la-bri-cemracs-12/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-cemracs-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse direct solvers with accelerators over DAG runtimes</title>
+      <link>https://example.com/publication/c-la-bri-hoscar-2012-a/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-hoscar-2012-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Résolution des systèmes lináires sur calculateurs p&#39;áflopiques</title>
+      <link>https://example.com/publication/c-la-bri-chocs/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-chocs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PaStiX: sparse direct/hybrid solver on many CPU/GPU clusters</title>
+      <link>https://example.com/publication/c-la-bri-utk-11/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-utk-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solveurs Directs</title>
+      <link>https://example.com/publication/c-la-bri-mds-11/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-mds-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear algebra and sparse direct methods</title>
+      <link>https://example.com/publication/c-la-bri-mfn-2011/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-mfn-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordonnancement dynamique dans le solveur PaStiX pour des machines NUMA et multicoeurs</title>
+      <link>https://example.com/publication/c-la-bri-cnrs-10/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-cnrs-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable direct and iterative solvers</title>
+      <link>https://example.com/publication/c-la-bri-sc-2010/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-sc-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formation Parallélisme</title>
+      <link>https://example.com/publication/c-la-bri-cemracs-10/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-cemracs-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable direct and iterative solvers</title>
+      <link>https://example.com/publication/c-la-bri-uuic/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-uuic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Résolution de Systèmes Lináires, Algorithmes et Parall&#39;ísme</title>
+      <link>https://example.com/publication/c-la-bri-cnrs-08/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-cnrs-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A supernode amalgamation algorithm for an efficient block incomplete factorization</title>
+      <link>https://example.com/publication/c-la-bri-mn-08/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-mn-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Méthodes directes hautes performances de rśolution en algèbre lin&#39;íre creuse</title>
+      <link>https://example.com/publication/c-la-bri-cei-06/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-cei-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Complete and Incomplete Blockwise Factorisations for Very Large Sparse Systems</title>
+      <link>https://example.com/publication/c-la-bri-sc-2004/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-sc-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Parallel Direct Solver for Very Large Sparse SPD Systems</title>
+      <link>https://example.com/publication/c-la-bri-ipdps-2003/</link>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-ipdps-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Parallel Direct Solver for Very Large Sparse SPD Systems</title>
+      <link>https://example.com/publication/c-la-bri-sc-2002/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-sc-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

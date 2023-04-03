@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low-rank compression ; randomization ; compression de rang faible ; randomisation | Academic</title>
+    <link>https://example.com/tag/low-rank-compression-randomization-compression-de-rang-faible-randomisation/</link>
+      <atom:link href="https://example.com/tag/low-rank-compression-randomization-compression-de-rang-faible-randomisation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Low-rank compression ; randomization ; compression de rang faible ; randomisation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Low-rank compression ; randomization ; compression de rang faible ; randomisation</title>
+      <link>https://example.com/tag/low-rank-compression-randomization-compression-de-rang-faible-randomisation/</link>
+    </image>
+    
+    <item>
+      <title>Reaching the Quality of SVD for Low-Rank Compression Through QR Variants</title>
+      <link>https://example.com/publication/korkmaz-hal-03718312/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/korkmaz-hal-03718312/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

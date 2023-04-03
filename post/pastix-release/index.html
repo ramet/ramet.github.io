@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!DOCTYPE html><html lang="en-us" >
 
 <head>
 
@@ -21,7 +20,7 @@
   
   
 
-  <meta name="author" content="Pierre Ramet">
+  
 
   
   
@@ -213,6 +212,9 @@
 
 
   
+  
+
+  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png">
@@ -225,6 +227,8 @@
   
   
   
+  
+  
     
   
   
@@ -232,14 +236,14 @@
   
   <meta property="og:site_name" content="Pierre Ramet">
   <meta property="og:url" content="https://ramet.github.io/post/pastix-release/">
-  <meta property="og:title" content="PaStiX Release 6.1.0 | Pierre Ramet">
+  <meta property="og:title" content="PaStiX Release 6.2.1 | Pierre Ramet">
   <meta property="og:description" content="See [Gitlab Inria](https://gitlab.inria.fr/solverstack/pastix/-/releases)"><meta property="og:image" content="https://ramet.github.io/post/pastix-release/featured.png">
   <meta property="twitter:image" content="https://ramet.github.io/post/pastix-release/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-02-07T13:49:56&#43;01:00">
+      <meta property="article:published_time" content="2022-04-02T18:07:19&#43;01:00">
     
-    <meta property="article:modified_time" content="2020-02-07T13:49:56&#43;01:00">
+    <meta property="article:modified_time" content="2022-04-02T18:07:19&#43;01:00">
   
 
   
@@ -265,14 +269,14 @@
     "@type": "WebPage",
     "@id": "https://ramet.github.io/post/pastix-release/"
   },
-  "headline": "PaStiX Release 6.1.0",
+  "headline": "PaStiX Release 6.2.1",
   
   "image": [
     "https://ramet.github.io/post/pastix-release/featured.png"
   ],
   
-  "datePublished": "2020-02-07T13:49:56+01:00",
-  "dateModified": "2020-02-07T13:49:56+01:00",
+  "datePublished": "2022-04-02T18:07:19+01:00",
+  "dateModified": "2022-04-02T18:07:19+01:00",
   
   "author": {
     "@type": "Person",
@@ -305,7 +309,7 @@
 
 
 
-  <title>PaStiX Release 6.1.0 | Pierre Ramet</title>
+  <title>PaStiX Release 6.2.1 | Pierre Ramet</title>
 
 </head>
 
@@ -602,8 +606,21 @@
       
 
       
-      <li class="nav-item">
-        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
       </li>
       
 
@@ -645,7 +662,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>PaStiX Release 6.1.0</h1>
+  <h1>PaStiX Release 6.2.1</h1>
 
   
 
@@ -662,7 +679,7 @@
     
 
   
-  <span><a href="/authors/pierre-ramet/">Pierre Ramet</a></span>
+  <span>Pierre Ramet</span>
   </div>
   
   
@@ -673,7 +690,7 @@
     
       
     
-    Feb 7, 2020
+    Apr 2, 2022
   </span>
   
 
@@ -763,31 +780,18 @@
 
     <div class="article-style">
       <ul>
-<li>Add a new dynamic scheduler supported by the internal threads for numerical factorization</li>
-<li>Add MPI support for the numerical factorization and solve
-<ul>
-<li>Available for all schedulers: sequential, internal threads (static, dynamic), StarPU, and PaRSEC</li>
-<li>WARNING: The RHS is not distributed yet, and must be replicated on all nodes</li>
-<li>WARNING: The low-rank and Schur functionalities are not available in distributed yet</li>
-</ul>
-</li>
-<li>Enable the use of an external SPM module</li>
-<li>Improve splitting strategy:
-<ul>
-<li>avoid unnecessary splits when using K-Way</li>
-<li>reduce the range of possible split to limit the apparition of small blocks</li>
-</ul>
-</li>
-<li>Change the preselected behavior to be:
-<ul>
-<li>never compressed in the JustInTime scenario</li>
-<li>compress the preselected block just before applying the TRSM in the MinimalMemory scenario</li>
-<li>the behavior can be change through IPARM_COMPRESS_PRESELECT</li>
-</ul>
-</li>
-<li>Add a cmake summary</li>
-<li>Add coverity scan</li>
-<li>Update README.md and documentation</li>
+<li>MPI/PThreads: Small improvement on communication reactivity</li>
+<li>Runtime: Fix issue in distributed when looping over the factorization with runtime systems</li>
+<li>MPI/refinement: Fix issue in frobenius merge in distributed</li>
+<li>MPI/low-rank: Introduce a first version of the distributed low-rank solver with PThread schedulers</li>
+<li>analyze: Enable the generation of distributed simulated traces</li>
+<li>LR/Schur: Fix issue when using low-rank and Schur functionnality that was re-ordering the Schur complement</li>
+<li>api: Introduction of th generator for the iparm/dparm/enum in order to later extend their documentation</li>
+<li>starpu/gpu: start testing the heteroprio scheduler</li>
+<li>debug: Fix compilation of many debug functionnalities</li>
+<li>doc: update on the tutorials</li>
+<li>spm: update the IO functionalities and integrate the fix on distributed load/save from SPM</li>
+<li>cmake: better protect in source compilation</li>
 </ul>
 
     </div>
@@ -817,7 +821,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://ramet.github.io/post/pastix-release/&amp;text=PaStiX%20Release%206.1.0" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://ramet.github.io/post/pastix-release/&amp;text=PaStiX%20Release%206.2.1" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -830,7 +834,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://ramet.github.io/post/pastix-release/&amp;t=PaStiX%20Release%206.1.0" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://ramet.github.io/post/pastix-release/&amp;t=PaStiX%20Release%206.2.1" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -843,7 +847,7 @@
       
       
       <li>
-        <a href="mailto:?subject=PaStiX%20Release%206.1.0&amp;body=https://ramet.github.io/post/pastix-release/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=PaStiX%20Release%206.2.1&amp;body=https://ramet.github.io/post/pastix-release/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -856,7 +860,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://ramet.github.io/post/pastix-release/&amp;title=PaStiX%20Release%206.1.0" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://ramet.github.io/post/pastix-release/&amp;title=PaStiX%20Release%206.2.1" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -869,7 +873,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=PaStiX%20Release%206.1.0%20https://ramet.github.io/post/pastix-release/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=PaStiX%20Release%206.2.1%20https://ramet.github.io/post/pastix-release/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -882,7 +886,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://ramet.github.io/post/pastix-release/&amp;title=PaStiX%20Release%206.1.0" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://ramet.github.io/post/pastix-release/&amp;title=PaStiX%20Release%206.2.1" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -910,23 +914,6 @@
 
 
   
-  
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-
-    <div class="media-body">
-      <h5 class="card-title"><a href="/authors/pierre-ramet/"></a></h5>
-      
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-</ul>
-
-    </div>
-  </div>
 
 
   
@@ -1046,6 +1033,9 @@
 
     
     
+
+    
+    
     
     
     
@@ -1058,7 +1048,7 @@
     
     
     
-    <script src="/js/academic.min.5dd74703811c15e3a80334da0f54bf74.js"></script>
+    <script src="/js/academic.min.cd45a9c0bbdd3dfb1c126917c601c9f2.js"></script>
 
     
 
@@ -1075,7 +1065,17 @@
 
   <p class="powered-by">
     
+  </p>
 
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.

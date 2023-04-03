@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fusion | Academic</title>
+    <link>https://example.com/tag/fusion/</link>
+      <atom:link href="https://example.com/tag/fusion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fusion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Fusion</title>
+      <link>https://example.com/tag/fusion/</link>
+    </image>
+    
+    <item>
+      <title>The JOREK non-linear extended MHD code and applications to large-scale instabilities and their control in magnetically confined fusion plasmas</title>
+      <link>https://example.com/publication/hoelzl-hal-03352509/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hoelzl-hal-03352509/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Linear MHD simulations of Edge Localised Modes</title>
+      <link>https://example.com/publication/c-la-bri-eps-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-eps-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear MHD simulations of edge localized modes (ELMs)</title>
+      <link>https://example.com/publication/a-la-bri-eps-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-la-bri-eps-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulation of unsteady MHD flows and applications</title>
+      <link>https://example.com/publication/a-la-bri-mhd-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/a-la-bri-mhd-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulation of tokamak plasmas</title>
+      <link>https://example.com/publication/c-la-bri-fusion-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-fusion-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Linear MHD code developement for ELM simulations</title>
+      <link>https://example.com/publication/c-la-bri-eps-2008/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-eps-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improvement of existing solvers for the simulation of MHD instabilities</title>
+      <link>https://example.com/publication/c-la-bri-fusion-2007/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/c-la-bri-fusion-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
