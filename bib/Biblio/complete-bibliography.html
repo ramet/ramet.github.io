@@ -26,12 +26,33 @@ All publications sorted by Books and proceedings
 <ol>
 
 <li>
-<a name="t:LaBRI::GP18"></a><a href="../Author/PICHON-G.html">G. Pichon</a>.
+<a name="korkmaz:tel-03875858"></a><a href="../Author/KORKMAZ-E.html">Esragul Korkmaz</a>.
+<strong>Improving the memory and time overhead of low-rank parallel linear sparse direct solvers</strong>.
+Theses,
+Université de Bordeaux,
+September 2022.
+ <a href="https://theses.hal.science/tel-03875858"><img align="middle" border="0" src="../Icons/www.gif"></a>  <a href="https://theses.hal.science/tel-03875858/file/KORKMAZ_ESRAGUL_2022.pdf"><img align="middle" border="0" src="../Icons/pdf.gif"></a> Keyword(s): <a href="../Keyword/LOW-RANK-COMPRESSION.html">Low-Rank compression</a>.
+<center>
+<table border=1 align=center width=80%>
+<tr>
+Abstract: <td>
+ Through the recent improvements toward exascale supercomputer systems, huge computations can be performed in reasonable times by using massively parallelized operations. Unfortunately, the increase of the computational units in these systems does not lead to a rise in the memory available per core. Therefore, this memory limitation forces the scientists/engineers to not only efficiently parallelize the operations but also minimize the memory used. Many scientific and engineering applications have to solve large sparse linear systems of the type Ax = b. Although the direct methods are the most robust solutions for these systems, they are costly in terms of their memory usage and time-to-solution. In this respect, the low-rank representations have been recently introduced into these solvers to reduce the time and memory footprint. In this work, our goal is to improve the low-rank feature of the block low-rank (BLR) sparse supernodal direct solver PaStiX. For this purpose, we compare some compression methods to determine the fastest kernel, which keeps the representative data with the smallest rank possible. Then, we focus on improving supernodal solver by reducing the number of re-compression during the updates. Firstly, we study the separator reordering strategies to identify the poorly compressible blocks involved in these updates and reduce their occurrences. Secondly, we propose an orthogonal solution to predict thecompressibility of the blocks before the numerical factorization. This last approach relies on the use of the level of fill of a symbolic block incomplete factorization. Thanks to these optimizations, the memory usage has been reduced more effectively compared to the state of the art solvers while also improving the time to solution. This thesis is a requested first step toward a advanced sparse direct solver using hierarchical compression schemes. </td>
+
+</tr></table></center>
+[bibtex-key = korkmaz:tel-03875858]
+[<a href="../Year/2022.complete.html#korkmaz:tel-03875858">bibtex-entry</a>]
+
+</li>
+<br /><br />
+
+
+<li>
+<a name="pichon:tel-01953908"></a><a href="../Author/PICHON-G.html">Gregoire Pichon</a>.
 <strong>On the use of low-rank arithmetic to reduce the complexity of parallel sparse linear solvers based on direct factorization techniques</strong>.
-PhD thesis,
+Theses,
 Université de Bordeaux,
 November 2018.
- <a href="https://hal.inria.fr/tel-01953908"><img align="middle" border="0" src="../Icons/www.gif"></a>  <a href="https://hal.inria.fr/tel-01953908/file/thesis_final.pdf"><img align="middle" border="0" src="../Icons/pdf.gif"></a> Keyword(s): <a href="../Keyword/LOW-RANK-COMPRESSION.html">Low-rank-compression</a>.
+ <a href="https://hal.inria.fr/tel-01953908"><img align="middle" border="0" src="../Icons/www.gif"></a>  <a href="https://hal.inria.fr/tel-01953908v2/file/PICHON_GREGOIRE_2018.pdf"><img align="middle" border="0" src="../Icons/pdf.gif"></a> Keyword(s): <a href="../Keyword/LOW-RANK-COMPRESSION.html">Low-Rank compression</a>.
 <center>
 <table border=1 align=center width=80%>
 <tr>
@@ -39,8 +60,8 @@ Abstract: <td>
  Solving sparse linear systems is a problem that arises in many scientific applications, and sparse direct solvers are a time consuming and key kernel for those applications and for more advanced solvers such as hybrid direct-iterative solvers. For those reasons, optimizing their performance on modern architectures is critical. However, memory requirements and time-to-solution limit the use of direct methods for very large matrices. For other approaches, such as iterative methods, general black-box preconditioners that can ensure fast convergence for a wide range of problems are still missing. In the first part of this thesis, we present two approaches using a Block Low-Rank (BLR) compression technique to reduce the memory footprint and/or the time-to-solution of a supernodal sparse direct solver. This flat, non-hierarchical, compression method allows to take advantage of the low-rank property of the blocks appearing during the factorization of sparse linear systems. The proposed solver can be used either as a direct solver at a lower precision or as a very robust preconditioner. The first approach, called Minimal-Memory, illustrates the maximum memory gain that can be obtained with the BLR compression method, while the second approach, called Just-In-Time, mainly focuses on reducing the computational complexity and thus the time-to-solution. In the second part, we present a reordering strategy that increases the block granularity to better take advantage of the locality for multicores and provide larger tasks to GPUs. This strategy relies on the block-symbolic factorization to refine the ordering produced by tools such as Metis or Scotch, but it does not impact the number of operations required to solve the problem. From this approach, we propose in the third part of this manuscript a new low-rank clustering technique that is designed to cluster unknowns within a separator to obtain the BLR partition, and demonstrate its assets with respect to widely used clustering strategies. Both reordering and clustering where designed for the flat BLR representation but are also a first step to move to hierarchical formats. We investigate in the last part of this thesis a modified nested dissection strategy that aligns separators with respect to their father to obtain more regular data structure. </td>
 
 </tr></table></center>
-[bibtex-key = t:LaBRI::GP18]
-[<a href="../Year/2018.complete.html#t:LaBRI::GP18">bibtex-entry</a>]
+[bibtex-key = pichon:tel-01953908]
+[<a href="../Year/2018.complete.html#pichon:tel-01953908">bibtex-entry</a>]
 
 </li>
 <br /><br />
@@ -117,6 +138,20 @@ December 2015.
 
 
 <li>
+<a name="t:LaBRI::MC09"></a>Mathieu Chanaud.
+<strong>Conception d'un solveur haute performance de systèmes linéaires creux couplant des méthodes multigrilles et directes pour la résolution des équations de Maxwell 3D en régime harmonique discrétisées par éléments finis</strong>.
+PhD thesis,
+Université de Bordeaux,
+December 2011.
+ <a href="http://www.theses.fr/2011BOR14324/document"><img align="middle" border="0" src="../Icons/www.gif"></a> Keyword(s): <a href="../Keyword/SPARSE.html">Sparse</a>.
+[bibtex-key = t:LaBRI::MC09]
+[<a href="../Year/2011.complete.html#t:LaBRI::MC09">bibtex-entry</a>]
+
+</li>
+<br /><br />
+
+
+<li>
 <a name="t:LaBRI::BL10"></a><a href="../Author/LATHUILIERE-B.html">B. Lathuilière</a>.
 <strong>Domain decomposition method for the Simplified Transport Equation in neutronic</strong>.
 PhD thesis,
@@ -132,21 +167,6 @@ The reactivity computations are an essential component for the simulation of the
 </tr></table></center>
 [bibtex-key = t:LaBRI::BL10]
 [<a href="../Year/2010.complete.html#t:LaBRI::BL10">bibtex-entry</a>]
-
-</li>
-<br /><br />
-
-
-<li>
-<a name="t:LaBRI::MC09"></a>M. Chanaud.
-<strong>Conception d'un solveur haute performance de systèmes linéaires creux couplant des méthodes multigrilles et directes pour la résolution des équations de Maxwell 3D en régime harmonique discrétisées par éléments finis</strong>.
-PhD thesis,
-LaBRI, Université Bordeaux,
-Talence, France,
-December 2009.
- <a href="http://www.labri.fr/~ramet/restricted/these_chanaud.pdf"><img align="middle" border="0" src="../Icons/pdf.gif"></a> Keyword(s): <a href="../Keyword/SPARSE.html">Sparse</a>.
-[bibtex-key = t:LaBRI::MC09]
-[<a href="../Year/2009.complete.html#t:LaBRI::MC09">bibtex-entry</a>]
 
 </li>
 <br /><br />
@@ -749,23 +769,6 @@ Abstract: <td>
 
 
 <li>
-<a name="korkmaz:hal-02326070"></a><a href="../Author/KORKMAZ-E.html">Esragul Korkmaz</a>,
-<a href="../Author/FAVERGE-M.html">Mathieu Faverge</a>,
-<a href="../Author/PICHON-G.html">Grégoire Pichon</a>,
- and <a href="../Author/RAMET-P.html">Pierre Ramet</a>.
-<strong>Rank Revealing QR Methods for Sparse Block Low Rank Solvers</strong>.
-In <em>Sparse Days 2019</em>,
-Toulouse, France,
-July 2019.
- <a href="https://hal.inria.fr/hal-02326070"><img align="middle" border="0" src="../Icons/www.gif"></a>  <a href="https://hal.inria.fr/hal-02326070/file/demo.pdf"><img align="middle" border="0" src="../Icons/pdf.gif"></a> Keyword(s): <a href="../Keyword/RANDOMIZED.html">Randomized</a>.
-[bibtex-key = korkmaz:hal-02326070]
-[<a href="../Year/2019.complete.html#korkmaz:hal-02326070">bibtex-entry</a>]
-
-</li>
-<br /><br />
-
-
-<li>
 <a name="korkmaz:hal-02326084"></a><a href="../Author/KORKMAZ-E.html">Esragul Korkmaz</a>,
 <a href="../Author/FAVERGE-M.html">Mathieu Faverge</a>,
 <a href="../Author/PICHON-G.html">Grégoire Pichon</a>,
@@ -777,6 +780,23 @@ June 2019.
  <a href="https://hal.inria.fr/hal-02326084"><img align="middle" border="0" src="../Icons/www.gif"></a>  <a href="https://hal.inria.fr/hal-02326084/file/demo.pdf"><img align="middle" border="0" src="../Icons/pdf.gif"></a> Keyword(s): <a href="../Keyword/RANDOMIZED.html">Randomized</a>.
 [bibtex-key = korkmaz:hal-02326084]
 [<a href="../Year/2019.complete.html#korkmaz:hal-02326084">bibtex-entry</a>]
+
+</li>
+<br /><br />
+
+
+<li>
+<a name="korkmaz:hal-02326070"></a><a href="../Author/KORKMAZ-E.html">Esragul Korkmaz</a>,
+<a href="../Author/FAVERGE-M.html">Mathieu Faverge</a>,
+<a href="../Author/PICHON-G.html">Grégoire Pichon</a>,
+ and <a href="../Author/RAMET-P.html">Pierre Ramet</a>.
+<strong>Rank Revealing QR Methods for Sparse Block Low Rank Solvers</strong>.
+In <em>Sparse Days 2019</em>,
+Toulouse, France,
+July 2019.
+ <a href="https://hal.inria.fr/hal-02326070"><img align="middle" border="0" src="../Icons/www.gif"></a>  <a href="https://hal.inria.fr/hal-02326070/file/demo.pdf"><img align="middle" border="0" src="../Icons/pdf.gif"></a> Keyword(s): <a href="../Keyword/RANDOMIZED.html">Randomized</a>.
+[bibtex-key = korkmaz:hal-02326070]
+[<a href="../Year/2019.complete.html#korkmaz:hal-02326070">bibtex-entry</a>]
 
 </li>
 <br /><br />
@@ -2731,10 +2751,7 @@ Le cadre g\'en\'eral de ce travail concerne les machines parall\`eles M.I.M.D. \
 Research Report RR-9476,
 Inria Bordeaux - Sud Ouest,
 July 2022.
- <a href="https://hal.inria.fr/hal-03718312"><img align="middle" border="0" src="../Icons/www.gif"></a>  <a href="https://hal.inria.fr/hal-03718312v4/file/RR-9476.pdf"><img align="middle" border="0" src="../Icons/pdf.gif"></a> Keyword(s): <a href="../Keyword/LOW-RANK-COMPRESSION.html">Low-rank compression</a>,
-<a href="../Keyword/RANDOMIZATION.html">randomization</a>,
-<a href="../Keyword/COMPRESSION-DE-RANG-FAIBLE.html">Compression de rang faible</a>,
-<a href="../Keyword/RANDOMISATION.html">randomisation</a>.
+ <a href="https://hal.inria.fr/hal-03718312"><img align="middle" border="0" src="../Icons/www.gif"></a>  <a href="https://hal.inria.fr/hal-03718312v4/file/RR-9476.pdf"><img align="middle" border="0" src="../Icons/pdf.gif"></a> Keyword(s): <a href="../Keyword/RANDOMIZED.html">Randomized</a>.
 [bibtex-key = korkmaz:hal-03718312]
 [<a href="../Year/2022.complete.html#korkmaz:hal-03718312">bibtex-entry</a>]
 
@@ -4008,7 +4025,7 @@ du copyright.
 
 <br /><hr size="2" width="100%"><br />
 
-Last modified: Mon Apr  3 14:40:08 2023
+Last modified: Tue Apr  4 11:58:35 2023
 
 <br />Author: ramet.
 

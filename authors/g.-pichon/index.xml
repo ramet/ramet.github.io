@@ -45,14 +45,6 @@
     </item>
     
     <item>
-      <title>On the use of low-rank arithmetic to reduce the complexity of parallel sparse linear solvers based on direct factorization techniques</title>
-      <link>https://ramet.github.io/publication/t-la-bri-gp-18/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/t-la-bri-gp-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Utilisation de la compression low-rank pour réduire la complexité du solveur PaStiX</title>
       <link>https://ramet.github.io/publication/pichon-hal-01956928/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>

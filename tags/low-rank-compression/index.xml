@@ -5,12 +5,20 @@
     <link>https://ramet.github.io/tags/low-rank-compression/</link>
       <atom:link href="https://ramet.github.io/tags/low-rank-compression/index.xml" rel="self" type="application/rss+xml" />
     <description>Low-rank compression</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Low-rank compression</title>
       <link>https://ramet.github.io/tags/low-rank-compression/</link>
     </image>
+    
+    <item>
+      <title>Improving the memory and time overhead of low-rank parallel linear sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/korkmaz-tel-03875858/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-tel-03875858/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
@@ -70,9 +78,9 @@
     
     <item>
       <title>On the use of low-rank arithmetic to reduce the complexity of parallel sparse linear solvers based on direct factorization techniques</title>
-      <link>https://ramet.github.io/publication/t-la-bri-gp-18/</link>
+      <link>https://ramet.github.io/publication/pichon-tel-01953908/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/t-la-bri-gp-18/</guid>
+      <guid>https://ramet.github.io/publication/pichon-tel-01953908/</guid>
       <description></description>
     </item>
     

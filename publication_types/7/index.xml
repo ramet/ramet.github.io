@@ -5,7 +5,7 @@
     <link>https://ramet.github.io/publication_types/7/</link>
       <atom:link href="https://ramet.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>7</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Improving the memory and time overhead of low-rank parallel linear sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/korkmaz-tel-03875858/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-tel-03875858/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the use of low-rank arithmetic to reduce the complexity of parallel sparse linear solvers based on direct factorization techniques</title>
-      <link>https://ramet.github.io/publication/t-la-bri-gp-18/</link>
+      <link>https://ramet.github.io/publication/pichon-tel-01953908/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/t-la-bri-gp-18/</guid>
+      <guid>https://ramet.github.io/publication/pichon-tel-01953908/</guid>
       <description></description>
     </item>
     
@@ -45,18 +53,18 @@
     </item>
     
     <item>
-      <title>Domain decomposition method for the Simplified Transport Equation in neutronic</title>
-      <link>https://ramet.github.io/publication/t-la-bri-bl-10/</link>
-      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/t-la-bri-bl-10/</guid>
+      <title>Conception d&#39;un solveur haute performance de systèmes linéaires creux couplant des mt́hodes multigrilles et directes pour la r&#39;ólution des &#39;eátions de Maxwell 3D en r&#39;egé harmonique discr&#39;eti&#39;́ees ŕ &#39;el&#39;eńtsínis</title>
+      <link>https://ramet.github.io/publication/t-la-bri-mc-09/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/t-la-bri-mc-09/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Conception d&#39;un solveur haute performance de systèmes linéaires creux couplant des mt́hodes multigrilles et directes pour la r&#39;ólution des &#39;eátions de Maxwell 3D en r&#39;egé harmonique discr&#39;eti&#39;́ees ŕ &#39;el&#39;eńtsínis</title>
-      <link>https://ramet.github.io/publication/t-la-bri-mc-09/</link>
-      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/t-la-bri-mc-09/</guid>
+      <title>Domain decomposition method for the Simplified Transport Equation in neutronic</title>
+      <link>https://ramet.github.io/publication/t-la-bri-bl-10/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/t-la-bri-bl-10/</guid>
       <description></description>
     </item>
     

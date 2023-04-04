@@ -93,6 +93,14 @@
     </item>
     
     <item>
+      <title>Improving the memory and time overhead of low-rank parallel linear sparse direct solvers</title>
+      <link>https://ramet.github.io/publication/korkmaz-tel-03875858/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/korkmaz-tel-03875858/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reaching the Quality of SVD for Low-Rank Compression Through QR Variants</title>
       <link>https://ramet.github.io/publication/korkmaz-hal-03718312/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
@@ -860,9 +868,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>On the use of low-rank arithmetic to reduce the complexity of parallel sparse linear solvers based on direct factorization techniques</title>
-      <link>https://ramet.github.io/publication/t-la-bri-gp-18/</link>
+      <link>https://ramet.github.io/publication/pichon-tel-01953908/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/t-la-bri-gp-18/</guid>
+      <guid>https://ramet.github.io/publication/pichon-tel-01953908/</guid>
       <description></description>
     </item>
     
@@ -1563,6 +1571,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Conception d&#39;un solveur haute performance de systèmes linéaires creux couplant des mt́hodes multigrilles et directes pour la r&#39;ólution des &#39;eátions de Maxwell 3D en r&#39;egé harmonique discr&#39;eti&#39;́ees ŕ &#39;el&#39;eńtsínis</title>
+      <link>https://ramet.github.io/publication/t-la-bri-mc-09/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publication/t-la-bri-mc-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PaStiX: sparse direct/hybrid solver on many CPU/GPU clusters</title>
       <link>https://ramet.github.io/publication/c-la-bri-utk-11/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
@@ -1647,14 +1663,6 @@ $$&lt;/p&gt;
       <link>https://ramet.github.io/publication/faverge-2010-inria-00549827-1/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/publication/faverge-2010-inria-00549827-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conception d&#39;un solveur haute performance de systèmes linéaires creux couplant des mt́hodes multigrilles et directes pour la r&#39;ólution des &#39;eátions de Maxwell 3D en r&#39;egé harmonique discr&#39;eti&#39;́ees ŕ &#39;el&#39;eńtsínis</title>
-      <link>https://ramet.github.io/publication/t-la-bri-mc-09/</link>
-      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/t-la-bri-mc-09/</guid>
       <description></description>
     </item>
     
