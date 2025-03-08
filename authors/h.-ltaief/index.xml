@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>H. Ltaief | Pierre Ramet</title>
-    <link>https://ramet.github.io/authors/h.-ltaief/</link>
-      <atom:link href="https://ramet.github.io/authors/h.-ltaief/index.xml" rel="self" type="application/rss+xml" />
-    <description>H. Ltaief</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>H. Ltaief</title>
-      <link>https://ramet.github.io/authors/h.-ltaief/</link>
-    </image>
-    
+    <title>H. Ltaief on Pierre Ramet</title>
+    <link>http://localhost:1313/authors/h.-ltaief/</link>
+    <description>Recent content in H. Ltaief on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/h.-ltaief/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Matrices over Runtime Systems at Exascale</title>
-      <link>https://ramet.github.io/publication/c-la-bri-sc-2012/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-sc-2012/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-sc-2012/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sc-2012/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

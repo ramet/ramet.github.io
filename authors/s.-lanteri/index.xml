@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. Lanteri | Pierre Ramet</title>
-    <link>https://ramet.github.io/authors/s.-lanteri/</link>
-      <atom:link href="https://ramet.github.io/authors/s.-lanteri/index.xml" rel="self" type="application/rss+xml" />
-    <description>S. Lanteri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>S. Lanteri</title>
-      <link>https://ramet.github.io/authors/s.-lanteri/</link>
-    </image>
-    
+    <title>S. Lanteri on Pierre Ramet</title>
+    <link>http://localhost:1313/authors/s.-lanteri/</link>
+    <description>Recent content in S. Lanteri on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/s.-lanteri/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sparse supernodal solver with low-rank compression for solving the frequency-domain Maxwell equations discretized by a high order HDG method</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01660653/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01660653/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01660653/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01660653/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

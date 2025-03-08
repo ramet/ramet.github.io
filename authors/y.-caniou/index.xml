@@ -1,40 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Y. Caniou | Pierre Ramet</title>
-    <link>https://ramet.github.io/authors/y.-caniou/</link>
-      <atom:link href="https://ramet.github.io/authors/y.-caniou/index.xml" rel="self" type="application/rss+xml" />
-    <description>Y. Caniou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2010 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Y. Caniou</title>
-      <link>https://ramet.github.io/authors/y.-caniou/</link>
-    </image>
-    
+    <title>Y. Caniou on Pierre Ramet</title>
+    <link>http://localhost:1313/authors/y.-caniou/</link>
+    <description>Recent content in Y. Caniou on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Oct 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/y.-caniou/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development of an International Matrix-Solver Prediction System on a French-Japanese International Grid Computing Environment</title>
-      <link>https://ramet.github.io/publication/c-la-bri-sna-mc-2010/</link>
-      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-sna-mc-2010/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-sna-mc-2010/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sna-mc-2010/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Toward an International Sparse Linear Algebra Expert System by Interconnecting the ITBL Computational Grid with the Grid-TLSE Platform</title>
-      <link>https://ramet.github.io/publication/c-la-bri-vecpar-08-redimps/</link>
-      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-vecpar-08-redimps/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-vecpar-08-redimps/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-vecpar-08-redimps/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tunable parallel experiments in a GridRPC framework: application to linear solvers</title>
-      <link>https://ramet.github.io/publication/c-la-bri-vecpar-08-diet/</link>
-      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-vecpar-08-diet/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-vecpar-08-diet/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-vecpar-08-diet/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

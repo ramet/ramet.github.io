@@ -1,16 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Huart R. | Pierre Ramet</title>
-    <link>https://ramet.github.io/authors/huart-r./</link>
-      <atom:link href="https://ramet.github.io/authors/huart-r./index.xml" rel="self" type="application/rss+xml" />
-    <description>Huart R.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Huart R.</title>
-      <link>https://ramet.github.io/authors/huart-r./</link>
-    </image>
-    
+    <title>Huart R. on Pierre Ramet</title>
+    <link>http://localhost:1313/authors/huart-r./</link>
+    <description>Recent content in Huart R. on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/huart-r./index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Numerical simulation of tokamak plasmas</title>
+      <link>http://localhost:1313/publication/c-la-bri-fusion-2008/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-fusion-2008/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Non-Linear MHD code developement for ELM simulations</title>
+      <link>http://localhost:1313/publication/c-la-bri-eps-2008/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-eps-2008/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

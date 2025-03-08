@@ -1,64 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>L. Plagne | Pierre Ramet</title>
-    <link>https://ramet.github.io/authors/l.-plagne/</link>
-      <atom:link href="https://ramet.github.io/authors/l.-plagne/index.xml" rel="self" type="application/rss+xml" />
-    <description>L. Plagne</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>L. Plagne</title>
-      <link>https://ramet.github.io/authors/l.-plagne/</link>
-    </image>
-    
+    <title>L. Plagne on Pierre Ramet</title>
+    <link>http://localhost:1313/authors/l.-plagne/</link>
+    <description>Recent content in L. Plagne on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/l.-plagne/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Efficient Parallel Solution of the 3D Stationary Boltzmann Transport Equation for Diffusive Problems</title>
-      <link>https://ramet.github.io/publication/faverge-hal-01630208/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/faverge-hal-01630208/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/faverge-hal-01630208/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/faverge-hal-01630208/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>3D Cartesian Transport Sweep for Massively Parallel Architectures with PARSEC</title>
-      <link>https://ramet.github.io/publication/moustafa-hal-01078362/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/moustafa-hal-01078362/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/moustafa-hal-01078362/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moustafa-hal-01078362/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Parallel 3D Sweep Kernel with PARSEC</title>
-      <link>https://ramet.github.io/publication/c-la-bri-sweep-2013/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-sweep-2013/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-sweep-2013/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sweep-2013/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>3D Cartesian Transport Sweep for Massively Parallel Architectures on top of PaRSEC</title>
-      <link>https://ramet.github.io/publication/c-la-bri-sweep-scheduling/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-sweep-scheduling/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-sweep-scheduling/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sweep-scheduling/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>3D Cartesian Transport Sweep for Massively Parallel Architectures on top of PaRSEC</title>
-      <link>https://ramet.github.io/publication/c-la-bri-sweep-solhar/</link>
-      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-sweep-solhar/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-sweep-solhar/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sweep-solhar/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Shared Memory Parallelism for 3D Cartesian Discrete Ordinates Solver</title>
-      <link>https://ramet.github.io/publication/c-la-bri-neutron-2013/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-neutron-2013/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-neutron-2013/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-neutron-2013/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

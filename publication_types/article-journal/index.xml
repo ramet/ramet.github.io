@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal on Pierre Ramet</title>
+    <link>http://localhost:1313/publication_types/article-journal/</link>
+    <description>Recent content in Article-Journal on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The JOREK non-linear extended MHD code and applications to large-scale instabilities and their control in magnetically confined fusion plasmas</title>
+      <link>http://localhost:1313/publication/hoelzl-hal-03352509/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hoelzl-hal-03352509/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Efficient Parallel Solution of the 3D Stationary Boltzmann Transport Equation for Diffusive Problems</title>
+      <link>http://localhost:1313/publication/moustafa-hal-02080624/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moustafa-hal-02080624/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
+      <link>http://localhost:1313/publication/pichon-hal-01824275/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01824275/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reordering Strategy for Blocking Optimization in Sparse Linear Solvers</title>
+      <link>http://localhost:1313/publication/pichon-hal-01485507/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01485507/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Efficient parallel resolution of the simplified transport equations in mixed-dual formulation</title>
+      <link>http://localhost:1313/publication/a-la-bri-jcp-2011/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-jcp-2011/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Non-linear MHD simulations of edge localized modes (ELMs)</title>
+      <link>http://localhost:1313/publication/a-la-bri-eps-2009/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-eps-2009/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Numerical simulation of unsteady MHD flows and applications</title>
+      <link>http://localhost:1313/publication/a-la-bri-mhd-2009/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-mhd-2009/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On finding approximate supernodes for an efficient ILU(k) factorization</title>
+      <link>http://localhost:1313/publication/a-la-bri-hrr-07/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-hrr-07/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Parallel Multilevel ILU Factorization based on a Hierarchical Graph Decomposition</title>
+      <link>http://localhost:1313/publication/a-la-bri-sisc-06/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-sisc-06/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Optimization of a kinetic laser-plasma interaction code for large parallel systems</title>
+      <link>http://localhost:1313/publication/a-la-bri-pmaa-2002-c/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-pmaa-2002-c/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PaStiX: A High-Performance Parallel Direct Solver for Sparse Symmetric Definite Systems</title>
+      <link>http://localhost:1313/publication/a-la-bri-hrr-01-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-hrr-01-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scilab to Scilab//, the OURAGAN Project</title>
+      <link>http://localhost:1313/publication/a-la-bri-ccc-01/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-ccc-01/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parallel Sparse Linear Algebra and Application to Structural Mechanics</title>
+      <link>http://localhost:1313/publication/a-la-bri-ghprrp-3/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-ghprrp-3/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

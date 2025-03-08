@@ -1,152 +1,131 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>D. Goudin | Pierre Ramet</title>
-    <link>https://ramet.github.io/authors/d.-goudin/</link>
-      <atom:link href="https://ramet.github.io/authors/d.-goudin/index.xml" rel="self" type="application/rss+xml" />
-    <description>D. Goudin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>D. Goudin</title>
-      <link>https://ramet.github.io/authors/d.-goudin/</link>
-    </image>
-    
+    <title>D. Goudin on Pierre Ramet</title>
+    <link>http://localhost:1313/authors/d.-goudin/</link>
+    <description>Recent content in D. Goudin on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/d.-goudin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Résolution des systèmes lináires sur calculateurs p&#39;áflopiques</title>
-      <link>https://ramet.github.io/publication/c-la-bri-chocs/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-chocs/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-chocs/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-chocs/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Outils numériques parallèles pour la rśolution de trs̀ grands probl`ès d&#39;&#39;éctromagn&#39;eśme</title>
-      <link>https://ramet.github.io/publication/c-la-bri-ghmmprrp-03/</link>
-      <pubDate>Thu, 01 May 2003 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-ghmmprrp-03/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-ghmmprrp-03/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ghmmprrp-03/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mise en oeuvre d&#39;une Bibliothèque d&#39;Outils pour la Résolution par Mt́hode Directe de Grands Systm̀es Lin&#39;íres Creux Sym&#39;eíques D&#39;efís Positifs sur Machine Parall`è</title>
-      <link>https://ramet.github.io/publication/n-la-bri-all-01/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/n-la-bri-all-01/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/n-la-bri-all-01/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/n-la-bri-all-01/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Algèbre Linéaire Creuse Hautes Performances : Application  ̀la Ḿ̧anique des Structures</title>
-      <link>https://ramet.github.io/publication/c-la-bri-ihperf-2-k/</link>
-      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-ihperf-2-k/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-ihperf-2-k/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ihperf-2-k/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mise en øe uvre d&#39;une Bibliothèque d&#39;Outils pour la Résolution Paralll̀e Hautes Performances par Mt́hode Directe de Grands Syst`ès Lin&#39;íres Creux et application `aǹ Code de M&#39;eńique des Structures</title>
-      <link>https://ramet.github.io/publication/t-la-bri-dg-2-k/</link>
-      <pubDate>Wed, 01 Nov 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/t-la-bri-dg-2-k/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/t-la-bri-dg-2-k/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/t-la-bri-dg-2-k/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Résolution parallèle de grands systm̀es lináires creux</title>
-      <link>https://ramet.github.io/publication/c-la-bri-jsft/</link>
-      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-jsft/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-jsft/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-jsft/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Description of the EMILIO Software Processing Chain and Application to Structural Mechanics</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2-k-2/</link>
-      <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2-k-2/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pmaa-2-k-2/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pmaa-2-k-2/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Parallel Sparse Linear Algebra and Application to Structural Mechanics</title>
-      <link>https://ramet.github.io/publication/c-la-bri-actc/</link>
-      <pubDate>Mon, 01 May 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-actc/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-actc/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-actc/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A scalable parallel assembly for irregular meshes based on a block distribution for a parallel block direct solver</title>
-      <link>https://ramet.github.io/publication/c-la-bri-gopara/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-gopara/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-gopara/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-gopara/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Assemblage parallèle d&#39;une matrice et/ou d&#39;un second membre: Application  ̀la Parallélisation d&#39;un Code de Ḿ̧anique des Structures</title>
-      <link>https://ramet.github.io/publication/c-la-bri-dg-2-ka/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-dg-2-ka/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-dg-2-ka/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-dg-2-ka/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mise en oeuvre d&#39;une Bibliothèque d&#39;Outils pour la Résolution par Mt́hode Directe de Grands Systm̀es Lin&#39;íres Creux Sym&#39;eíques D&#39;efís Positifs sur Machine Parall`è</title>
-      <link>https://ramet.github.io/publication/f-la-bri-go-2-ka/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/f-la-bri-go-2-ka/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/f-la-bri-go-2-ka/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/f-la-bri-go-2-ka/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Parallel Sparse Linear Algebra and Application to Structural Mechanics</title>
-      <link>https://ramet.github.io/publication/a-la-bri-ghprrp-3/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/a-la-bri-ghprrp-3/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/a-la-bri-ghprrp-3/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-ghprrp-3/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Algèbre Linéaire Creuse Paralll̀e pour les Mt́hodes Directes : Application `l̀a Parall&#39;ísation d&#39;un Code de M&#39;eńique des Structures</title>
-      <link>https://ramet.github.io/publication/c-la-bri-ghprrp-1/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-ghprrp-1/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-ghprrp-1/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ghprrp-1/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mise en oeuvre d&#39;une Bibliothèque d&#39;Outils pour la Résolution par Mt́hode Directe de Grands Systm̀es Lin&#39;íres Creux Sym&#39;eíques D&#39;efís Positifs sur Machine Parall`è</title>
-      <link>https://ramet.github.io/publication/f-la-bri-go-99-a/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/f-la-bri-go-99-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/f-la-bri-go-99-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/f-la-bri-go-99-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mise en oeuvre d&#39;une Bibliothèque d&#39;Outils pour la Résolution par Mt́hode Directe de Grands Systm̀es Lin&#39;íres Creux Sym&#39;eíques D&#39;efís Positifs sur Machine Parall`è</title>
-      <link>https://ramet.github.io/publication/f-la-bri-go-99-b/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/f-la-bri-go-99-b/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/f-la-bri-go-99-b/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/f-la-bri-go-99-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Parallel Sparse Linear Algebra and Application to Structural Mechanics</title>
-      <link>https://ramet.github.io/publication/c-la-bri-spworld/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-spworld/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-spworld/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-spworld/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mise en oeuvre d&#39;une Bibliothèque d&#39;Outils pour la Résolution par Mt́hode Directe de Grands Systm̀es Lin&#39;íres Creux Sym&#39;eíques D&#39;efís Positifs sur Machine Parall`è</title>
-      <link>https://ramet.github.io/publication/f-la-bri-go-98-a/</link>
-      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/f-la-bri-go-98-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/f-la-bri-go-98-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/f-la-bri-go-98-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

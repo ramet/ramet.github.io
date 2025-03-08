@@ -2,15 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pierre Ramet</title>
-    <link>https://ramet.github.io/authors/admin/</link>
-      <atom:link href="https://ramet.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/admin/</link>
+      <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Pierre Ramet</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu_e747e089a9e68c83.png</url>
       <title>Pierre Ramet</title>
-      <link>https://ramet.github.io/authors/admin/</link>
+      <link>http://localhost:1313/authors/admin/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/admin/</guid>
+      <description>&lt;p&gt;Pierre Ramet is professor in computer science at Bordeaux University. His interests span high-performance computing, focusing on sparse linear algebra.
+He leads the team in charge of developing 
+&lt;a href=&#34;https://gitlab.inria.fr/solverstack/pastix&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PaStiX&lt;/a&gt;, a high-performance sparse direct solver.&lt;/p&gt;
+&lt;p&gt;Research team: 
+&lt;a href=&#34;http://team.inria.fr/topal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOPAL&lt;/a&gt; (Tools and Optimization for high Performance Applications and Learning)&lt;/p&gt;
+&lt;p&gt;ANR supports:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.irit.fr/solharis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOLARIS (CE46)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://solhar.gforge.inria.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SASHIMI (JCJC18)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://solhar.gforge.inria.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOLHAR (MN13)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://aster.gforge.inria.fr%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANEMOS (MN11)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://petal.saclay.inria.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PETALH (MN10)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://petal.saclay.inria.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PETAL (COS08)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://solstice.gforge.inria.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOLSTICE (CIS06)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://aster.gforge.inria.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASTER (CIS06)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://numasis.gforge.inria.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NUMASIS (CIS05)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Industrial partners:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cea.fr/Pages/le-cea/les-centres-cea/cesta.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEA Cesta (DAM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://irfm.cea.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEA Cadarache (ITER)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.edf.fr/groupe-edf/qui-sommes-nous/activites/recherche-et-developpement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.total.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOTAL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.airbus.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AIRBUS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cerfacs.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CERFACS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.algotech-informatique.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALGO&amp;rsquo;TECH&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Associate teams with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://icme.stanford.edu/%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stanford University&lt;/a&gt; (Institute for Computational and Mathematical Engineering)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://crd.lbl.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LBNL&lt;/a&gt; (Lawrence Berkeley National Laboratory)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://icl.cs.utk.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICL&lt;/a&gt; (University of Tennessee)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PhD advising:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;bib/Author/WALTHER-D.html&#34;&gt;Dimitri Walther&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;bib/Author/LISITO-A.html&#34;&gt;Alycia Lisito&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;bib/Author/CALLUAUD-A.html&#34;&gt;Abel Calluaud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;bib/Author/RICHEFORT-C.html&#34;&gt;Clement Richefort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;bib/Author/KORKMAZ-E.html&#34;&gt;Esragul Korkmaz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;bib/Author/PICHON-G.html&#34;&gt;Gregoire Pichon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;bib/Author/MOUSTAFA-S.html&#34;&gt;Salli Moustafa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;bib/Author/CASADEI-A.html&#34;&gt;Astrid Casadei&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;bib/Author/LACOSTE-X.html&#34;&gt;Xavier Lacoste&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;bib/Author/LATHUILIERE-B.html&#34;&gt;Bruno Lathuiliere&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;bib/Author/FAVERGE-M.html&#34;&gt;Mathieu Faverge&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Full 
+&lt;a href=&#34;files/cv-fr.pdf&#34;&gt;CV&lt;/a&gt; (french)&lt;/p&gt;
+&lt;p&gt;Teaching 
+&lt;a href=&#34;https://ramet.gitlab.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Page&lt;/a&gt; (french)&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

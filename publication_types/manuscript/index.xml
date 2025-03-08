@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuscript on Pierre Ramet</title>
+    <link>http://localhost:1313/publication_types/manuscript/</link>
+    <description>Recent content in Manuscript on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scalable and Portable LU Factorization with Partial Pivoting on top of Runtime Systems</title>
+      <link>http://localhost:1313/publication/lisito-hal-04867213/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lisito-hal-04867213/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Toward an algebraic multigrid method for the indefinite Helmholtz equation</title>
+      <link>http://localhost:1313/publication/falgout-cea-04620991/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/falgout-cea-04620991/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
+      <link>http://localhost:1313/publication/pichon-hal-02326407/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-02326407/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Utilisation de techniques de compression low-rank pour un solveur parallèle direct creux</title>
+      <link>http://localhost:1313/publication/ramet-hal-02081108/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ramet-hal-02081108/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Utilisation de la compression low-rank pour réduire la complexité du solveur PaStiX</title>
+      <link>http://localhost:1313/publication/pichon-hal-01956928/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01956928/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Utilisation de la compression Block Low-Rank pour accélérer un solveur direct creux supernodal</title>
+      <link>http://localhost:1313/publication/pichon-hal-01956959/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01956959/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Heterogeneous architectures, Hybrid methods, Hierarchical matrices for Sparse Linear Solvers</title>
+      <link>http://localhost:1313/publication/c-la-bri-stanford-18/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-stanford-18/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sparse supernodal solver with low-rank compression for solving the frequency-domain Maxwell equations discretized by a high order HDG method</title>
+      <link>http://localhost:1313/publication/pichon-hal-01660653/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01660653/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blocking strategy optimizations for sparse direct linear solver on heterogeneous architectures</title>
+      <link>http://localhost:1313/publication/c-la-bri-hoscar-2015/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-hoscar-2015/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PaStiX: Parallel Sparse Matrix Package</title>
+      <link>http://localhost:1313/publication/c-la-bri-jdev/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-jdev/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blocking strategy optimization for sparse direct linear solvers on heterogeneous architectures</title>
+      <link>http://localhost:1313/publication/c-la-bri-pastix-solhar-3/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pastix-solhar-3/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solveurs Directs</title>
+      <link>http://localhost:1313/publication/c-la-bri-mds-15/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-mds-15/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Benchmarking of the linear solver PaStiX for integration in LESCAPE</title>
+      <link>http://localhost:1313/publication/c-la-bri-lescape/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-lescape/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Biodiversiton : application du HPC à l&#39;étude de la biodiversit</title>
+      <link>http://localhost:1313/publication/c-la-bri-mcia-15/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-mcia-15/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On the design of parallel linear solvers for large scale problems</title>
+      <link>http://localhost:1313/publication/c-la-bri-cnrs-15/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-cnrs-15/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Distributed sparse matrix factorization on top of tasks based runtime systems</title>
+      <link>http://localhost:1313/publication/c-la-bri-pastix-solhar-2/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pastix-solhar-2/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Toward parallel scalable linear solvers suited for large scale hierarchical parallel platforms</title>
+      <link>http://localhost:1313/publication/c-la-bri-hoscar-2014/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-hoscar-2014/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Task-based linear solvers for modern architectures</title>
+      <link>http://localhost:1313/publication/c-la-bri-iter-14/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-iter-14/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3D Cartesian Transport Sweep for Massively Parallel Architectures on top of PaRSEC</title>
+      <link>http://localhost:1313/publication/c-la-bri-sweep-scheduling/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sweep-scheduling/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fast Algorithms for Dense Linear Algebra</title>
+      <link>http://localhost:1313/publication/c-la-bri-cp-ub/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-cp-ub/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From hybrid architectures to hybrid solvers</title>
+      <link>http://localhost:1313/publication/c-la-bri-cp-ua/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-cp-ua/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3D Cartesian Transport Sweep for Massively Parallel Architectures on top of PaRSEC</title>
+      <link>http://localhost:1313/publication/c-la-bri-sweep-solhar/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sweep-solhar/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solveurs Directs</title>
+      <link>http://localhost:1313/publication/c-la-bri-mds-14/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-mds-14/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hybrid methods, Hybrid architectures, Hybrid compressions for sparse direct solvers</title>
+      <link>http://localhost:1313/publication/c-la-bri-mcia-14/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-mcia-14/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hybrid methods, Hybrid architectures, Hybrid compressions for sparse direct solvers</title>
+      <link>http://localhost:1313/publication/c-la-bri-stanford-13-b/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-stanford-13-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parallel Numerical Solvers on top of Runtime Systems</title>
+      <link>http://localhost:1313/publication/c-la-bri-sc-2013/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sc-2013/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sparse Linear Algebra over DAG Runtimes</title>
+      <link>http://localhost:1313/publication/c-la-bri-pastix-solhar/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pastix-solhar/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From hybrid architectures to hybrid solvers</title>
+      <link>http://localhost:1313/publication/c-la-bri-stanford-13-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-stanford-13-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Méthodes directes et hybrides pour des solveurs creux adapatś aux machines multiCPUs/multiGPUs</title>
+      <link>http://localhost:1313/publication/c-la-bri-etsn-2013/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-etsn-2013/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solveurs Directs</title>
+      <link>http://localhost:1313/publication/c-la-bri-mds-13/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-mds-13/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Matrices over Runtime Systems at Exascale</title>
+      <link>http://localhost:1313/publication/c-la-bri-sc-2012/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sc-2012/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scheduling for Sparse Solver on Manycore Architectures</title>
+      <link>http://localhost:1313/publication/c-la-bri-hoscar-2012-b/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-hoscar-2012-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sparse direct solver on top of large-scale multicore systems with GPU accelerators</title>
+      <link>http://localhost:1313/publication/c-la-bri-cemracs-12/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-cemracs-12/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sparse direct solvers with accelerators over DAG runtimes</title>
+      <link>http://localhost:1313/publication/c-la-bri-hoscar-2012-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-hoscar-2012-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Résolution des systèmes lináires sur calculateurs p&#39;áflopiques</title>
+      <link>http://localhost:1313/publication/c-la-bri-chocs/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-chocs/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PaStiX: sparse direct/hybrid solver on many CPU/GPU clusters</title>
+      <link>http://localhost:1313/publication/c-la-bri-utk-11/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-utk-11/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solveurs Directs</title>
+      <link>http://localhost:1313/publication/c-la-bri-mds-11/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-mds-11/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linear algebra and sparse direct methods</title>
+      <link>http://localhost:1313/publication/c-la-bri-mfn-2011/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-mfn-2011/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ordonnancement dynamique dans le solveur PaStiX pour des machines NUMA et multicoeurs</title>
+      <link>http://localhost:1313/publication/c-la-bri-cnrs-10/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-cnrs-10/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scalable direct and iterative solvers</title>
+      <link>http://localhost:1313/publication/c-la-bri-sc-2010/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sc-2010/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Formation Parallélisme</title>
+      <link>http://localhost:1313/publication/c-la-bri-cemracs-10/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-cemracs-10/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scalable direct and iterative solvers</title>
+      <link>http://localhost:1313/publication/c-la-bri-uuic/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-uuic/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Résolution de Systèmes Lináires, Algorithmes et Parall&#39;ísme</title>
+      <link>http://localhost:1313/publication/c-la-bri-cnrs-08/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-cnrs-08/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A supernode amalgamation algorithm for an efficient block incomplete factorization</title>
+      <link>http://localhost:1313/publication/c-la-bri-mn-08/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-mn-08/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Méthodes directes hautes performances de rśolution en algèbre lin&#39;íre creuse</title>
+      <link>http://localhost:1313/publication/c-la-bri-cei-06/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-cei-06/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parallel Complete and Incomplete Blockwise Factorisations for Very Large Sparse Systems</title>
+      <link>http://localhost:1313/publication/c-la-bri-sc-2004/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sc-2004/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Parallel Direct Solver for Very Large Sparse SPD Systems</title>
+      <link>http://localhost:1313/publication/c-la-bri-ipdps-2003/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ipdps-2003/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Parallel Direct Solver for Very Large Sparse SPD Systems</title>
+      <link>http://localhost:1313/publication/c-la-bri-sc-2002/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sc-2002/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

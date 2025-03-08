@@ -1,672 +1,586 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J. Roman | Pierre Ramet</title>
-    <link>https://ramet.github.io/authors/j.-roman/</link>
-      <atom:link href="https://ramet.github.io/authors/j.-roman/index.xml" rel="self" type="application/rss+xml" />
-    <description>J. Roman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>J. Roman</title>
-      <link>https://ramet.github.io/authors/j.-roman/</link>
-    </image>
-    
+    <title>J. Roman on Pierre Ramet</title>
+    <link>http://localhost:1313/authors/j.-roman/</link>
+    <description>Recent content in J. Roman on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/j.-roman/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Block Low-rank Algebraic Clustering for Sparse Direct Solvers</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01956962/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01956962/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01956962/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01956962/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Supernodes ordering to enhance Block Low-Rank compression in sparse direct solvers</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01961675/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01961675/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01961675/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01961675/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Utilisation de la compression low-rank pour réduire la complexité du solveur PaStiX</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01956928/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01956928/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01956928/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01956928/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01824275/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01824275/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01824275/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01824275/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Utilisation de la compression Block Low-Rank pour accélérer un solveur direct creux supernodal</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01956959/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01956959/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01956959/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01956959/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Supernodes ordering to enhance Block Low-Rank compression in sparse direct solvers</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01956960/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01956960/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01956960/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01956960/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sparse Supernodal Solver Using Block Low-Rank Compression: design, performance and analysis</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01660665/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01660665/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01660665/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01660665/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sparse supernodal solver with low-rank compression for solving the frequency-domain Maxwell equations discretized by a high order HDG method</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01660653/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01660653/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01660653/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01660653/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sparse Supernodal Solver exploiting Low-Rankness Property</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01585622/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01585622/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01585622/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01585622/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sparse Supernodal Solver Using Block Low-Rank Compression</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01502215/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01502215/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01502215/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01502215/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Impact of Blocking Strategies for Sparse Direct Solvers on Top of Generic Runtimes</title>
-      <link>https://ramet.github.io/publication/c-la-bri-siam-2017-c/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-siam-2017-c/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-siam-2017-c/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-siam-2017-c/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sparse Supernodal Solver Using Hierarchical Compression over Runtime System</title>
-      <link>https://ramet.github.io/publication/c-la-bri-siam-2017-a/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-siam-2017-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-siam-2017-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-siam-2017-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Reordering Strategy for Blocking Optimization in Sparse Linear Solvers</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01485507/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01485507/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01485507/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01485507/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sparse Supernodal Solver Using Block Low-Rank Compression</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01450732/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01450732/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01450732/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01450732/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sparse Supernodal Solver Using Hierarchical Compression</title>
-      <link>https://ramet.github.io/publication/c-la-bri-purdue-2016/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-purdue-2016/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-purdue-2016/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-purdue-2016/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>On the use of low rank approximations for sparse direct solvers</title>
-      <link>https://ramet.github.io/publication/c-la-bri-an-16/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-an-16/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-an-16/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-an-16/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Exploiting H-Matrices in Sparse Direct Solvers</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pp-16-b/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pp-16-b/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pp-16-b/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pp-16-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Impact of Blocking Strategies for Sparse Direct Solvers on Top of Generic Runtimes</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pp-16-a/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pp-16-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pp-16-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pp-16-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Reordering strategy for blocking optimization in sparse linear solvers</title>
-      <link>https://ramet.github.io/publication/pichon-hal-01276746/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-01276746/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-01276746/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-01276746/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Blocking strategy optimizations for sparse direct linear solver on heterogeneous architectures</title>
-      <link>https://ramet.github.io/publication/c-la-bri-hoscar-2015/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-hoscar-2015/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-hoscar-2015/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-hoscar-2015/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Blocking strategy optimization for sparse direct linear solvers on heterogeneous architectures</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pastix-solhar-3/</link>
-      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pastix-solhar-3/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pastix-solhar-3/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pastix-solhar-3/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Blocking strategy optimizations for sparse direct linear solver on heterogeneous architectures</title>
-      <link>https://ramet.github.io/publication/c-la-bri-sparsedays-2015/</link>
-      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-sparsedays-2015/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-sparsedays-2015/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sparsedays-2015/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>On the use of H-Matrix Arithmetic in PaStiX: a Preliminary Study</title>
-      <link>https://ramet.github.io/publication/c-la-bri-cimi-15/</link>
-      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-cimi-15/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-cimi-15/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-cimi-15/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Towards a recursive graph bipartitioning algorithm for well balanced domain decomposition</title>
-      <link>https://ramet.github.io/publication/c-la-bri-cse-15-b/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-cse-15-b/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-cse-15-b/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-cse-15-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>An improved recursive graph bipartitioning algorithm for well balanced domain decomposition</title>
-      <link>https://ramet.github.io/publication/c-la-bri-hipc-14/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-hipc-14/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-hipc-14/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-hipc-14/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Toward parallel scalable linear solvers suited for large scale hierarchical parallel platforms</title>
-      <link>https://ramet.github.io/publication/c-la-bri-hoscar-2014/</link>
-      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-hoscar-2014/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-hoscar-2014/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-hoscar-2014/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>An improved recursive graph bipartitioning algorithm for well balanced domain decomposition</title>
-      <link>https://ramet.github.io/publication/casadei-hal-01056749/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/casadei-hal-01056749/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/casadei-hal-01056749/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/casadei-hal-01056749/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nested Dissection with Balanced Halo</title>
-      <link>https://ramet.github.io/publication/c-la-bri-csc-14/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-csc-14/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-csc-14/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-csc-14/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Toward parallel scalable linear solvers suited for large scale hierarchical parallel platforms</title>
-      <link>https://ramet.github.io/publication/c-la-bri-ecfd-14-a/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-ecfd-14-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-ecfd-14-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ecfd-14-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Towards Domain Decomposition with Balanced Halo</title>
-      <link>https://ramet.github.io/publication/c-la-bri-nd-40-a/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-nd-40-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-nd-40-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-nd-40-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Résolution des systèmes lináires sur calculateurs p&#39;áflopiques</title>
-      <link>https://ramet.github.io/publication/c-la-bri-chocs/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-chocs/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-chocs/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-chocs/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Efficient parallel resolution of the simplified transport equations in mixed-dual formulation</title>
-      <link>https://ramet.github.io/publication/a-la-bri-jcp-2011/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/a-la-bri-jcp-2011/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/a-la-bri-jcp-2011/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-jcp-2011/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A Non Overlapping Parallel Domain Decomposition Method Applied to The Simplified Transport Equations</title>
-      <link>https://ramet.github.io/publication/c-la-bri-neutron-2009/</link>
-      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-neutron-2009/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-neutron-2009/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-neutron-2009/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A domain decomposition method applied to the simplified transport equations</title>
-      <link>https://ramet.github.io/publication/c-la-bri-neutron-2008/</link>
-      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-neutron-2008/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-neutron-2008/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-neutron-2008/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A supernode amalgamation algorithm for an efficient block incomplete factorization</title>
-      <link>https://ramet.github.io/publication/c-la-bri-mn-08/</link>
-      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-mn-08/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-mn-08/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-mn-08/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A Domain Decomposition Method Applied to Large Eigenvalue Problems in Neutron Physics</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2008-a/</link>
-      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2008-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pmaa-2008-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pmaa-2008-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>On finding approximate supernodes for an efficient ILU(k) factorization</title>
-      <link>https://ramet.github.io/publication/a-la-bri-hrr-07/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/a-la-bri-hrr-07/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/a-la-bri-hrr-07/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-hrr-07/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A supernode amalgamation algorithm for an efficient block incomplete factorization</title>
-      <link>https://ramet.github.io/publication/c-la-bri-ppam-07/</link>
-      <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-ppam-07/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-ppam-07/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ppam-07/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Méthodes directes hautes performances de rśolution en algèbre lin&#39;íre creuse</title>
-      <link>https://ramet.github.io/publication/c-la-bri-cei-06/</link>
-      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-cei-06/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-cei-06/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-cei-06/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Efficient solution technique for low Mach number  compressible multiphase problems</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2006-b/</link>
-      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2006-b/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pmaa-2006-b/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pmaa-2006-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>On finding approximate supernodes for an efficient ILU(k) factorization</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2006-a/</link>
-      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2006-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pmaa-2006-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pmaa-2006-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Partitioning and Blocking Issues for a Parallel Incomplete Factorization</title>
-      <link>https://ramet.github.io/publication/c-la-bri-para-2006/</link>
-      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-para-2006/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-para-2006/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-para-2006/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>On using an hybrid MPI-Thread programming for the implementation of a parallel sparse direct solver on a network of SMP nodes</title>
-      <link>https://ramet.github.io/publication/c-la-bri-ppam-05/</link>
-      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-ppam-05/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-ppam-05/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ppam-05/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Blocking Issues for an Efficient Parallel Block ILU Preconditioner</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pre-05/</link>
-      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pre-05/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pre-05/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pre-05/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Evaluation des performances de la version SMP du solveur PaStiX de la chaine logicielle EMILIO dans l&#39;environnement du code ODYSSEE</title>
-      <link>https://ramet.github.io/publication/f-la-bri-hrr-05/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/f-la-bri-hrr-05/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/f-la-bri-hrr-05/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/f-la-bri-hrr-05/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Parallel Complete and Incomplete Blockwise Factorisations for Very Large Sparse Systems</title>
-      <link>https://ramet.github.io/publication/c-la-bri-sc-2004/</link>
-      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-sc-2004/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-sc-2004/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sc-2004/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A Blockwise Algorithm for Parallel Incomplete Cholesky Factorization</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2004-a/</link>
-      <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2004-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pmaa-2004-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pmaa-2004-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Using of the High Performance Sparse Solver PaStiX for the Complex Multiscale 3D Simulations performed by the FluidBox Fluid Mechanics Software</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2004-b/</link>
-      <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2004-b/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pmaa-2004-b/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pmaa-2004-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Applying parallel direct solver skills to build robust and highly performant preconditioners</title>
-      <link>https://ramet.github.io/publication/c-la-bri-para-2004/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-para-2004/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-para-2004/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-para-2004/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>High Performance Complete and Incomplete Factorizations for Very Large Sparse Systems by using Scotch and PaStiX softwares</title>
-      <link>https://ramet.github.io/publication/c-la-bri-ppsc-2004-a/</link>
-      <pubDate>Sun, 01 Feb 2004 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-ppsc-2004-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-ppsc-2004-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ppsc-2004-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Développement de la phase d&#39;assemblage de la chaîne EMILIO (distribution du maillage et multi-threading)</title>
-      <link>https://ramet.github.io/publication/f-la-bri-grr-04-b/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/f-la-bri-grr-04-b/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/f-la-bri-grr-04-b/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/f-la-bri-grr-04-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Etude sur l&#39;applicabilité de mt́hodes it&#39;átives nouvelles aux problèmes du CESTA</title>
-      <link>https://ramet.github.io/publication/f-la-bri-hprr-04-b/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/f-la-bri-hprr-04-b/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/f-la-bri-hprr-04-b/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/f-la-bri-hprr-04-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Towards High Performance Hybrid Direct-Iterative Solvers for Large Sparse Systems</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pre-03/</link>
-      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pre-03/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pre-03/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pre-03/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Asymptotically optimal algorithm for Laplace task graphs on heterogeneous platforms</title>
-      <link>https://ramet.github.io/publication/c-la-bri-ppam-03/</link>
-      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-ppam-03/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-ppam-03/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ppam-03/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Efficient algorithms for direct resolution of large sparse system on clusters of SMP nodes</title>
-      <link>https://ramet.github.io/publication/c-la-bri-siam-2003/</link>
-      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-siam-2003/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-siam-2003/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-siam-2003/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>An efficient hybrid MPI/Thread implementation on a network of SMP nodes for the parallel sparse direct solver PaStix: ordering / scheduling / memory managment / out-of-core issues, and application to preconditioning</title>
-      <link>https://ramet.github.io/publication/c-la-bri-sparsedays-2003/</link>
-      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-sparsedays-2003/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-sparsedays-2003/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sparsedays-2003/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Outils numériques parallèles pour la rśolution de trs̀ grands probl`ès d&#39;&#39;éctromagn&#39;eśme</title>
-      <link>https://ramet.github.io/publication/c-la-bri-ghmmprrp-03/</link>
-      <pubDate>Thu, 01 May 2003 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-ghmmprrp-03/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-ghmmprrp-03/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ghmmprrp-03/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A Parallel Direct Solver for Very Large Sparse SPD Systems</title>
-      <link>https://ramet.github.io/publication/c-la-bri-ipdps-2003/</link>
-      <pubDate>Tue, 01 Apr 2003 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-ipdps-2003/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-ipdps-2003/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ipdps-2003/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amélioration et Extension du Solveur Direct Parallèle pour Grandes Matrices Creuses du CESTA</title>
-      <link>https://ramet.github.io/publication/f-la-bri-hlrr-03/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/f-la-bri-hlrr-03/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/f-la-bri-hlrr-03/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/f-la-bri-hlrr-03/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Développement de la phase d&#39;assemblage de la chaîne EMILIO pour un solveur parallèle 2D</title>
-      <link>https://ramet.github.io/publication/f-la-bri-crr-03-b/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/f-la-bri-crr-03-b/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/f-la-bri-crr-03-b/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/f-la-bri-crr-03-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Modélisation de pipelines ht́&#39;ógènes</title>
-      <link>https://ramet.github.io/publication/c-la-bri-grid-2002/</link>
-      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-grid-2002/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-grid-2002/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-grid-2002/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A Parallel Direct Solver for Very Large Sparse SPD Systems</title>
-      <link>https://ramet.github.io/publication/c-la-bri-sc-2002/</link>
-      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-sc-2002/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-sc-2002/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-sc-2002/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Optimisation of a kinetic laser-plasma interaction code for massively parallel systems</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2002-b/</link>
-      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2002-b/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pmaa-2002-b/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pmaa-2002-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Parallel factorization of very large sparse SPD systems on a network of SMP nodes</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2002-a/</link>
-      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2002-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pmaa-2002-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pmaa-2002-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PaStiX: A High-Performance Parallel Direct Solver for Sparse Symmetric Definite Systems</title>
-      <link>https://ramet.github.io/publication/a-la-bri-hrr-01-a/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/a-la-bri-hrr-01-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/a-la-bri-hrr-01-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-hrr-01-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Scilab to Scilab//, the OURAGAN Project</title>
-      <link>https://ramet.github.io/publication/a-la-bri-ccc-01/</link>
-      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/a-la-bri-ccc-01/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/a-la-bri-ccc-01/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-ccc-01/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PaStiX: A Parallel Direct Solver for Sparse SPD Matrices based on Efficient Static Scheduling and Memory Managment</title>
-      <link>https://ramet.github.io/publication/c-la-bri-siam-2001/</link>
-      <pubDate>Thu, 01 Mar 2001 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-siam-2001/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-siam-2001/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-siam-2001/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Analyse et Etude de Faisabilité de la Rśolution par M&#39;h́ode Directe sur Machine Parallèle de Grands Systm̀es Lin&#39;eŕes Sym&#39;etq́ues D&#39;efiś positifs pour des Probl`ès d&#39;&#39;Elecómagn&#39;etismávec Couplage &#39;El&#39;emt́s ńis -- &#39;EquationÍnt&#39;egrales</title>
-      <link>https://ramet.github.io/publication/f-la-bri-rr-01/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/f-la-bri-rr-01/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/f-la-bri-rr-01/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/f-la-bri-rr-01/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mise en oeuvre d&#39;une Bibliothèque d&#39;Outils pour la Résolution par Mt́hode Directe de Grands Systm̀es Lin&#39;íres Creux Sym&#39;eíques D&#39;efís Positifs sur Machine Parall`è</title>
-      <link>https://ramet.github.io/publication/n-la-bri-all-01/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/n-la-bri-all-01/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/n-la-bri-all-01/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/n-la-bri-all-01/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Algèbre Linéaire Creuse Hautes Performances : Application  ̀la Ḿ̧anique des Structures</title>
-      <link>https://ramet.github.io/publication/c-la-bri-ihperf-2-k/</link>
-      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-ihperf-2-k/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-ihperf-2-k/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ihperf-2-k/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Résolution parallèle de grands systm̀es lináires creux</title>
-      <link>https://ramet.github.io/publication/c-la-bri-jsft/</link>
-      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-jsft/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-jsft/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-jsft/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Description of the EMILIO Software Processing Chain and Application to Structural Mechanics</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2-k-2/</link>
-      <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2-k-2/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pmaa-2-k-2/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pmaa-2-k-2/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PaStiX: A High-Performance Parallel Direct Solver for Sparse Symmetric Definite Systems</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2-k-1/</link>
-      <pubDate>Tue, 01 Aug 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2-k-1/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pmaa-2-k-1/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pmaa-2-k-1/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Parallel Sparse Linear Algebra and Application to Structural Mechanics</title>
-      <link>https://ramet.github.io/publication/c-la-bri-actc/</link>
-      <pubDate>Mon, 01 May 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-actc/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-actc/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-actc/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>PaStiX: A Parallel Sparse Direct Solver Based on a Static Scheduling for Mixed 1D/2D Block Distributions</title>
-      <link>https://ramet.github.io/publication/c-la-bri-hrr-2-k/</link>
-      <pubDate>Mon, 01 May 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-hrr-2-k/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-hrr-2-k/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-hrr-2-k/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A scalable parallel assembly for irregular meshes based on a block distribution for a parallel block direct solver</title>
-      <link>https://ramet.github.io/publication/c-la-bri-gopara/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-gopara/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-gopara/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-gopara/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Parallel Sparse Linear Algebra and Application to Structural Mechanics</title>
-      <link>https://ramet.github.io/publication/a-la-bri-ghprrp-3/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/a-la-bri-ghprrp-3/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/a-la-bri-ghprrp-3/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-ghprrp-3/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A Mapping and Scheduling Algorithm for Parallel Sparse Fan-In Numerical Factorization</title>
-      <link>https://ramet.github.io/publication/c-la-bri-hrr-99-a/</link>
-      <pubDate>Wed, 01 Sep 1999 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-hrr-99-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-hrr-99-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-hrr-99-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Algèbre Linéaire Creuse Paralll̀e pour les Mt́hodes Directes : Application `l̀a Parall&#39;ísation d&#39;un Code de M&#39;eńique des Structures</title>
-      <link>https://ramet.github.io/publication/c-la-bri-ghprrp-1/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-ghprrp-1/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-ghprrp-1/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ghprrp-1/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Parallel Sparse Linear Algebra and Application to Structural Mechanics</title>
-      <link>https://ramet.github.io/publication/c-la-bri-spworld/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-spworld/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-spworld/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-spworld/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Optimisation des Communications et Régulation de Charge pour la Rśolution par M&#39;h́ode Directe de Grands Systèmes Lin&#39;eŕes Creux</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pr-4/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pr-4/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pr-4/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pr-4/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Optimal Grain Size Computation for Pipelined Algorithms</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pr-1/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pr-1/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pr-1/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pr-1/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

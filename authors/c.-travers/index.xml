@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C. Travers | Pierre Ramet</title>
-    <link>https://ramet.github.io/authors/c.-travers/</link>
-      <atom:link href="https://ramet.github.io/authors/c.-travers/index.xml" rel="self" type="application/rss+xml" />
-    <description>C. Travers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2002 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>C. Travers</title>
-      <link>https://ramet.github.io/authors/c.-travers/</link>
-    </image>
-    
+    <title>C. Travers on Pierre Ramet</title>
+    <link>http://localhost:1313/authors/c.-travers/</link>
+    <description>Recent content in C. Travers on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2002 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/c.-travers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modélisation de pipelines ht́&#39;ógènes</title>
-      <link>https://ramet.github.io/publication/c-la-bri-grid-2002/</link>
-      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-grid-2002/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-grid-2002/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-grid-2002/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

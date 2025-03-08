@@ -1,72 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Esragul Korkmaz | Pierre Ramet</title>
-    <link>https://ramet.github.io/authors/esragul-korkmaz/</link>
-      <atom:link href="https://ramet.github.io/authors/esragul-korkmaz/index.xml" rel="self" type="application/rss+xml" />
-    <description>Esragul Korkmaz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Esragul Korkmaz</title>
-      <link>https://ramet.github.io/authors/esragul-korkmaz/</link>
-    </image>
-    
+    <title>Esragul Korkmaz on Pierre Ramet</title>
+    <link>http://localhost:1313/authors/esragul-korkmaz/</link>
+    <description>Recent content in Esragul Korkmaz on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/esragul-korkmaz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Improving the memory and time overhead of low-rank parallel linear sparse direct solvers</title>
-      <link>https://ramet.github.io/publication/korkmaz-tel-03875858/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/korkmaz-tel-03875858/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/korkmaz-tel-03875858/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/korkmaz-tel-03875858/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Reaching the Quality of SVD for Low-Rank Compression Through QR Variants</title>
-      <link>https://ramet.github.io/publication/korkmaz-hal-03718312/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/korkmaz-hal-03718312/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/korkmaz-hal-03718312/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/korkmaz-hal-03718312/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
-      <link>https://ramet.github.io/publication/korkmaz-hal-03361299/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/korkmaz-hal-03361299/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/korkmaz-hal-03361299/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/korkmaz-hal-03361299/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Deciding Non-Compressible Blocks in Sparse Direct Solvers using Incomplete Factorization</title>
-      <link>https://ramet.github.io/publication/korkmaz-hal-03152932/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/korkmaz-hal-03152932/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/korkmaz-hal-03152932/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/korkmaz-hal-03152932/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sparse supernodal solver using block low-rank compression: Design, performance and analysis</title>
-      <link>https://ramet.github.io/publication/pichon-hal-02326407/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/pichon-hal-02326407/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/pichon-hal-02326407/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pichon-hal-02326407/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rank Revealing QR Methods for Sparse Block Low Rank Solvers</title>
-      <link>https://ramet.github.io/publication/korkmaz-hal-02326070/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/korkmaz-hal-02326070/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/korkmaz-hal-02326070/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/korkmaz-hal-02326070/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rank Revealing QR Methods for Sparse Block Low Rank Solvers</title>
-      <link>https://ramet.github.io/publication/korkmaz-hal-02326084/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/korkmaz-hal-02326084/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/korkmaz-hal-02326084/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/korkmaz-hal-02326084/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

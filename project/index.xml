@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Pierre Ramet</title>
-    <link>https://ramet.github.io/project/</link>
-      <atom:link href="https://ramet.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu_e747e089a9e68c83.png</url>
       <title>Projects</title>
-      <link>https://ramet.github.io/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>PaStiX 5</title>
-      <link>https://ramet.github.io/project/pastix5/</link>
+      <link>http://localhost:1313/project/pastix5/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/project/pastix5/</guid>
+      <guid>http://localhost:1313/project/pastix5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PaStiX 6</title>
-      <link>https://ramet.github.io/project/pastix6/</link>
+      <link>http://localhost:1313/project/pastix6/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/project/pastix6/</guid>
+      <guid>http://localhost:1313/project/pastix6/</guid>
       <description>&lt;h1 id=&#34;pastix-a-sparse-direct-solver&#34;&gt;PaStiX: A sparse direct solver&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://gitlab.inria.fr/solverstack/pastix/pipelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/pastix/badges/master/pipeline.svg&#34; alt=&#34;pipeline status&#34;&gt;&lt;/a&gt; 
@@ -58,147 +58,147 @@ Future releases will be available on this gitlab project.&lt;/p&gt;
 &lt;li&gt;Features available in shared memory with POSIX threads for multicores architectures.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Seq&lt;/th&gt;
-&lt;th&gt;Static&lt;/th&gt;
-&lt;th&gt;Dyn&lt;/th&gt;
-&lt;th&gt;StarPU&lt;/th&gt;
-&lt;th&gt;PaRSEC&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;POTRF (Cholesky)&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR/GPU&lt;/td&gt;
-&lt;td&gt;FR/LR/GPU&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;PXTRF (LL^t for complex)&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR/GPU&lt;/td&gt;
-&lt;td&gt;FR/LR/GPU&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;HETRF (LDL^h)&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR/GPU&lt;/td&gt;
-&lt;td&gt;FR/LR/GPU&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;SYTRF (LDL^t)&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR/GPU&lt;/td&gt;
-&lt;td&gt;FR/LR/GPU&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;GETRF (LU)&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR/GPU&lt;/td&gt;
-&lt;td&gt;FR/LR/GPU&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;TRSM&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;DIAG&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;FR/LR&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Seq&lt;/th&gt;
+          &lt;th&gt;Static&lt;/th&gt;
+          &lt;th&gt;Dyn&lt;/th&gt;
+          &lt;th&gt;StarPU&lt;/th&gt;
+          &lt;th&gt;PaRSEC&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;POTRF (Cholesky)&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR/GPU&lt;/td&gt;
+          &lt;td&gt;FR/LR/GPU&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PXTRF (LL^t for complex)&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR/GPU&lt;/td&gt;
+          &lt;td&gt;FR/LR/GPU&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;HETRF (LDL^h)&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR/GPU&lt;/td&gt;
+          &lt;td&gt;FR/LR/GPU&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;SYTRF (LDL^t)&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR/GPU&lt;/td&gt;
+          &lt;td&gt;FR/LR/GPU&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;GETRF (LU)&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR/GPU&lt;/td&gt;
+          &lt;td&gt;FR/LR/GPU&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;TRSM&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;DIAG&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;FR/LR&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;ul&gt;
 &lt;li&gt;Features available in hybrid shared/distributed memory with MPI between processes, and POSIX threads within a process.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Seq&lt;/th&gt;
-&lt;th&gt;Static&lt;/th&gt;
-&lt;th&gt;Dyn&lt;/th&gt;
-&lt;th&gt;StarPU&lt;/th&gt;
-&lt;th&gt;PaRSEC&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;POTRF (Cholesky)&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR/GPU&lt;/td&gt;
-&lt;td&gt;FR/GPU&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;PXTRF (LL^t for complex)&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR/GPU&lt;/td&gt;
-&lt;td&gt;FR/GPU&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;HETRF (LDL^h)&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR/GPU&lt;/td&gt;
-&lt;td&gt;FR/GPU&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;SYTRF (LDL^t)&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR/GPU&lt;/td&gt;
-&lt;td&gt;FR/GPU&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;GETRF (LU)&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR/GPU&lt;/td&gt;
-&lt;td&gt;FR/GPU&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;TRSM&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;DIAG&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;FR&lt;/td&gt;
-&lt;td&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Seq&lt;/th&gt;
+          &lt;th&gt;Static&lt;/th&gt;
+          &lt;th&gt;Dyn&lt;/th&gt;
+          &lt;th&gt;StarPU&lt;/th&gt;
+          &lt;th&gt;PaRSEC&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;POTRF (Cholesky)&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR/GPU&lt;/td&gt;
+          &lt;td&gt;FR/GPU&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PXTRF (LL^t for complex)&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR/GPU&lt;/td&gt;
+          &lt;td&gt;FR/GPU&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;HETRF (LDL^h)&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR/GPU&lt;/td&gt;
+          &lt;td&gt;FR/GPU&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;SYTRF (LDL^t)&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR/GPU&lt;/td&gt;
+          &lt;td&gt;FR/GPU&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;GETRF (LU)&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR/GPU&lt;/td&gt;
+          &lt;td&gt;FR/GPU&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;TRSM&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;DIAG&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;FR&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;ul&gt;
 &lt;li&gt;FR means Full-Rank computations without compression techniques&lt;/li&gt;
@@ -339,9 +339,9 @@ installed on the system:&lt;/p&gt;
     
     <item>
       <title>SPM</title>
-      <link>https://ramet.github.io/project/spm/</link>
+      <link>http://localhost:1313/project/spm/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/project/spm/</guid>
+      <guid>http://localhost:1313/project/spm/</guid>
       <description>&lt;h1 id=&#34;spm-sparse-matrix-package&#34;&gt;SPM: SParse Matrix package&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://gitlab.inria.fr/solverstack/spm/pipelines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://gitlab.inria.fr/solverstack/spm/badges/master/pipeline.svg&#34; alt=&#34;pipeline status&#34;&gt;&lt;/a&gt; 

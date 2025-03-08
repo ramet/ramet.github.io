@@ -1,56 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>B. Lathuilière | Pierre Ramet</title>
-    <link>https://ramet.github.io/authors/b.-lathuiliere/</link>
-      <atom:link href="https://ramet.github.io/authors/b.-lathuiliere/index.xml" rel="self" type="application/rss+xml" />
-    <description>B. Lathuilière</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>B. Lathuilière</title>
-      <link>https://ramet.github.io/authors/b.-lathuiliere/</link>
-    </image>
-    
+    <title>B. Lathuilière on Pierre Ramet</title>
+    <link>http://localhost:1313/authors/b.-lathuiliere/</link>
+    <description>Recent content in B. Lathuilière on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/b.-lathuiliere/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Efficient parallel resolution of the simplified transport equations in mixed-dual formulation</title>
-      <link>https://ramet.github.io/publication/a-la-bri-jcp-2011/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/a-la-bri-jcp-2011/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/a-la-bri-jcp-2011/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/a-la-bri-jcp-2011/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Domain decomposition method for the Simplified Transport Equation in neutronic</title>
-      <link>https://ramet.github.io/publication/t-la-bri-bl-10/</link>
-      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/t-la-bri-bl-10/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/t-la-bri-bl-10/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/t-la-bri-bl-10/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A Non Overlapping Parallel Domain Decomposition Method Applied to The Simplified Transport Equations</title>
-      <link>https://ramet.github.io/publication/c-la-bri-neutron-2009/</link>
-      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-neutron-2009/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-neutron-2009/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-neutron-2009/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A domain decomposition method applied to the simplified transport equations</title>
-      <link>https://ramet.github.io/publication/c-la-bri-neutron-2008/</link>
-      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-neutron-2008/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-neutron-2008/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-neutron-2008/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A Domain Decomposition Method Applied to Large Eigenvalue Problems in Neutron Physics</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pmaa-2008-a/</link>
-      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pmaa-2008-a/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pmaa-2008-a/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pmaa-2008-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

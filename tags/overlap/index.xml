@@ -1,72 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overlap | Pierre Ramet</title>
-    <link>https://ramet.github.io/tags/overlap/</link>
-      <atom:link href="https://ramet.github.io/tags/overlap/index.xml" rel="self" type="application/rss+xml" />
-    <description>Overlap</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2003 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Overlap</title>
-      <link>https://ramet.github.io/tags/overlap/</link>
-    </image>
-    
+    <title>Overlap on Pierre Ramet</title>
+    <link>http://localhost:1313/tags/overlap/</link>
+    <description>Recent content in Overlap on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Sep 2003 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/overlap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Asymptotically optimal algorithm for Laplace task graphs on heterogeneous platforms</title>
-      <link>https://ramet.github.io/publication/c-la-bri-ppam-03/</link>
-      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-ppam-03/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-ppam-03/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-ppam-03/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Modélisation de pipelines ht́&#39;ógènes</title>
-      <link>https://ramet.github.io/publication/c-la-bri-grid-2002/</link>
-      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-grid-2002/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-grid-2002/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-grid-2002/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Optimisation de la Communication et de la Distribution des Données pour des Solveurs Parallèles Directs en Algb̀re Lináire Dense et Creuse</title>
-      <link>https://ramet.github.io/publication/t-la-bri-pr-2-k/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/t-la-bri-pr-2-k/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/t-la-bri-pr-2-k/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/t-la-bri-pr-2-k/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Calcul de la suite optimale de taille de paquets pour la factorisation de Cholesky</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pr-3/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pr-3/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pr-3/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pr-3/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Optimisation des Communications et Régulation de Charge pour la Rśolution par M&#39;h́ode Directe de Grands Systèmes Lin&#39;eŕes Creux</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pr-4/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pr-4/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pr-4/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pr-4/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Calcul de la taille optimale des paquets pour les algorithmes macro-pipelines</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pr-2/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pr-2/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pr-2/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pr-2/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Optimal Grain Size Computation for Pipelined Algorithms</title>
-      <link>https://ramet.github.io/publication/c-la-bri-pr-1/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/c-la-bri-pr-1/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/c-la-bri-pr-1/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
+      <guid>http://localhost:1313/publication/c-la-bri-pr-1/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

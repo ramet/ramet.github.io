@@ -1,32 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Changjiang Gou | Pierre Ramet</title>
-    <link>https://ramet.github.io/authors/changjiang-gou/</link>
-      <atom:link href="https://ramet.github.io/authors/changjiang-gou/index.xml" rel="self" type="application/rss+xml" />
-    <description>Changjiang Gou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ramet.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Changjiang Gou</title>
-      <link>https://ramet.github.io/authors/changjiang-gou/</link>
-    </image>
-    
+    <title>Changjiang Gou on Pierre Ramet</title>
+    <link>http://localhost:1313/authors/changjiang-gou/</link>
+    <description>Recent content in Changjiang Gou on Pierre Ramet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/changjiang-gou/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
-      <link>https://ramet.github.io/publication/gou-hal-02973315/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/gou-hal-02973315/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/gou-hal-02973315/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gou-hal-02973315/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Improving mapping for sparse direct solvers: A trade-off between data locality and load balancing</title>
-      <link>https://ramet.github.io/publication/gou-hal-02491495/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publication/gou-hal-02491495/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/gou-hal-02491495/</link>
+      <pubDate>Fri, 07 Mar 2025 16:26:38 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gou-hal-02491495/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
