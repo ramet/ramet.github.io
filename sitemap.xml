@@ -71,9 +71,9 @@
   </url><url>
     <loc>http://localhost:1313/restricted/restricted/</loc>
   </url><url>
-    <loc>http://localhost:1313/bib/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bib/</loc>
   </url><url>
     <loc>http://localhost:1313/publication_types/</loc>
   </url><url>
