@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD | Pierre Ramet</title>
+    <link>https://ramet.github.io/tags/phd/</link>
+      <atom:link href="https://ramet.github.io/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 14:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
+      <title>PhD</title>
+      <link>https://ramet.github.io/tags/phd/</link>
+    </image>
+    
+    <item>
+      <title>Soutenance de thèse : Clément Richefort</title>
+      <link>https://ramet.github.io/blog/phd-defense-richefort/</link>
+      <pubDate>Thu, 28 Nov 2024 14:00:00 +0100</pubDate>
+      <guid>https://ramet.github.io/blog/phd-defense-richefort/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Clément Richefort&lt;/strong&gt; a soutenu avec succès sa thèse de doctorat en informatique le 28 novembre 2024 à l&amp;rsquo;Université de Bordeaux (LaBRI).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Titre :&lt;/strong&gt; &lt;em&gt;Development of an algebraic multigrid solver for the indefinite Helmholtz equation&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Direction :&lt;/strong&gt; Pierre Ramet (directeur de thèse, encadrement 100%)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Financement :&lt;/strong&gt; Bourse CEA&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Établissement :&lt;/strong&gt; Université de Bordeaux / LaBRI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ses recherches ont porté sur la conception et l&amp;rsquo;évaluation de méthodes multigrilles algébriques (AMG) adaptées à l&amp;rsquo;équation de Helmholtz indéfinie, ainsi que sur l&amp;rsquo;apport de l&amp;rsquo;arithmétique en précision mixte pour accélérer la résolution de grands systèmes linéaires creux issus de la simulation numérique.&lt;/p&gt;
+&lt;p&gt;Clément Richefort est actuellement chercheur post-doctorant au &lt;strong&gt;Jülich Supercomputing Centre&lt;/strong&gt; (JSC, Allemagne).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

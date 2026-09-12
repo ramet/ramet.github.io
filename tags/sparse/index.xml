@@ -5,7 +5,7 @@
     <link>https://ramet.github.io/tags/sparse/</link>
       <atom:link href="https://ramet.github.io/tags/sparse/index.xml" rel="self" type="application/rss+xml" />
     <description>Sparse</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
       <title>Sparse</title>
@@ -13,36 +13,9 @@
     </image>
     
     <item>
-      <title>Comparative Study of Mixed-Precision and Low-Rank Compression Techniques in Sparse Direct Solvers</title>
-      <link>https://ramet.github.io/publications/nicolas-hal-04585047/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publications/nicolas-hal-04585047/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Enhancing sparse direct solver scalability through runtime system automatic data partition</title>
-      <link>https://ramet.github.io/publications/lisito-hal-04527103/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publications/lisito-hal-04527103/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New parallel features in the sparse solver PaStiX</title>
-      <link>https://ramet.github.io/publications/lisito-hal-04589448/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/publications/lisito-hal-04589448/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>PaStiX 6</title>
       <link>https://ramet.github.io/projects/pastix6/</link>
-      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/projects/pastix6/</guid>
       <description>&lt;h1 id=&#34;pastix-a-sparse-direct-solver&#34;&gt;PaStiX: A sparse direct solver&lt;/h1&gt;
 &lt;p&gt;
@@ -54,25 +27,16 @@ high-performance parallel solver for very large sparse linear systems based on
 direct methods. Numerical algorithms are implemented in single or double
 precision (real or complex) using LLt, LDLt and LU with static pivoting (for non-symmetric
 matrices having a symmetric pattern).
-This solver also provides low-rank compression methods to reduce the memory footprint and/or the time-to-solution.&lt;/p&gt;
+This solver also provides low-rank compression methods (BLR and HODLR) to reduce the memory footprint and/or the time-to-solution, as well as mixed-precision arithmetic.&lt;/p&gt;
 &lt;h2 id=&#34;get-pastix&#34;&gt;Get PaStiX&lt;/h2&gt;
+&lt;p&gt;The latest official release is &lt;strong&gt;v6.4.0&lt;/strong&gt; (July 2024). All releases, source tarballs, and changelogs are available on 
+.&lt;/p&gt;
 &lt;p&gt;To use the latest development version of PaStiX, please clone the master
-branch. Note that PaStiX contains two git submodules: &lt;strong&gt;spm&lt;/strong&gt; and &lt;strong&gt;morse_cmake&lt;/strong&gt;.
-To obtain the source code, please use the following commands:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# if git version &amp;gt;= 1.9
-  git clone --recursive git@gitlab.inria.fr:solverstack/pastix.git
-  cd pastix
-# else
-  git clone git@gitlab.inria.fr:solverstack/pastix.git
-  cd pastix
-  git submodule init
-  git submodule update
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Previous releases of PaStiX were hosted on
-
-.
-Future releases will be available directly on this GitLab project.&lt;/p&gt;
-&lt;h2 id=&#34;available-features&#34;&gt;Available Features&lt;/h2&gt;
+branch. Note that PaStiX contains git submodules (&lt;strong&gt;spm&lt;/strong&gt; and &lt;strong&gt;morse_cmake&lt;/strong&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Clone with submodules&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone --recursive https://gitlab.inria.fr/solverstack/pastix.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; pastix
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;available-features&#34;&gt;Available Features&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Features available in shared memory with POSIX threads on multicore architectures:&lt;/li&gt;
 &lt;/ul&gt;
@@ -318,6 +282,7 @@ library dependencies to be installed on the system:&lt;/p&gt;
 &lt;li&gt;Tony Delarue, MPI implementation&lt;/li&gt;
 &lt;li&gt;Brieuc Nicolas, Mixed precision&lt;/li&gt;
 &lt;li&gt;Alycia Lisito&lt;/li&gt;
+&lt;li&gt;Clément Richefort, Algebraic multigrid and mixed precision&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If we missed your name, please let us know so we can update the list.&lt;/p&gt;
 &lt;h2 id=&#34;citing-pastix&#34;&gt;Citing PaStiX&lt;/h2&gt;
@@ -358,7 +323,7 @@ library dependencies to be installed on the system:&lt;/p&gt;
     <item>
       <title>SPM</title>
       <link>https://ramet.github.io/projects/spm/</link>
-      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://ramet.github.io/projects/spm/</guid>
       <description>&lt;h1 id=&#34;spm-sparse-matrix-package&#34;&gt;SPM: SParse Matrix package&lt;/h1&gt;
 &lt;p&gt;
@@ -391,19 +356,15 @@ similar to what was proposed in the
 
 module for shared memory.&lt;/p&gt;
 &lt;h2 id=&#34;get-spm&#34;&gt;Get SPM&lt;/h2&gt;
+&lt;p&gt;The latest official release is &lt;strong&gt;v1.2.4&lt;/strong&gt; (July 2024). All releases, source tarballs, and changelogs are available on 
+.&lt;/p&gt;
 &lt;p&gt;To use the latest development version of SPM, please clone the master
 branch. Note that SPM contains the &lt;strong&gt;morse_cmake&lt;/strong&gt; &lt;code&gt;git submodule&lt;/code&gt;.
 To obtain the source code, please use the following commands:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# if git version &amp;gt;= 1.9
-  git clone --recursive git@gitlab.inria.fr:solverstack/spm.git
-  cd spm
-# else
-  git clone git@gitlab.inria.fr:solverstack/spm.git
-  cd spm
-  git submodule init
-  git submodule update
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Clone with submodules&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone --recursive https://gitlab.inria.fr/solverstack/spm.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; spm
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
 &lt;p&gt;The latest Doxygen documentation is available 
 .&lt;/p&gt;
 &lt;p&gt;The main functionalities are listed 
@@ -466,6 +427,33 @@ our best to answer them in a timely manner.&lt;/p&gt;
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparative Study of Mixed-Precision and Low-Rank Compression Techniques in Sparse Direct Solvers</title>
+      <link>https://ramet.github.io/publications/nicolas-hal-04585047/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/nicolas-hal-04585047/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhancing sparse direct solver scalability through runtime system automatic data partition</title>
+      <link>https://ramet.github.io/publications/lisito-hal-04527103/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/lisito-hal-04527103/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New parallel features in the sparse solver PaStiX</title>
+      <link>https://ramet.github.io/publications/lisito-hal-04589448/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/lisito-hal-04589448/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     

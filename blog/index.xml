@@ -5,12 +5,61 @@
     <link>https://ramet.github.io/blog/</link>
       <atom:link href="https://ramet.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 18:07:19 +0100</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 09:00:00 +0100</lastBuildDate>
     <image>
       <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
       <title>News</title>
       <link>https://ramet.github.io/blog/</link>
     </image>
+    
+    <item>
+      <title>Participation au projet européen EuroHPC DARE</title>
+      <link>https://ramet.github.io/blog/dare-project/</link>
+      <pubDate>Wed, 15 Jan 2025 09:00:00 +0100</pubDate>
+      <guid>https://ramet.github.io/blog/dare-project/</guid>
+      <description>&lt;p&gt;Participation au projet européen &lt;strong&gt;DARE&lt;/strong&gt; (&lt;em&gt;HPC Digital Autonomy with RISC-V in Europe&lt;/em&gt;), sélectionné dans le cadre de l&amp;rsquo;entreprise commune &lt;strong&gt;EuroHPC JU&lt;/strong&gt; (&lt;em&gt;Joint Undertaking&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Ce projet vise à renforcer l&amp;rsquo;autonomie stratégique et technologique de l&amp;rsquo;Europe dans le calcul haute performance (HPC) en concevant et optimisant des environnements logiciels et algorithmiques adaptés aux processeurs européens basés sur le jeu d&amp;rsquo;instructions ouvert &lt;strong&gt;RISC-V&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Dans le cadre de ce projet, les travaux menés portent notamment sur :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Le développement et l&amp;rsquo;optimisation de bibliothèques et d&amp;rsquo;algorithmes parallèles d&amp;rsquo;&lt;strong&gt;algèbre linéaire creuse&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;adaptation des noyaux de calcul et des méthodes de factorisation directe/hybride aux architectures accélérées et vectorielles RISC-V.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;évaluation des performances à l&amp;rsquo;échelle exaflopique en collaboration avec les partenaires académiques et industriels européens.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Soutenance de thèse : Clément Richefort</title>
+      <link>https://ramet.github.io/blog/phd-defense-richefort/</link>
+      <pubDate>Thu, 28 Nov 2024 14:00:00 +0100</pubDate>
+      <guid>https://ramet.github.io/blog/phd-defense-richefort/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Clément Richefort&lt;/strong&gt; a soutenu avec succès sa thèse de doctorat en informatique le 28 novembre 2024 à l&amp;rsquo;Université de Bordeaux (LaBRI).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Titre :&lt;/strong&gt; &lt;em&gt;Development of an algebraic multigrid solver for the indefinite Helmholtz equation&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Direction :&lt;/strong&gt; Pierre Ramet (directeur de thèse, encadrement 100%)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Financement :&lt;/strong&gt; Bourse CEA&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Établissement :&lt;/strong&gt; Université de Bordeaux / LaBRI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ses recherches ont porté sur la conception et l&amp;rsquo;évaluation de méthodes multigrilles algébriques (AMG) adaptées à l&amp;rsquo;équation de Helmholtz indéfinie, ainsi que sur l&amp;rsquo;apport de l&amp;rsquo;arithmétique en précision mixte pour accélérer la résolution de grands systèmes linéaires creux issus de la simulation numérique.&lt;/p&gt;
+&lt;p&gt;Clément Richefort est actuellement chercheur post-doctorant au &lt;strong&gt;Jülich Supercomputing Centre&lt;/strong&gt; (JSC, Allemagne).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Initiative HybQuant : Maison du quantique en Nouvelle-Aquitaine</title>
+      <link>https://ramet.github.io/blog/hybquant-initiative/</link>
+      <pubDate>Thu, 20 Jun 2024 10:00:00 +0100</pubDate>
+      <guid>https://ramet.github.io/blog/hybquant-initiative/</guid>
+      <description>&lt;p&gt;Le projet de &lt;strong&gt;Maison du quantique en Nouvelle-Aquitaine (HybQuant)&lt;/strong&gt; a été retenu dans le cadre de l&amp;rsquo;appel national &lt;strong&gt;HQI&lt;/strong&gt; (&lt;em&gt;France Hybrid HPC Quantum Initiative&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Pierre Ramet a participé au montage de cette initiative régionale d&amp;rsquo;envergure et s&amp;rsquo;investit dans l&amp;rsquo;organisation scientifique et technologique du projet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HybQuant&lt;/strong&gt; a pour vocation de :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fédérer les acteurs académiques et industriels régionaux autour de l&amp;rsquo;hybridation entre &lt;strong&gt;calcul haute performance (HPC)&lt;/strong&gt; classique et &lt;strong&gt;calcul quantique&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Développer des passerelles logicielles et algorithmiques permettant d&amp;rsquo;exploiter conjointement les supercalculateurs et les processeurs/émulateurs quantiques (QPU).&lt;/li&gt;
+&lt;li&gt;Former et accompagner la communauté scientifique aux nouveaux paradigmes de programmation et d&amp;rsquo;algèbre linéaire hybride quantique-classique.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>PaStiX Release 6.2.1</title>

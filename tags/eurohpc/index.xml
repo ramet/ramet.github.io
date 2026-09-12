@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EuroHPC | Pierre Ramet</title>
+    <link>https://ramet.github.io/tags/eurohpc/</link>
+      <atom:link href="https://ramet.github.io/tags/eurohpc/index.xml" rel="self" type="application/rss+xml" />
+    <description>EuroHPC</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 09:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
+      <title>EuroHPC</title>
+      <link>https://ramet.github.io/tags/eurohpc/</link>
+    </image>
+    
+    <item>
+      <title>Participation au projet européen EuroHPC DARE</title>
+      <link>https://ramet.github.io/blog/dare-project/</link>
+      <pubDate>Wed, 15 Jan 2025 09:00:00 +0100</pubDate>
+      <guid>https://ramet.github.io/blog/dare-project/</guid>
+      <description>&lt;p&gt;Participation au projet européen &lt;strong&gt;DARE&lt;/strong&gt; (&lt;em&gt;HPC Digital Autonomy with RISC-V in Europe&lt;/em&gt;), sélectionné dans le cadre de l&amp;rsquo;entreprise commune &lt;strong&gt;EuroHPC JU&lt;/strong&gt; (&lt;em&gt;Joint Undertaking&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Ce projet vise à renforcer l&amp;rsquo;autonomie stratégique et technologique de l&amp;rsquo;Europe dans le calcul haute performance (HPC) en concevant et optimisant des environnements logiciels et algorithmiques adaptés aux processeurs européens basés sur le jeu d&amp;rsquo;instructions ouvert &lt;strong&gt;RISC-V&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Dans le cadre de ce projet, les travaux menés portent notamment sur :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Le développement et l&amp;rsquo;optimisation de bibliothèques et d&amp;rsquo;algorithmes parallèles d&amp;rsquo;&lt;strong&gt;algèbre linéaire creuse&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;adaptation des noyaux de calcul et des méthodes de factorisation directe/hybride aux architectures accélérées et vectorielles RISC-V.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;évaluation des performances à l&amp;rsquo;échelle exaflopique en collaboration avec les partenaires académiques et industriels européens.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

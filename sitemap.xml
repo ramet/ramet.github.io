@@ -6,6 +6,28 @@
   <url>
     <loc>https://ramet.github.io/</loc><lastmod>2026-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ramet.github.io/tags/eurohpc/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/hpc/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/linear-algebra/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/blog/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/blog/dare-project/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/risc-v/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/helmholtz/</loc><lastmod>2024-11-28T14:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/multigrid/</loc><lastmod>2024-11-28T14:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/phd/</loc><lastmod>2024-11-28T14:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/blog/phd-defense-richefort/</loc><lastmod>2024-11-28T14:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ramet.github.io/tags/hpl/</loc><lastmod>2024-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/publication_types/manuscript/</loc><lastmod>2024-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -16,9 +38,21 @@
   <url>
     <loc>https://ramet.github.io/publications/lisito-hal-04867213/</loc><lastmod>2024-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ramet.github.io/tags/</loc><lastmod>2024-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ramet.github.io/projects/pastix6/</loc><lastmod>2024-07-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ramet.github.io/tags/multigrid/</loc><lastmod>2024-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ramet.github.io/tags/solverstack/</loc><lastmod>2024-07-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/sparse/</loc><lastmod>2024-07-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/projects/spm/</loc><lastmod>2024-07-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/hqi/</loc><lastmod>2024-06-20T10:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/blog/hybquant-initiative/</loc><lastmod>2024-06-20T10:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/nouvelle-aquitaine/</loc><lastmod>2024-06-20T10:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/quantum-computing/</loc><lastmod>2024-06-20T10:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/publications/falgout-cea-04620991/</loc><lastmod>2024-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -27,8 +61,6 @@
     <loc>https://ramet.github.io/publications/nicolas-hal-04585047/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/publication_types/paper-conference/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramet.github.io/tags/sparse/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/publications/falgout-cea-04620993/</loc><lastmod>2024-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -54,15 +86,9 @@
   <url>
     <loc>https://ramet.github.io/publication_types/report/</loc><lastmod>2022-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ramet.github.io/blog/</loc><lastmod>2022-04-02T18:07:19+01:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ramet.github.io/blog/pastix-release/</loc><lastmod>2022-04-02T18:07:19+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/tags/pastix6/</loc><lastmod>2022-04-02T18:07:19+01:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramet.github.io/projects/pastix6/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramet.github.io/projects/spm/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/publications/korkmaz-hal-03361299/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
