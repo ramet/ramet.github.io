@@ -6,19 +6,29 @@
   <url>
     <loc>https://ramet.github.io/</loc><lastmod>2026-09-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ramet.github.io/projects/chameleon/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/dense/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/hpc/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/linear-algebra/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/solverstack/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/tags/solvers/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ramet.github.io/projects/solverstack/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ramet.github.io/tags/eurohpc/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramet.github.io/tags/hpc/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramet.github.io/tags/linear-algebra/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/blog/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/blog/dare-project/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/tags/risc-v/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramet.github.io/tags/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/tags/helmholtz/</loc><lastmod>2024-11-28T14:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -39,8 +49,6 @@
     <loc>https://ramet.github.io/publications/lisito-hal-04867213/</loc><lastmod>2024-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/projects/pastix6/</loc><lastmod>2024-07-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramet.github.io/tags/solverstack/</loc><lastmod>2024-07-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/tags/sparse/</loc><lastmod>2024-07-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

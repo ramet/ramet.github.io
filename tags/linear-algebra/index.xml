@@ -5,12 +5,180 @@
     <link>https://ramet.github.io/tags/linear-algebra/</link>
       <atom:link href="https://ramet.github.io/tags/linear-algebra/index.xml" rel="self" type="application/rss+xml" />
     <description>Linear Algebra</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 09:00:00 +0100</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
       <title>Linear Algebra</title>
       <link>https://ramet.github.io/tags/linear-algebra/</link>
     </image>
+    
+    <item>
+      <title>Chameleon</title>
+      <link>https://ramet.github.io/projects/chameleon/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/projects/chameleon/</guid>
+      <description>&lt;h1 id=&#34;chameleon-a-dense-linear-algebra-solver&#34;&gt;Chameleon: A dense linear algebra solver&lt;/h1&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;Chameleon is a scientific C library providing high-performance routines to solve dense linear systems (general, symmetric positive definite, least squares) using LU, Cholesky, QR and LQ factorizations, as well as singular value (SVD) and eigenvalue (EVD) decompositions. Real and complex arithmetic are supported in both single and double precision.&lt;/p&gt;
+&lt;p&gt;Chameleon is designed to fully exploit modern heterogeneous and distributed supercomputers. Relying on a tile matrix layout, algorithms are expressed as task graphs and executed dynamically by innovative runtime systems:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;StarPU&lt;/strong&gt; (enabling multi-GPU acceleration through cuBLAS or hipBLAS, and distributed-memory clusters with MPI),&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PaRSEC&lt;/strong&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OpenMP&lt;/strong&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;QUARK&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;get-chameleon&#34;&gt;Get Chameleon&lt;/h2&gt;
+&lt;p&gt;The latest official release is &lt;strong&gt;v1.4.0&lt;/strong&gt; (January 2026). All releases, source archives, and changelogs are available on 
+.&lt;/p&gt;
+&lt;p&gt;To use the latest development version of Chameleon, clone the repository with submodules:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Clone with submodules&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone --recursive https://gitlab.inria.fr/solverstack/chameleon.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; chameleon
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;available-features--algorithms&#34;&gt;Available Features &amp;amp; Algorithms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Matrix factorizations and linear solvers:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cholesky:&lt;/strong&gt; POTRF, POTRI, POTRS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;QR / LQ:&lt;/strong&gt; GEQRF, GELQF, ORMQR, UNMQR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LU factorization:&lt;/strong&gt; GETRF, GESV, GETRS (with tile and partial pivoting)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Singular Value &amp;amp; Eigenvalue Decomposition:&lt;/strong&gt; GESVD, SYEV, HEEV&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BLAS-3 operations:&lt;/strong&gt; GEMM (including A-stationary algorithms), SYMM, HEMM, TRSM, SYRK, HERK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Precision support:&lt;/strong&gt; Single (&lt;code&gt;s&lt;/code&gt;), Double (&lt;code&gt;d&lt;/code&gt;), Complex single (&lt;code&gt;c&lt;/code&gt;), Complex double (&lt;code&gt;z&lt;/code&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Supported Architectures:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Multicore CPUs (x86_64, ARM, PowerPC)&lt;/li&gt;
+&lt;li&gt;NVIDIA GPUs via cuBLAS / TCUDA&lt;/li&gt;
+&lt;li&gt;AMD GPUs via HIP / hipBLAS&lt;/li&gt;
+&lt;li&gt;Distributed-memory clusters via MPI (using 2D block-cyclic tile distributions)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;High-Level Interfaces:&lt;/strong&gt; C, Fortran 90, Python.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;Comprehensive online documentation is available at 
+.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;h3 id=&#34;build-and-install-with-cmake&#34;&gt;Build and install with CMake&lt;/h3&gt;
+&lt;p&gt;Chameleon can be built using 
+ (minimum version 3.12):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BLAS and LAPACK (e.g. OpenBLAS, Intel MKL)&lt;/li&gt;
+&lt;li&gt;HWLOC&lt;/li&gt;
+&lt;li&gt;StarPU (version &amp;gt;= 1.4 for multi-GPU &amp;amp; MPI), PaRSEC, or OpenMP&lt;/li&gt;
+&lt;li&gt;CUDA / CuBLAS or HIP / hipBLAS (optional, for GPU acceleration)&lt;/li&gt;
+&lt;li&gt;MPI (optional, for distributed memory)&lt;/li&gt;
+&lt;li&gt;Python (optional, for code generation and bindings)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir build &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; build
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cmake .. -DCMAKE_INSTALL_PREFIX&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;/path/to/install &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;         -DCHAMELEON_USE_MPI&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;ON &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;         -DCHAMELEON_USE_CUDA&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;ON &lt;span class=&#34;se&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;         -DCHAMELEON_SCHED_STARPU&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;ON
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;make -j
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;make install
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Chameleon is also available through package managers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Guix-HPC:&lt;/strong&gt; &lt;code&gt;guix install chameleon&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spack:&lt;/strong&gt; &lt;code&gt;spack install chameleon&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Homebrew:&lt;/strong&gt; &lt;code&gt;brew install chameleon&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;get-involved&#34;&gt;Get Involved&lt;/h2&gt;
+&lt;h3 id=&#34;reporting-an-issue&#34;&gt;Reporting an issue&lt;/h3&gt;
+&lt;p&gt;Users are encouraged to use the issue tracker to report bugs, suggest features, or ask questions:
+
+&lt;/p&gt;
+&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
+&lt;p&gt;The development of Chameleon is conducted within the &lt;strong&gt;SolverStack&lt;/strong&gt; and &lt;strong&gt;TOPAL&lt;/strong&gt; / &lt;strong&gt;Storm&lt;/strong&gt; research teams at Inria Bordeaux Sud-Ouest, Bordeaux University, CNRS (LaBRI), and Bordeaux INP, in close collaboration with the MORSE associate team (ICL University of Tennessee, KAUST):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mathieu Faverge, PI&lt;/li&gt;
+&lt;li&gt;Florent Pruvost&lt;/li&gt;
+&lt;li&gt;Samuel Thibault&lt;/li&gt;
+&lt;li&gt;Philippe Virouleau&lt;/li&gt;
+&lt;li&gt;Alycia Lisito&lt;/li&gt;
+&lt;li&gt;Pierre Ramet&lt;/li&gt;
+&lt;li&gt;and the MORSE / SolverStack contributors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Chameleon is distributed under the CeCILL-C open-source license (BSD-compatible):
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SolverStack</title>
+      <link>https://ramet.github.io/projects/solverstack/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/projects/solverstack/</guid>
+      <description>&lt;h1 id=&#34;solverstackinria-bordeaux&#34;&gt;SolverStack@Inria Bordeaux&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;SolverStack&lt;/strong&gt; aims at providing a coherent, high-performance (HPC) linear algebra solver stack. It provides a comprehensive collection of numerical solvers, partitioning tools, and runtime systems designed for modern supercomputers operating on dense and sparse matrices.&lt;/p&gt;
+&lt;p&gt;The ecosystem includes direct, iterative (Krylov), and hybrid direct/iterative methods, with advanced preconditioners and low-rank compression techniques, ensuring &lt;em&gt;portability of performance&lt;/em&gt; from multicore laptops to petascale and exascale supercomputers.&lt;/p&gt;
+&lt;p&gt;👉 &lt;strong&gt;Official Website:&lt;/strong&gt; 
+&lt;/p&gt;
+&lt;h2 id=&#34;software-ecosystem&#34;&gt;Software Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sparse Direct Methods:&lt;/strong&gt; 
+, 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dense Direct Methods:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sparse Matrix Package:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Iterative &amp;amp; Krylov Methods:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hybrid Direct/Iterative Solvers:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Randomized &amp;amp; Low-Rank Decompositions:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Task-Based Runtime Systems:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Communication Libraries:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Partitioning &amp;amp; Ordering:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;packaging--distribution&#34;&gt;Packaging &amp;amp; Distribution&lt;/h2&gt;
+&lt;p&gt;SolverStack software components are systematically packaged and maintained for high-performance computing environments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Guix-HPC:&lt;/strong&gt; &lt;code&gt;guix install &amp;lt;package&amp;gt;&lt;/code&gt; (
+)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spack:&lt;/strong&gt; &lt;code&gt;spack install &amp;lt;package&amp;gt;&lt;/code&gt; (
+)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Homebrew:&lt;/strong&gt; &lt;code&gt;brew install &amp;lt;package&amp;gt;&lt;/code&gt; (
+)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;partner-teams--institutions&#34;&gt;Partner Teams &amp;amp; Institutions&lt;/h2&gt;
+&lt;p&gt;SolverStack software is developed by researchers and engineers in joint project-teams at &lt;strong&gt;Inria Bordeaux Sud-Ouest&lt;/strong&gt;, &lt;strong&gt;Bordeaux University&lt;/strong&gt;, &lt;strong&gt;CNRS&lt;/strong&gt; (
+), and &lt;strong&gt;Bordeaux INP&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt; 
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Participation au projet européen EuroHPC DARE</title>
