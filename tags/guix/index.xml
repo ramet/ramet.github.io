@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pastix6 | Pierre Ramet</title>
-    <link>https://ramet.github.io/tags/pastix6/</link>
-      <atom:link href="https://ramet.github.io/tags/pastix6/index.xml" rel="self" type="application/rss+xml" />
-    <description>Pastix6</description>
+    <title>Guix | Pierre Ramet</title>
+    <link>https://ramet.github.io/tags/guix/</link>
+      <atom:link href="https://ramet.github.io/tags/guix/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guix</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2019 13:49:56 +0100</lastBuildDate>
     <image>
       <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
-      <title>Pastix6</title>
-      <link>https://ramet.github.io/tags/pastix6/</link>
+      <title>Guix</title>
+      <link>https://ramet.github.io/tags/guix/</link>
     </image>
     
     <item>
