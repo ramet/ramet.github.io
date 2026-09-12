@@ -181,10 +181,10 @@
     </item>
     
     <item>
-      <title>PaStiX 6</title>
-      <link>https://ramet.github.io/projects/pastix6/</link>
+      <title>PaStiX</title>
+      <link>https://ramet.github.io/projects/pastix/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://ramet.github.io/projects/pastix6/</guid>
+      <guid>https://ramet.github.io/projects/pastix/</guid>
       <description>&lt;h1 id=&#34;pastix-a-sparse-direct-solver&#34;&gt;PaStiX: A sparse direct solver&lt;/h1&gt;
 &lt;p&gt;
  
