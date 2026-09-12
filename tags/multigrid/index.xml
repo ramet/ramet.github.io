@@ -1,26 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multigrid on Pierre Ramet</title>
-    <link>http://localhost:1313/tags/multigrid/</link>
-    <description>Recent content in Multigrid on Pierre Ramet</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/multigrid/index.xml" rel="self" type="application/rss+xml" />
+    <title>Multigrid | Pierre Ramet</title>
+    <link>https://ramet.github.io/tags/multigrid/</link>
+      <atom:link href="https://ramet.github.io/tags/multigrid/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multigrid</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
+      <title>Multigrid</title>
+      <link>https://ramet.github.io/tags/multigrid/</link>
+    </image>
+    
+    <item>
+      <title>Toward an algebraic multigrid method for the indefinite Helmholtz equation</title>
+      <link>https://ramet.github.io/publications/falgout-cea-04620991/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/falgout-cea-04620991/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toward an algebraic multigrid method for the indefinite Helmholtz equation</title>
+      <link>https://ramet.github.io/publications/falgout-cea-04620993/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/falgout-cea-04620993/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Toward a multilevel method for the Helmholtz equation</title>
-      <link>http://localhost:1313/publication/richefort-hal-04046622/</link>
-      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
-      <guid>http://localhost:1313/publication/richefort-hal-04046622/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+      <link>https://ramet.github.io/publications/richefort-hal-04046622/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/richefort-hal-04046622/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Toward  a Multigrid Method for the Indefinite Helmholtz Equation</title>
-      <link>http://localhost:1313/publication/falgout-hal-04046630/</link>
-      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
-      <guid>http://localhost:1313/publication/falgout-hal-04046630/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+      <link>https://ramet.github.io/publications/falgout-hal-04046630/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/falgout-hal-04046630/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

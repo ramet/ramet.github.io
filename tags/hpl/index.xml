@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hpl | Pierre Ramet</title>
+    <link>https://ramet.github.io/tags/hpl/</link>
+      <atom:link href="https://ramet.github.io/tags/hpl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hpl</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
+      <title>Hpl</title>
+      <link>https://ramet.github.io/tags/hpl/</link>
+    </image>
+    
+    <item>
+      <title>Scalable and Portable LU Factorization with Partial Pivoting on top of Runtime Systems</title>
+      <link>https://ramet.github.io/publications/lisito-hal-04867213/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/lisito-hal-04867213/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

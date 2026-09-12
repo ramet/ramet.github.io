@@ -1,19 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>H-Mat on Pierre Ramet</title>
-    <link>http://localhost:1313/tags/h-mat/</link>
-    <description>Recent content in H-Mat on Pierre Ramet</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/h-mat/index.xml" rel="self" type="application/rss+xml" />
+    <title>H-Mat | Pierre Ramet</title>
+    <link>https://ramet.github.io/tags/h-mat/</link>
+      <atom:link href="https://ramet.github.io/tags/h-mat/index.xml" rel="self" type="application/rss+xml" />
+    <description>H-Mat</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
+      <title>H-Mat</title>
+      <link>https://ramet.github.io/tags/h-mat/</link>
+    </image>
+    
     <item>
       <title>A hierarchical fast direct solver for distributed memory machines with manycore nodes</title>
-      <link>http://localhost:1313/publication/augonnet-cea-02304706/</link>
-      <pubDate>Fri, 07 Mar 2025 16:26:37 +0000</pubDate>
-      <guid>http://localhost:1313/publication/augonnet-cea-02304706/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;</description>
+      <link>https://ramet.github.io/publications/augonnet-cea-02304706/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/augonnet-cea-02304706/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

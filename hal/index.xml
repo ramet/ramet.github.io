@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pierre Ramet</title>
-    <link>http://localhost:1313/hal/</link>
-      <atom:link href="http://localhost:1313/hal/index.xml" rel="self" type="application/rss+xml" />
-    <description>Pierre Ramet</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <title>Publications HAL | Pierre Ramet</title>
+    <link>https://ramet.github.io/hal/</link>
+      <atom:link href="https://ramet.github.io/hal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications HAL</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/images/icon_hu_e747e089a9e68c83.png</url>
-      <title>Pierre Ramet</title>
-      <link>http://localhost:1313/hal/</link>
+      <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
+      <title>Publications HAL</title>
+      <link>https://ramet.github.io/hal/</link>
     </image>
     
   </channel>
