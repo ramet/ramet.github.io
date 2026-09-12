@@ -62,28 +62,6 @@
     </item>
     
     <item>
-      <title>PaStiX Release 6.2.1</title>
-      <link>https://ramet.github.io/blog/pastix-release/</link>
-      <pubDate>Sat, 02 Apr 2022 18:07:19 +0100</pubDate>
-      <guid>https://ramet.github.io/blog/pastix-release/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;MPI/PThreads: Minor improvement in communication reactivity&lt;/li&gt;
-&lt;li&gt;Runtime: Fix issue in distributed mode when looping over the factorization with runtime systems&lt;/li&gt;
-&lt;li&gt;MPI/refinement: Fix issue in Frobenius merge in distributed mode&lt;/li&gt;
-&lt;li&gt;MPI/low-rank: Introduce first version of the distributed low-rank solver with PThread schedulers&lt;/li&gt;
-&lt;li&gt;Analyze: Enable generation of distributed simulated traces&lt;/li&gt;
-&lt;li&gt;LR/Schur: Fix issue when using low-rank and Schur functionality that reordered the Schur complement&lt;/li&gt;
-&lt;li&gt;API: Introduce the generator for iparm/dparm/enum to facilitate documentation expansion&lt;/li&gt;
-&lt;li&gt;StarPU/GPU: Begin testing the heteroprio scheduler&lt;/li&gt;
-&lt;li&gt;Debug: Fix compilation of various debug functionalities&lt;/li&gt;
-&lt;li&gt;Doc: Update tutorials&lt;/li&gt;
-&lt;li&gt;SPM: Update I/O functionalities and integrate fix for distributed load/save from SPM&lt;/li&gt;
-&lt;li&gt;CMake: Better prevent in-source compilation&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Build PaStiX with Guix-HPC</title>
       <link>https://ramet.github.io/blog/guix-build/</link>
       <pubDate>Sat, 16 Nov 2019 13:49:56 +0100</pubDate>
