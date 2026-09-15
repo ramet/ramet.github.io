@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solvers | Pierre Ramet</title>
+    <link>https://ramet.github.io/fr/tags/solvers/</link>
+      <atom:link href="https://ramet.github.io/fr/tags/solvers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Solvers</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>fr-fr</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
+      <title>Solvers</title>
+      <link>https://ramet.github.io/fr/tags/solvers/</link>
+    </image>
+    
+    <item>
+      <title>SolverStack</title>
+      <link>https://ramet.github.io/fr/projects/solverstack/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/fr/projects/solverstack/</guid>
+      <description>&lt;h1 id=&#34;solverstackinria-bordeaux&#34;&gt;SolverStack@Inria Bordeaux&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;SolverStack&lt;/strong&gt; aims at providing a coherent, high-performance (HPC) linear algebra solver stack. It provides a comprehensive collection of numerical solvers, partitioning tools, and runtime systems designed for modern supercomputers operating on dense and sparse matrices.&lt;/p&gt;
+&lt;p&gt;The ecosystem includes direct, iterative (Krylov), and hybrid direct/iterative methods, with advanced preconditioners and low-rank compression techniques, ensuring &lt;em&gt;portability of performance&lt;/em&gt; from multicore laptops to petascale and exascale supercomputers.&lt;/p&gt;
+&lt;p&gt;👉 &lt;strong&gt;Official Website:&lt;/strong&gt; 
+&lt;/p&gt;
+&lt;h2 id=&#34;software-ecosystem&#34;&gt;Software Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sparse Direct Methods:&lt;/strong&gt; 
+, 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dense Direct Methods:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sparse Matrix Package:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Iterative &amp;amp; Krylov Methods:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hybrid Direct/Iterative Solvers:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Randomized &amp;amp; Low-Rank Decompositions:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Task-Based Runtime Systems:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Communication Libraries:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Partitioning &amp;amp; Ordering:&lt;/strong&gt; 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;packaging--distribution&#34;&gt;Packaging &amp;amp; Distribution&lt;/h2&gt;
+&lt;p&gt;SolverStack software components are systematically packaged and maintained for high-performance computing environments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Guix-HPC:&lt;/strong&gt; &lt;code&gt;guix install &amp;lt;package&amp;gt;&lt;/code&gt; (
+)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spack:&lt;/strong&gt; &lt;code&gt;spack install &amp;lt;package&amp;gt;&lt;/code&gt; (
+)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Homebrew:&lt;/strong&gt; &lt;code&gt;brew install &amp;lt;package&amp;gt;&lt;/code&gt; (
+)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;partner-teams--institutions&#34;&gt;Partner Teams &amp;amp; Institutions&lt;/h2&gt;
+&lt;p&gt;SolverStack software is developed by researchers and engineers in joint project-teams at &lt;strong&gt;Inria Bordeaux Sud-Ouest&lt;/strong&gt;, &lt;strong&gt;Bordeaux University&lt;/strong&gt;, &lt;strong&gt;CNRS&lt;/strong&gt; (
+), and &lt;strong&gt;Bordeaux INP&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt; 
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Computing | Pierre Ramet</title>
+    <link>https://ramet.github.io/fr/tags/quantum-computing/</link>
+      <atom:link href="https://ramet.github.io/fr/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quantum Computing</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>fr-fr</language><lastBuildDate>Thu, 20 Jun 2024 10:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
+      <title>Quantum Computing</title>
+      <link>https://ramet.github.io/fr/tags/quantum-computing/</link>
+    </image>
+    
+    <item>
+      <title>Initiative HybQuant : Maison du quantique en Nouvelle-Aquitaine</title>
+      <link>https://ramet.github.io/fr/blog/hybquant-initiative/</link>
+      <pubDate>Thu, 20 Jun 2024 10:00:00 +0100</pubDate>
+      <guid>https://ramet.github.io/fr/blog/hybquant-initiative/</guid>
+      <description>&lt;p&gt;Le projet de &lt;strong&gt;Maison du quantique en Nouvelle-Aquitaine (HybQuant)&lt;/strong&gt; a été retenu dans le cadre de l&amp;rsquo;appel national &lt;strong&gt;HQI&lt;/strong&gt; (&lt;em&gt;France Hybrid HPC Quantum Initiative&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Pierre Ramet a participé au montage de cette initiative régionale d&amp;rsquo;envergure et s&amp;rsquo;investit dans l&amp;rsquo;organisation scientifique et technologique du projet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HybQuant&lt;/strong&gt; a pour vocation de :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fédérer les acteurs académiques et industriels régionaux autour de l&amp;rsquo;hybridation entre &lt;strong&gt;calcul haute performance (HPC)&lt;/strong&gt; classique et &lt;strong&gt;calcul quantique&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Développer des passerelles logicielles et algorithmiques permettant d&amp;rsquo;exploiter conjointement les supercalculateurs et les processeurs/émulateurs quantiques (QPU).&lt;/li&gt;
+&lt;li&gt;Former et accompagner la communauté scientifique aux nouveaux paradigmes de programmation et d&amp;rsquo;algèbre linéaire hybride quantique-classique.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sparse | Pierre Ramet</title>
+    <link>https://ramet.github.io/fr/tags/sparse/</link>
+      <atom:link href="https://ramet.github.io/fr/tags/sparse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sparse</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>fr-fr</language><lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
+      <title>Sparse</title>
+      <link>https://ramet.github.io/fr/tags/sparse/</link>
+    </image>
+    
+    <item>
+      <title>PaStiX</title>
+      <link>https://ramet.github.io/fr/projects/pastix/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/fr/projects/pastix/</guid>
+      <description>&lt;h1 id=&#34;pastix-a-sparse-direct-solver&#34;&gt;PaStiX: A sparse direct solver&lt;/h1&gt;
+&lt;p&gt;
+ 
+
+&lt;/p&gt;
+&lt;p&gt;PaStiX (Parallel Sparse matriX package) is a scientific library that provides a
+high-performance parallel solver for very large sparse linear systems based on
+direct methods. Numerical algorithms are implemented in single or double
+precision (real or complex) using LLt, LDLt and LU with static pivoting (for non-symmetric
+matrices having a symmetric pattern).
+This solver also provides low-rank compression methods (BLR and HODLR) to reduce the memory footprint and/or the time-to-solution, as well as mixed-precision arithmetic.&lt;/p&gt;
+&lt;h2 id=&#34;get-pastix&#34;&gt;Get PaStiX&lt;/h2&gt;
+&lt;p&gt;The latest official release is &lt;strong&gt;v6.4.0&lt;/strong&gt; (July 2024). All releases, source tarballs, and changelogs are available on 
+.&lt;/p&gt;
+&lt;p&gt;To use the latest development version of PaStiX, please clone the master
+branch. Note that PaStiX contains git submodules (&lt;strong&gt;spm&lt;/strong&gt; and &lt;strong&gt;morse_cmake&lt;/strong&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Clone with submodules&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone --recursive https://gitlab.inria.fr/solverstack/pastix.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; pastix
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;available-features&#34;&gt;Available Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Features available in shared memory with POSIX threads on multicore architectures:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;&lt;/th&gt;
+					&lt;th&gt;Seq&lt;/th&gt;
+					&lt;th&gt;Static&lt;/th&gt;
+					&lt;th&gt;Dyn&lt;/th&gt;
+					&lt;th&gt;StarPU&lt;/th&gt;
+					&lt;th&gt;PaRSEC&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;POTRF (Cholesky)&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+					&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;PXTRF (LL^t for complex)&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+					&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;HETRF (LDL^h)&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+					&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;SYTRF (LDL^t)&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+					&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;GETRF (LU)&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+					&lt;td&gt;FR/LR/GPU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;TRSM&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;-&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;DIAG&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;FR/LR&lt;/td&gt;
+					&lt;td&gt;-&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Features available in hybrid shared/distributed memory with MPI between processes and POSIX threads within a process:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;&lt;/th&gt;
+					&lt;th&gt;Seq&lt;/th&gt;
+					&lt;th&gt;Static&lt;/th&gt;
+					&lt;th&gt;Dyn&lt;/th&gt;
+					&lt;th&gt;StarPU&lt;/th&gt;
+					&lt;th&gt;PaRSEC&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;POTRF (Cholesky)&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR/GPU&lt;/td&gt;
+					&lt;td&gt;FR/GPU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;PXTRF (LL^t for complex)&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR/GPU&lt;/td&gt;
+					&lt;td&gt;FR/GPU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;HETRF (LDL^h)&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR/GPU&lt;/td&gt;
+					&lt;td&gt;FR/GPU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;SYTRF (LDL^t)&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR/GPU&lt;/td&gt;
+					&lt;td&gt;FR/GPU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;GETRF (LU)&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR/GPU&lt;/td&gt;
+					&lt;td&gt;FR/GPU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;TRSM&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;-&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;DIAG&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;FR&lt;/td&gt;
+					&lt;td&gt;-&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;FR&lt;/strong&gt; means Full-Rank computations without compression techniques.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LR&lt;/strong&gt; means Low-Rank compression technique to reduce the memory footprint and/or the time-to-solution.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;WARNING:&lt;/em&gt; GPU kernels are not available on compressed supernodes.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;WARNING:&lt;/em&gt; Low-rank compression and Schur complement are not yet available with MPI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;The latest Doxygen documentation is available 
+.&lt;/p&gt;
+&lt;p&gt;The 
+ and 
+ of the solver are described. Some 
+ are also provided.&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;h3 id=&#34;build-and-install-with-cmake&#34;&gt;Build and install with CMake&lt;/h3&gt;
+&lt;p&gt;PaStiX can be built using 
+. The build requires several
+library dependencies to be installed on the system:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BLAS (MKL, OpenBLAS, &amp;hellip;) and CBLAS (sequential version required)&lt;/li&gt;
+&lt;li&gt;LAPACK and LAPACKE (sequential version required, with TMG enabled for testing)&lt;/li&gt;
+&lt;li&gt;HWLOC (highly recommended)&lt;/li&gt;
+&lt;li&gt;SCOTCH (optional)&lt;/li&gt;
+&lt;li&gt;METIS (optional)&lt;/li&gt;
+&lt;li&gt;STARPU runtime support (optional)&lt;/li&gt;
+&lt;li&gt;PARSEC runtime support (optional)&lt;/li&gt;
+&lt;li&gt;CUDA/CuBLAS to enable GPU functionality with runtime support (optional)&lt;/li&gt;
+&lt;li&gt;EZTRACE to enable tracing support (optional)&lt;/li&gt;
+&lt;li&gt;Python and Fortran compiler for wrappers and examples (optional)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For instance, on Debian-like systems, dependencies can be installed with the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  sudo apt-get install cmake gcc gfortran libhwloc-dev libscotch-dev libopenblas-dev liblapacke-dev python-numpy
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The main options to configure the PaStiX build are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Standard CMake options:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;CMAKE_BUILD_TYPE&lt;/code&gt;: Debug, RelWithDebInfo, Release, MinSizeRel; we recommend using &lt;code&gt;Release&lt;/code&gt; or &lt;code&gt;RelWithDebInfo&lt;/code&gt; for best performance.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;CMAKE_INSTALL_PREFIX&lt;/code&gt;: Specify the prefix directory to install the library.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;BUILD_SHARED_LIBS=[OFF]&lt;/code&gt;: Enable building shared libraries (required for the Python wrapper).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Integer type:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;PASTIX_INT64[=ON]&lt;/code&gt;: Enable/disable int64_t for integer arrays.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ordering libraries:
+&lt;ul&gt;
+&lt;li&gt;Ordering libraries must match the integer type chosen for integer arrays in PaStiX.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;PASTIX_ORDERING_SCOTCH[=ON]&lt;/code&gt;: Enable/disable Scotch library support for ordering.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;PASTIX_ORDERING_METIS[=OFF]&lt;/code&gt;: Enable/disable Metis library support for ordering (Metis 5.1 required).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;External schedulers:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;PASTIX_WITH_PARSEC[=OFF]&lt;/code&gt;: Enable/disable PaRSEC runtime support. Requires installing PaRSEC tag &lt;code&gt;pastix-&amp;lt;releasenumber&amp;gt;&lt;/code&gt; (&lt;code&gt;mymaster&lt;/code&gt; for master branch) from the repository 
+ that includes patches on top of the original PaRSEC runtime system. PaRSEC needs to be compiled with option &lt;code&gt;-DPARSEC_WITH_DEVEL_HEADERS=ON&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;PASTIX_WITH_STARPU[=OFF]&lt;/code&gt;: Enable/disable StarPU runtime support (requires StarPU 1.3).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Distributed memory:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;PASTIX_WITH_MPI=[OFF]&lt;/code&gt;: Enable/disable distributed memory support (see above for details). If used with the PaRSEC library, MPI should be enabled or disabled consistently in both libraries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;External SpM library:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;PASTIX_WITH_EXTERNAL_SPM=[OFF]&lt;/code&gt;: Enable/disable the use of an external SpM library in favor of the internal one.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Documentation:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;BUILD_DOCUMENTATION[=OFF]&lt;/code&gt;: Enable Doxygen documentation generation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;get-involved&#34;&gt;Get involved&lt;/h2&gt;
+&lt;h3 id=&#34;reporting-an-issue&#34;&gt;Reporting an issue&lt;/h3&gt;
+&lt;p&gt;We strongly recommend all users to use the issue tracker to report any problems with the software, or to submit feature requests. We will do our best to answer them in a timely manner.&lt;/p&gt;
+&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
+&lt;p&gt;The following people contribute or contributed to the development of PaStiX:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mathieu Faverge, PI&lt;/li&gt;
+&lt;li&gt;Pierre Ramet, PI&lt;/li&gt;
+&lt;li&gt;David Goudin&lt;/li&gt;
+&lt;li&gt;Mathias Hastaran&lt;/li&gt;
+&lt;li&gt;Pascal Henon&lt;/li&gt;
+&lt;li&gt;Xavier Lacoste&lt;/li&gt;
+&lt;li&gt;François Pellegrini&lt;/li&gt;
+&lt;li&gt;Grégoire Pichon, Low-rank solver&lt;/li&gt;
+&lt;li&gt;Florent Pruvost, CMake and Spack&lt;/li&gt;
+&lt;li&gt;Theophile Terraz&lt;/li&gt;
+&lt;li&gt;Tony Delarue, MPI implementation&lt;/li&gt;
+&lt;li&gt;Brieuc Nicolas, Mixed precision&lt;/li&gt;
+&lt;li&gt;Alycia Lisito&lt;/li&gt;
+&lt;li&gt;Clément Richefort, Algebraic multigrid and mixed precision&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If we missed your name, please let us know so we can update the list.&lt;/p&gt;
+&lt;h2 id=&#34;citing-pastix&#34;&gt;Citing PaStiX&lt;/h2&gt;
+&lt;p&gt;Feel free to use the following publications to reference PaStiX:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Original paper that initiated PaStiX:
+&lt;ul&gt;
+&lt;li&gt;Pascal Hénon, Pierre Ramet, Jean Roman. PaStiX: A High-Performance Parallel Direct Solver for Sparse Symmetric Definite Systems. Parallel Computing, Elsevier, 2002, 28 (2), pp.301&amp;ndash;321. 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Parallel incomplete factorization implemented in PaStiX:
+&lt;ul&gt;
+&lt;li&gt;Pascal Hénon, Pierre Ramet, Jean Roman. On finding approximate supernodes for an efficient ILU(k) factorization. Parallel Computing, Elsevier, 2008, 34, pp.345&amp;ndash;362. 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Reordering strategy for blocking optimization in PaStiX:
+&lt;ul&gt;
+&lt;li&gt;Grégoire Pichon, Mathieu Faverge, Pierre Ramet, Jean Roman. Reordering Strategy for Blocking Optimization in Sparse Linear Solvers. SIAM Journal on Matrix Analysis and Applications, Society for Industrial and Applied Mathematics, 2017, SIAM Journal on Matrix Analysis and Applications, 38 (1), pp.226 - 248. 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;On the use of low rank approximations in PaStiX:
+&lt;ul&gt;
+&lt;li&gt;Grégoire Pichon, Eric Darve, Mathieu Faverge, Pierre Ramet, Jean Roman. Sparse supernodal solver using block low-rank compression: Design, performance and analysis. International Journal of Computational Science and Engineering, Inderscience, 2018, 27, pp.255 - 270. 
+ 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPM</title>
+      <link>https://ramet.github.io/fr/projects/spm/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/fr/projects/spm/</guid>
+      <description>&lt;h1 id=&#34;spm-sparse-matrix-package&#34;&gt;SPM: SParse Matrix package&lt;/h1&gt;
+&lt;p&gt;
+ 
+
+&lt;/p&gt;
+&lt;p&gt;SPM (SParse Matrix package) is a scientific library that provides
+comprehensive basic routines to manipulate sparse matrices in CSC, CSR,
+and IJV formats.
+The functionalities covered are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sparse matrix -by- dense matrix products&lt;/li&gt;
+&lt;li&gt;Sparse matrix -by- vector products&lt;/li&gt;
+&lt;li&gt;Norm computations&lt;/li&gt;
+&lt;li&gt;Matrix and vector scaling&lt;/li&gt;
+&lt;li&gt;Sort functions&lt;/li&gt;
+&lt;li&gt;Graph symmetrization and merge of duplicate entries&lt;/li&gt;
+&lt;li&gt;Random generators for right-hand sides&lt;/li&gt;
+&lt;li&gt;Verification routines for linear solvers&lt;/li&gt;
+&lt;li&gt;In-place format conversion routines&lt;/li&gt;
+&lt;li&gt;Drivers to read matrices from files (MatrixMarket, Harwell-Boeing/RSA, IJV, &amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Laplacian generators for stencils&lt;/li&gt;
+&lt;li&gt;Multi-DOF and variadic DOF support&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Python, Julia, and Fortran 90 wrappers are included in the package.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Warning&lt;/em&gt;: This package does not currently aim for peak performance,
+but rather provides a portable API and a simple interface to manipulate
+sparse matrices in both shared and distributed memory. This is conceptually
+similar to what was proposed in the 
+
+module for shared memory.&lt;/p&gt;
+&lt;h2 id=&#34;get-spm&#34;&gt;Get SPM&lt;/h2&gt;
+&lt;p&gt;The latest official release is &lt;strong&gt;v1.2.4&lt;/strong&gt; (July 2024). All releases, source tarballs, and changelogs are available on 
+.&lt;/p&gt;
+&lt;p&gt;To use the latest development version of SPM, please clone the master
+branch. Note that SPM contains the &lt;strong&gt;morse_cmake&lt;/strong&gt; &lt;code&gt;git submodule&lt;/code&gt;.
+To obtain the source code, please use the following commands:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Clone with submodules&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone --recursive https://gitlab.inria.fr/solverstack/spm.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; spm
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;The latest Doxygen documentation is available 
+.&lt;/p&gt;
+&lt;p&gt;The main functionalities are listed 
+.&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;h3 id=&#34;build-and-install-with-cmake&#34;&gt;Build and install with CMake&lt;/h3&gt;
+&lt;p&gt;SPM can be built using 
+. The build requires several
+library dependencies to be installed on the system:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BLAS (MKL, OpenBLAS, &amp;hellip;) and CBLAS (sequential version required)&lt;/li&gt;
+&lt;li&gt;LAPACK and LAPACKE&lt;/li&gt;
+&lt;li&gt;Python and Fortran compiler for wrappers and examples (optional)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For instance, on Debian-like systems, dependencies can be installed with the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  sudo apt-get install cmake gcc gfortran libopenblas-dev liblapacke-dev python-numpy
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The main options to configure the SPM build are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Standard CMake options:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;CMAKE_BUILD_TYPE&lt;/code&gt;: Debug, RelWithDebInfo, Release, MinSizeRel; we recommend using &lt;code&gt;Release&lt;/code&gt; or &lt;code&gt;RelWithDebInfo&lt;/code&gt; for best performance.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;CMAKE_INSTALL_PREFIX&lt;/code&gt;: Specify the prefix directory to install the library.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;BUILD_SHARED_LIBS=[OFF]&lt;/code&gt;: Enable building shared libraries (required for the Python wrapper).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Integer type:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;SPM_INT64[=ON]&lt;/code&gt;: Enable/disable int64_t for integer arrays.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Documentation:
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;BUILD_DOCUMENTATION[=OFF]&lt;/code&gt;: Enable Doxygen documentation generation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;get-involved&#34;&gt;Get involved!&lt;/h2&gt;
+&lt;h3 id=&#34;reporting-an-issue&#34;&gt;Reporting an issue&lt;/h3&gt;
+&lt;p&gt;We strongly recommend all users to use the issue tracker to report any
+problems with the software, or to submit feature requests. We will do
+our best to answer them in a timely manner.&lt;/p&gt;
+&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
+&lt;p&gt;The following people contribute or contributed to the development of SPM:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mathieu Faverge&lt;/li&gt;
+&lt;li&gt;Matthieu Kuhn&lt;/li&gt;
+&lt;li&gt;Xavier Lacoste&lt;/li&gt;
+&lt;li&gt;Selmane Lebdaoui&lt;/li&gt;
+&lt;li&gt;Grégoire Pichon&lt;/li&gt;
+&lt;li&gt;Florent Pruvost&lt;/li&gt;
+&lt;li&gt;Pierre Ramet&lt;/li&gt;
+&lt;li&gt;Theophile Terraz&lt;/li&gt;
+&lt;li&gt;Tony Delarue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If we missed your name, please let us know so we can update the list.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
