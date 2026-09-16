@@ -5,12 +5,21 @@
     <link>https://ramet.github.io/publication_types/article-journal/</link>
       <atom:link href="https://ramet.github.io/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
       <title>Article-Journal</title>
       <link>https://ramet.github.io/publication_types/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Toward an Algebraic Multigrid Method for the Indefinite Helmholtz Equation</title>
+      <link>https://ramet.github.io/publications/falgout-cea-05240268/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/falgout-cea-05240268/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The JOREK non-linear extended MHD code and applications to large-scale instabilities and their control in magnetically confined fusion plasmas</title>

@@ -5,12 +5,57 @@
     <link>https://ramet.github.io/publications/</link>
       <atom:link href="https://ramet.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
       <title>Publications</title>
       <link>https://ramet.github.io/publications/</link>
     </image>
+    
+    <item>
+      <title>Algebraic hierarchical partitioning to improve H-matrix compression</title>
+      <link>https://ramet.github.io/publications/walther-hal-05411444/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/walther-hal-05411444/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toward an Algebraic Multigrid Method for the Indefinite Helmholtz Equation</title>
+      <link>https://ramet.github.io/publications/falgout-cea-05240268/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/falgout-cea-05240268/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Batching the tasks of the LU factorization with partial pivoting on top of runtime systems</title>
+      <link>https://ramet.github.io/publications/lisito-hal-05148627/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/lisito-hal-05148627/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Partitionnement hiérarchique pour la simulation électromagnétique d&#39;objets 3D complexes</title>
+      <link>https://ramet.github.io/publications/walther-cea-05132586/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/walther-cea-05132586/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scalable and portable LU factorization with partial pivoting on top of runtime systems</title>
+      <link>https://ramet.github.io/publications/lisito-hal-04984070/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/lisito-hal-04984070/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Scalable and Portable LU Factorization with Partial Pivoting on top of Runtime Systems</title>

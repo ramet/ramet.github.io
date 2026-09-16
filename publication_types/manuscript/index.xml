@@ -5,12 +5,21 @@
     <link>https://ramet.github.io/publication_types/manuscript/</link>
       <atom:link href="https://ramet.github.io/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuscript</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
       <title>Manuscript</title>
       <link>https://ramet.github.io/publication_types/manuscript/</link>
     </image>
+    
+    <item>
+      <title>Partitionnement hiérarchique pour la simulation électromagnétique d&#39;objets 3D complexes</title>
+      <link>https://ramet.github.io/publications/walther-cea-05132586/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/walther-cea-05132586/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Scalable and Portable LU Factorization with Partial Pivoting on top of Runtime Systems</title>

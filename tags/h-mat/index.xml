@@ -5,12 +5,30 @@
     <link>https://ramet.github.io/tags/h-mat/</link>
       <atom:link href="https://ramet.github.io/tags/h-mat/index.xml" rel="self" type="application/rss+xml" />
     <description>H-Mat</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
       <title>H-Mat</title>
       <link>https://ramet.github.io/tags/h-mat/</link>
     </image>
+    
+    <item>
+      <title>Algebraic hierarchical partitioning to improve H-matrix compression</title>
+      <link>https://ramet.github.io/publications/walther-hal-05411444/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/walther-hal-05411444/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Partitionnement hiérarchique pour la simulation électromagnétique d&#39;objets 3D complexes</title>
+      <link>https://ramet.github.io/publications/walther-cea-05132586/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/walther-cea-05132586/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A hierarchical fast direct solver for distributed memory machines with manycore nodes</title>

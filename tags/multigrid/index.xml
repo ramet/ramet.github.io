@@ -5,12 +5,21 @@
     <link>https://ramet.github.io/tags/multigrid/</link>
       <atom:link href="https://ramet.github.io/tags/multigrid/index.xml" rel="self" type="application/rss+xml" />
     <description>Multigrid</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 14:00:00 +0100</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ramet.github.io/media/icon_hu_731727514bcb35a2.png</url>
       <title>Multigrid</title>
       <link>https://ramet.github.io/tags/multigrid/</link>
     </image>
+    
+    <item>
+      <title>Toward an Algebraic Multigrid Method for the Indefinite Helmholtz Equation</title>
+      <link>https://ramet.github.io/publications/falgout-cea-05240268/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ramet.github.io/publications/falgout-cea-05240268/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Soutenance de thèse : Clément Richefort</title>
