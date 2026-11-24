@@ -30,7 +30,15 @@
       href="https://ramet.github.io/publication_types/"
     /></url>
   <url>
-    <loc>https://ramet.github.io/publications/</loc><lastmod>2026-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ramet.github.io/publications/</loc><lastmod>2026-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ramet.github.io/fr/publications/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ramet.github.io/publications/"
+    /></url>
   <url>
     <loc>https://ramet.github.io/tags/</loc><lastmod>2026-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -295,8 +303,6 @@
     <loc>https://ramet.github.io/publications/falgout-cea-04620993/</loc><lastmod>2024-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/publications/lisito-hal-04527103/</loc><lastmod>2024-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramet.github.io/experience/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/publications/lisito-hal-04589448/</loc><lastmod>2023-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -750,6 +756,4 @@
   <url>
     <loc>https://ramet.github.io/publications/c-la-bri-pr-2/</loc><lastmod>1996-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ramet.github.io/publications/c-la-bri-pr-1/</loc><lastmod>1996-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ramet.github.io/hal/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://ramet.github.io/publications/c-la-bri-pr-1/</loc><lastmod>1996-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>

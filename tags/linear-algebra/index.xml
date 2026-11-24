@@ -181,35 +181,35 @@
     </item>
     
     <item>
-      <title>Participation au projet européen EuroHPC DARE</title>
+      <title>Participation in the European EuroHPC DARE Project</title>
       <link>https://ramet.github.io/blog/dare-project/</link>
       <pubDate>Wed, 15 Jan 2025 09:00:00 +0100</pubDate>
       <guid>https://ramet.github.io/blog/dare-project/</guid>
-      <description>&lt;p&gt;Participation au projet européen &lt;strong&gt;DARE&lt;/strong&gt; (&lt;em&gt;HPC Digital Autonomy with RISC-V in Europe&lt;/em&gt;), sélectionné dans le cadre de l&amp;rsquo;entreprise commune &lt;strong&gt;EuroHPC JU&lt;/strong&gt; (&lt;em&gt;Joint Undertaking&lt;/em&gt;).&lt;/p&gt;
-&lt;p&gt;Ce projet vise à renforcer l&amp;rsquo;autonomie stratégique et technologique de l&amp;rsquo;Europe dans le calcul haute performance (HPC) en concevant et optimisant des environnements logiciels et algorithmiques adaptés aux processeurs européens basés sur le jeu d&amp;rsquo;instructions ouvert &lt;strong&gt;RISC-V&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Dans le cadre de ce projet, les travaux menés portent notamment sur :&lt;/p&gt;
+      <description>&lt;p&gt;Participation in the European &lt;strong&gt;DARE&lt;/strong&gt; project (&lt;em&gt;HPC Digital Autonomy with RISC-V in Europe&lt;/em&gt;), selected under the &lt;strong&gt;EuroHPC JU&lt;/strong&gt; (&lt;em&gt;Joint Undertaking&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;This project aims to strengthen Europe&amp;rsquo;s strategic and technological autonomy in high-performance computing (HPC) by designing and optimizing software stacks and numerical algorithms tailored to European processors based on the open &lt;strong&gt;RISC-V&lt;/strong&gt; instruction set architecture.&lt;/p&gt;
+&lt;p&gt;Within this project, our work focuses in particular on:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Le développement et l&amp;rsquo;optimisation de bibliothèques et d&amp;rsquo;algorithmes parallèles d&amp;rsquo;&lt;strong&gt;algèbre linéaire creuse&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;L&amp;rsquo;adaptation des noyaux de calcul et des méthodes de factorisation directe/hybride aux architectures accélérées et vectorielles RISC-V.&lt;/li&gt;
-&lt;li&gt;L&amp;rsquo;évaluation des performances à l&amp;rsquo;échelle exaflopique en collaboration avec les partenaires académiques et industriels européens.&lt;/li&gt;
+&lt;li&gt;Developing and optimizing parallel &lt;strong&gt;sparse linear algebra&lt;/strong&gt; libraries and algorithms.&lt;/li&gt;
+&lt;li&gt;Adapting computational kernels and direct/hybrid factorization methods to accelerated and vector RISC-V architectures.&lt;/li&gt;
+&lt;li&gt;Evaluating performance at exascale in collaboration with European academic and industrial partners.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Soutenance de thèse : Clément Richefort</title>
+      <title>PhD Defense: Clément Richefort</title>
       <link>https://ramet.github.io/blog/phd-defense-richefort/</link>
       <pubDate>Thu, 28 Nov 2024 14:00:00 +0100</pubDate>
       <guid>https://ramet.github.io/blog/phd-defense-richefort/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Clément Richefort&lt;/strong&gt; a soutenu sa thèse de doctorat en informatique le 28 novembre 2024 à l&amp;rsquo;Université de Bordeaux (LaBRI).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Clément Richefort&lt;/strong&gt; successfully defended his PhD thesis in Computer Science on November 28, 2024, at Bordeaux University (LaBRI).&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Titre :&lt;/strong&gt; &lt;em&gt;Development of an algebraic multigrid solver for the indefinite Helmholtz equation&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Direction :&lt;/strong&gt; Pierre Ramet (directeur de thèse, encadrement 100%)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Financement :&lt;/strong&gt; Bourse CEA&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Établissement :&lt;/strong&gt; Université de Bordeaux / LaBRI&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Title:&lt;/strong&gt; &lt;em&gt;Development of an algebraic multigrid solver for the indefinite Helmholtz equation&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Pierre Ramet (PhD advisor, 100% supervision)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Funding:&lt;/strong&gt; CEA grant&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Bordeaux University / LaBRI&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Ses recherches ont porté sur la conception et l&amp;rsquo;évaluation de méthodes multigrilles algébriques (AMG) adaptées à l&amp;rsquo;équation de Helmholtz indéfinie, ainsi que sur l&amp;rsquo;apport de l&amp;rsquo;arithmétique en précision mixte pour accélérer la résolution de grands systèmes linéaires creux issus de la simulation numérique.&lt;/p&gt;
-&lt;p&gt;Clément Richefort est actuellement chercheur post-doctorant au &lt;strong&gt;Jülich Supercomputing Centre&lt;/strong&gt; (JSC, Allemagne).&lt;/p&gt;
+&lt;p&gt;His research focused on designing and evaluating algebraic multigrid (AMG) methods tailored to the indefinite Helmholtz equation, as well as leveraging mixed-precision arithmetic to accelerate the solution of large sparse linear systems arising from numerical simulations.&lt;/p&gt;
+&lt;p&gt;Clément Richefort is currently a Postdoctoral Researcher at the &lt;strong&gt;Jülich Supercomputing Centre&lt;/strong&gt; (JSC, Germany).&lt;/p&gt;
 </description>
     </item>
     
@@ -415,7 +415,7 @@ library dependencies to be installed on the system:&lt;/p&gt;
 &lt;li&gt;Python and Fortran compiler for wrappers and examples (optional)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;For instance, on Debian-like systems, dependencies can be installed with the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  sudo apt-get install cmake gcc gfortran libhwloc-dev libscotch-dev libopenblas-dev liblapacke-dev python-numpy
+&lt;pre&gt;&lt;code&gt;  sudo apt-get install cmake gcc gfortran libhwloc-dev libscotch-dev libopenblas-dev liblapacke-dev python3-numpy
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;The main options to configure the PaStiX build are:&lt;/p&gt;
 &lt;ul&gt;
@@ -503,13 +503,13 @@ library dependencies to be installed on the system:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;Reordering strategy for blocking optimization in PaStiX:
 &lt;ul&gt;
-&lt;li&gt;Grégoire Pichon, Mathieu Faverge, Pierre Ramet, Jean Roman. Reordering Strategy for Blocking Optimization in Sparse Linear Solvers. SIAM Journal on Matrix Analysis and Applications, Society for Industrial and Applied Mathematics, 2017, SIAM Journal on Matrix Analysis and Applications, 38 (1), pp.226 - 248. 
+&lt;li&gt;Grégoire Pichon, Mathieu Faverge, Pierre Ramet, Jean Roman. Reordering Strategy for Blocking Optimization in Sparse Linear Solvers. SIAM Journal on Matrix Analysis and Applications, Society for Industrial and Applied Mathematics, 2017, 38 (1), pp.226&amp;ndash;248. 
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;On the use of low rank approximations in PaStiX:
 &lt;ul&gt;
-&lt;li&gt;Grégoire Pichon, Eric Darve, Mathieu Faverge, Pierre Ramet, Jean Roman. Sparse supernodal solver using block low-rank compression: Design, performance and analysis. International Journal of Computational Science and Engineering, Inderscience, 2018, 27, pp.255 - 270. 
+&lt;li&gt;Grégoire Pichon, Eric Darve, Mathieu Faverge, Pierre Ramet, Jean Roman. Sparse supernodal solver using block low-rank compression: Design, performance and analysis. Journal of Computational Science, Elsevier, 2018, 27, pp.255&amp;ndash;270. 
  
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -581,7 +581,7 @@ library dependencies to be installed on the system:&lt;/p&gt;
 &lt;li&gt;Python and Fortran compiler for wrappers and examples (optional)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;For instance, on Debian-like systems, dependencies can be installed with the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  sudo apt-get install cmake gcc gfortran libopenblas-dev liblapacke-dev python-numpy
+&lt;pre&gt;&lt;code&gt;  sudo apt-get install cmake gcc gfortran libopenblas-dev liblapacke-dev python3-numpy
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;The main options to configure the SPM build are:&lt;/p&gt;
 &lt;ul&gt;

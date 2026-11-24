@@ -54,16 +54,6 @@
       href="https://ramet.github.io/fr/tags/linear-algebra/"
     /></url>
   <url>
-    <loc>https://ramet.github.io/fr/projects/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://ramet.github.io/projects/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://ramet.github.io/fr/projects/"
-    /></url>
-  <url>
     <loc>https://ramet.github.io/fr/tags/solverstack/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -104,8 +94,6 @@
       href="https://ramet.github.io/fr/projects/solverstack/"
     /></url>
   <url>
-    <loc>https://ramet.github.io/fr/authors/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ramet.github.io/fr/blog/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -115,6 +103,8 @@
       hreflang="fr"
       href="https://ramet.github.io/fr/blog/"
     /></url>
+  <url>
+    <loc>https://ramet.github.io/fr/authors/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ramet.github.io/fr/tags/eurohpc/</loc><lastmod>2025-01-15T09:00:00+01:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -258,6 +248,16 @@
       href="https://ramet.github.io/fr/tags/quantum-computing/"
     /></url>
   <url>
+    <loc>https://ramet.github.io/fr/projects/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ramet.github.io/projects/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ramet.github.io/fr/projects/"
+    /></url>
+  <url>
     <loc>https://ramet.github.io/fr/blog/guix-build/</loc><lastmod>2019-11-16T13:49:56+01:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -286,4 +286,14 @@
       rel="alternate"
       hreflang="fr"
       href="https://ramet.github.io/fr/publication_types/"
+    /></url>
+  <url>
+    <loc>https://ramet.github.io/fr/publications/</loc><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ramet.github.io/publications/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://ramet.github.io/fr/publications/"
     /></url></urlset>
